@@ -25,3 +25,6 @@ Have other ideas? I'd love to hear what you do with this. [Let me know.](https:/
 
 Yes, one: This only includes subreddits that are *not marked NSFW*. This is related to my particular use case, in which NSFW subreddits aren't useful for me. They'd be relatively easy to scrape if you're interested, you'll just need to get the list of NSFW subreddits from http://www.reddit.com/reddits. 
 
+RESEARCH QUESTION
+How is corporate media reflected on social media?  How do world events published
+in mainstream media reflect sentiment of social media posts?
