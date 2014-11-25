@@ -11,10 +11,11 @@ Each file is a CSV with the related subreddit as its filename. Each CSV file con
 [A good example of the structure of this data is here.](https://github.com/umbrae/reddit-top-2.5-million/blob/master/data/serendipity.csv)
 
 
-RESEARCH QUESTION
+### RESEARCH QUESTION
 How is corporate media reflected on social media?  How do world events published
 in mainstream media reflect sentiment of social media posts?
 
+### NLP
 For NLP We will be using nltk.  Install with pip:
 sudo pip install -U nltk
 
