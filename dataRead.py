@@ -1,14 +1,18 @@
 import csv
-csvToArr = []
-count = 0
-current = str
-with open('data/911truth.csv') as csvfile:
-	reader = csv.DictReader(csvfile)
-	for row in reader:
-		current = row['title']
-		if current.find("CIA") != -1:
-			count=count+1
-		print(current)
-		csvToArr.append(row['title'])
+import nltk
+from nltk.book import *
 
-print count
+words = []
+
+for t in csv.DictReader(open('data/911truth.csv'), delimiter=','):
+    words.extend(t['title'].lower().split()) # <-----------
+
+
+csv_text = nltk.Text(words)
+z = str(csv_text)
+s = unicode(z, "utf-8")
+s.concordance('america')
+
+print csv_text.count('government')
+
+
