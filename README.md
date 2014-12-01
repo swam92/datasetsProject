@@ -21,3 +21,18 @@ sudo pip install -U nltk
 
 ### Where we got the data from
 https://github.com/umbrae/reddit-top-2.5-million
+
+### News articles
+
+####Newtown school shooting
+http://www.endmemo.com/events/evt/2012gunmanassaults.php
+
+####NSA Prism program leaked
+http://www.endmemo.com/events/evt/2013usnsa.php
+
+####Boston marathon bombed
+http://www.endmemo.com/events/evt/2013bostonmarathon.php
+
+####Facebook IPO
+http://www.endmemo.com/events/evt/2012facebookipo.php
+
