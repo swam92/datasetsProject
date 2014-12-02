@@ -1,18 +1,27 @@
 import csv
 import nltk
-from nltk.book import *
 
 words = []
 
+#######################
+#put titles from csv file into array 
+#######################
 for t in csv.DictReader(open('data/911truth.csv'), delimiter=','):
     words.extend(t['title'].lower().split()) # <-----------
 
-
 csv_text = nltk.Text(words)
-z = str(csv_text)
-s = unicode(z, "utf-8")
-s.concordance('america')
-
+#put any word here.  counts occureneces in text
 print csv_text.count('government')
 
 
+#######################
+#put titles into one giant string
+#######################
+totalStr = ""
+with open('data/TheWire.csv', 'rb') as csvfile:
+	reader = csv.DictReader(csvfile)
+	for row in reader:
+		tempStr = str(row['title'])
+		totalStr = totalStr + " " + tempStr
+
+print totalStr
