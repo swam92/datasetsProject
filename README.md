@@ -36,3 +36,5 @@ http://www.endmemo.com/events/evt/2013bostonmarathon.php
 ####Facebook IPO
 http://www.endmemo.com/events/evt/2012facebookipo.php
 
+We have 3 news articles from NYT, Fox, and CNN for each event.  These are stored as text files under /articles. 
+
