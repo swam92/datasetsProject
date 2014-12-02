@@ -40,12 +40,12 @@ We have 3 news articles from NYT, Fox, and CNN for each event.  These are stored
 
 
 ####Things TODO
-1) Create and train a Bayesian filter.  Afterwards, we can select of posts using the query and analyze the sentiment on these posts.  
-2) Run news articles from the three sources through the bayesian filter.
-3) compare sentiment between the three news source.
-4) Check sentiment of posts a week before the event and a week after the event.
-5) For each event, find which news source sentiment the average post sentiment aligns with.  
-6) Parts of speech.  Aggregate parts of speech for news articles, posts.  See if certain types of events correspond with increased/decreased usage in certain parts of speech.
-7) See if parts of speech used in news articles correspond with parts of speech used in posts about those news articles.
+*1) Create and train a Bayesian filter.  Afterwards, we can select of posts using the query and analyze the sentiment on these posts.  
+*2) Run news articles from the three sources through the bayesian filter.
+*3) compare sentiment between the three news source.
+*4) Check sentiment of posts a week before the event and a week after the event.
+*5) For each event, find which news source sentiment the average post sentiment aligns with.  
+*6) Parts of speech.  Aggregate parts of speech for news articles, posts.  See if certain types of events correspond with increased/decreased usage in certain parts of speech.
+*7) See if parts of speech used in news articles correspond with parts of speech used in posts about those news articles.
 
 
