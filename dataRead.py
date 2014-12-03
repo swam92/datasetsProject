@@ -1,6 +1,8 @@
 import csv
 import nltk
 from nltk.tokenize import word_tokenize
+from textblob import TextBlob
+from textblob.classifiers import NaiveBayesClassifier
 import pprint
 
 words = []
@@ -27,9 +29,12 @@ with open('data/TheWire.csv', 'rb') as csvfile:
 	for row in reader:
 		tempStr = str(row['title'])
 		totalStr = totalStr + " " + tempStr
+        words_red.append(row['title'])
 
 print totalStr
 
+word1 = []
+word1 = words_red[:50]
 
 #############################
 #Determines part of speech for every word in the text! Below is the dictionary.
@@ -70,12 +75,16 @@ def main():
 	l.sort(lambda x,y:cmp(x[1],y[1]))
 	pprint.pprint(l)
 
+
+test = TextBlob("This is so cool")
+print test.sentiment
+
 if __name__ == '__main__':
     main()
 
 
-
 #train = [('attack','neg'),('terrorist','neg'),('gun','neg'), ('innovate','pos')]
+#cl = NaiveBayesClassifier(train)
 
-#classifier = nltk.NaiveBayesClassifier.train(words)
-#classifier.show_most_informative_features()
+#print cl.classify("I love dolphins so much!")
+#print cl.accuracy("I love dolphins so much!")

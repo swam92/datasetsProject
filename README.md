@@ -54,6 +54,8 @@ We have 3 news articles from NYT, Fox, and CNN for each event.  These are stored
 * https://pypi.python.org/pypi/textblob
 * https://textblob.readthedocs.org/en/dev/quickstart.html#sentiment-analysis
 * http://textblob.readthedocs.org/en/latest/advanced_usage.html
+* http://scikit-learn.org/stable/user_guide.html
+* http://scikit-learn.org/stable/install.html
 
 #####Hypothesis
 * Foreseen events such as the facebook IPO will show less disparity between sentiment before and after the event.  What we predict is that random events like the Newton massacre will show a huge disparity between before/after the event.
