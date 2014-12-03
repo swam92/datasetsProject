@@ -55,5 +55,15 @@ We have 3 news articles from NYT, Fox, and CNN for each event.  These are stored
 * https://textblob.readthedocs.org/en/dev/quickstart.html#sentiment-analysis
 * http://textblob.readthedocs.org/en/latest/advanced_usage.html
 
+#####Hypothesis
+* Foreseen events such as the facebook IPO will show less disparity between sentiment before and after the event.  What we predict is that random events like the Newton massacre will show a huge disparity between before/after the event.
+
+* High profile traumatic news events might inititally decrease subjectivity but weeks after, when the event degenerates to a commentary about gun laws or something like that, will increase subjectivity.  Also, polarity will probably be negative following the events because of the impact people feel from the events.
+
+* News articles will fit into the densest cluster of sentiment.  They will not represent extreme opinion but rather a more neutral ideology.
+
+* Different news sources will maintain different average sentiments.  This may be based on political leaning.
+
+
 
 
