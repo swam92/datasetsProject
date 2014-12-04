@@ -3,6 +3,7 @@ import nltk
 from nltk.tokenize import word_tokenize
 from textblob import TextBlob
 from textblob.classifiers import NaiveBayesClassifier
+from textblob.sentiments import NaiveBayesAnalyzer
 import pprint
 
 words = []
@@ -10,10 +11,40 @@ words_red = []
 #######################
 #put titles from csv file into array 
 #######################
+
+polar=0
+subj=0
+count=0
+pos=0
+neg=0
+countForSentiment=0
 for t in csv.DictReader(open('data/911truth.csv'), delimiter=','):
+    if count == 2:
+        break
+    print count
+    count=count+1
+    into = str(t['title'])
+    into = into.decode('utf-8')
+    blob = TextBlob(into, analyzer = NaiveBayesAnalyzer())
+    print blob.sentiment
+    pos = pos + blob.sentiment.p_pos
+    neg = neg + blob.sentiment.p_neg
+    test = TextBlob(into)
+    if(test.sentiment.polarity != 0 or test.sentiment.subjectivity !=0 ):
+        polar = polar + test.sentiment.polarity
+        subj  = subj + test.sentiment.subjectivity
+        countForSentiment = countForSentiment+1
+    print '\n'
     words.extend(t['title'].lower().split()) # <-----------
 
-#words_red = words[len(words)-800]
+
+print '\n'
+polarTotal = polar / countForSentiment
+subjTotal = subj / countForSentiment
+negTotal = neg / count
+posTotal = pos / count
+
+print polarTotal, subjTotal, negTotal, posTotal
 
 csv_text = nltk.Text(words)
 #put any word here.  counts occureneces in text
@@ -30,8 +61,8 @@ with open('data/TheWire.csv', 'rb') as csvfile:
 		tempStr = str(row['title'])
 		totalStr = totalStr + " " + tempStr
         words_red.append(row['title'])
+        print row['title']
 
-print totalStr
 
 word1 = []
 word1 = words_red[:50]
@@ -59,21 +90,33 @@ def init_nltk():
     tagger = nltk.UnigramTagger(nltk.corpus.brown.tagged_sents())
 
 def tag(text):
+    pnTagger = 0
+    wordCount = 0
     global tokenizer
     global tagger
     if not tokenizer:
         init_nltk()
     tokenized = tokenizer.tokenize(text)
     tagged = tagger.tag(tokenized)
+    for word, tag in tagger.tag(tokenized):
+        wordCount = wordCount + 1
+        if(tag == 'NP'):
+            pnTagger = pnTagger + 1
+            print(word, '->', tag)
+
     tagged.sort(lambda x,y:cmp(x[1],y[1]))
+    print pnTagger, '\n'
+    print wordCount
+
     return tagged
+
 
 def main():
 	text = totalStr
 	tagged = tag(text)    
 	l = list(set(tagged))
 	l.sort(lambda x,y:cmp(x[1],y[1]))
-	pprint.pprint(l)
+	#pprint.pprint(l)
 
 
 test = TextBlob("This is so cool")
@@ -83,8 +126,4 @@ if __name__ == '__main__':
     main()
 
 
-#train = [('attack','neg'),('terrorist','neg'),('gun','neg'), ('innovate','pos')]
-#cl = NaiveBayesClassifier(train)
 
-#print cl.classify("I love dolphins so much!")
-#print cl.accuracy("I love dolphins so much!")
