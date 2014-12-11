@@ -19,6 +19,10 @@ in mainstream media reflect sentiment of social media posts?
 For NLP We will be using nltk.  Install with pip:
 sudo pip install -U nltk
 
+### SCI KIT LEARN
+Install with pip:
+pip install -U scikit-learn
+
 ### Where we got the data from
 https://github.com/umbrae/reddit-top-2.5-million
 
