@@ -1,0 +1,52 @@
+DoesAnybodyElse.csv
+0
+Sentiment(classification='neg', p_pos=0.40817127659971458, p_neg=0.59182872340028569)
+
+
+1
+Sentiment(classification='neg', p_pos=0.099206019269231907, p_neg=0.90079398073076844)
+
+
+
+
+0.5 0.6 0.746311352066 0.253688647934
+0
+DAE compare the speed of your indicators to the car in front of you at the lights?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Coke', '->', u'NP')
+('Lewis', '->', u'NP')
+('Clark', '->', u'NP')
+('April', '->', u'NP')
+('E', '->', u'NP')
+('T', '->', u'NP')
+('Huck', '->', u'NP')
+('Finn', '->', u'NP')
+('Ken', '->', u'NP')
+('Jennings', '->', u'NP')
+('Alex', '->', u'NP')
+('Rose', '->', u'NP')
+('T', '->', u'NP')
+('L', '->', u'NP')
+('Miss', '->', u'NP')
+('T', '->', u'NP')
+('E', '->', u'NP')
+('Smith', '->', u'NP')
+('Jeff', '->', u'NP')
+('Mubarak', '->', u'NP')
+('Tyler', '->', u'NP')
+('Perry', '->', u'NP')
+('Jimmy', '->', u'NP')
+('America', '->', u'NP')
+('Jesus', '->', u'NP')
+('Christ', '->', u'NP')
+('God', '->', u'NP')
+('Mario', '->', u'NP')
+('January', '->', u'NP')
+('America', '->', u'NP')
+('July', '->', u'NP')
+('Max', '->', u'NP')
+('Guy', '->', u'NP')
+('Greg', '->', u'NP')
+34 
+
+18179

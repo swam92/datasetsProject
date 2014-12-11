@@ -1,0 +1,11 @@
+mflb.csv
+0
+Sentiment(classification='pos', p_pos=0.54344133523660487, p_neg=0.45655866476339502)
+
+
+1
+Sentiment(classification='neg', p_pos=0.3950468082505012, p_neg=0.6049531917494988)
+
+
+
+

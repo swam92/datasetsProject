@@ -1,0 +1,69 @@
+SQL.csv
+0
+Sentiment(classification='pos', p_pos=0.99270697447411571, p_neg=0.0072930255258839092)
+
+
+1
+Sentiment(classification='pos', p_pos=0.72201576146536162, p_neg=0.27798423853463855)
+
+
+
+
+0.4 0.8 0.14263863203 0.85736136797
+0
+First time with a query this complex - any help appreciated
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Beck', '->', u'NP')
+('T', '->', u'NP')
+('Job', '->', u'NP')
+('Job', '->', u'NP')
+('Job', '->', u'NP')
+('T', '->', u'NP')
+('Pretty', '->', u'NP')
+('Lewis', '->', u'NP')
+('Grant', '->', u'NP')
+('T', '->', u'NP')
+('T', '->', u'NP')
+('T', '->', u'NP')
+('T', '->', u'NP')
+('Case', '->', u'NP')
+('Key', '->', u'NP')
+('Mac', '->', u'NP')
+('Case', '->', u'NP')
+('Self', '->', u'NP')
+('Case', '->', u'NP')
+('Max', '->', u'NP')
+('Case', '->', u'NP')
+('N', '->', u'NP')
+('Case', '->', u'NP')
+('Self', '->', u'NP')
+('Keys', '->', u'NP')
+('Keys', '->', u'NP')
+('T', '->', u'NP')
+('T', '->', u'NP')
+('AMA', '->', u'NP')
+('Julian', '->', u'NP')
+('Key', '->', u'NP')
+('B', '->', u'NP')
+('B', '->', u'NP')
+('Reilly', '->', u'NP')
+('Portland', '->', u'NP')
+('November', '->', u'NP')
+('T', '->', u'NP')
+('Java', '->', u'NP')
+('T', '->', u'NP')
+('Java', '->', u'NP')
+('Self', '->', u'NP')
+('Max', '->', u'NP')
+('Case', '->', u'NP')
+('Player', '->', u'NP')
+('T', '->', u'NP')
+('Low', '->', u'NP')
+('Hudson', '->', u'NP')
+('T', '->', u'NP')
+('Key', '->', u'NP')
+('T', '->', u'NP')
+('T', '->', u'NP')
+51 
+
+11586

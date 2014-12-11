@@ -1,0 +1,11 @@
+Entomology.csv
+0
+Sentiment(classification='pos', p_pos=0.84287737180212308, p_neg=0.15712262819787809)
+
+
+1
+Sentiment(classification='neg', p_pos=0.29752913430178285, p_neg=0.70247086569821526)
+
+
+
+

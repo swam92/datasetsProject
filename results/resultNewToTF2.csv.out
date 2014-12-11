@@ -1,0 +1,83 @@
+NewToTF2.csv
+0
+Sentiment(classification='neg', p_pos=0.41087595426223028, p_neg=0.58912404573777011)
+
+
+1
+Sentiment(classification='pos', p_pos=0.54240142638885602, p_neg=0.45759857361114326)
+
+
+
+
+0.5 0.5 0.523361309674 0.476638690326
+0
+Noob Classes?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Bird', '->', u'NP')
+('Plane', '->', u'NP')
+('Don', '->', u'NP')
+('Don', '->', u'NP')
+('Don', '->', u'NP')
+('Rush', '->', u'NP')
+('Don', '->', u'NP')
+('AMA', '->', u'NP')
+('Halloween', '->', u'NP')
+('Bible', '->', u'NP')
+('Key', '->', u'NP')
+('U', '->', u'NP')
+('Key', '->', u'NP')
+('AMA', '->', u'NP')
+('AMA', '->', u'NP')
+('Worth', '->', u'NP')
+('April', '->', u'NP')
+('Halloween', '->', u'NP')
+('AMA', '->', u'NP')
+('Friend', '->', u'NP')
+('Friend', '->', u'NP')
+('W', '->', u'NP')
+('Gun', '->', u'NP')
+('Mann', '->', u'NP')
+('Heard', '->', u'NP')
+('July', '->', u'NP')
+('Robin', '->', u'NP')
+('Mann', '->', u'NP')
+('Mann', '->', u'NP')
+('Mac', '->', u'NP')
+('Flick', '->', u'NP')
+('Friend', '->', u'NP')
+('Player', '->', u'NP')
+('Christmas', '->', u'NP')
+('Key', '->', u'NP')
+('Mann', '->', u'NP')
+('Friend', '->', u'NP')
+('Pretty', '->', u'NP')
+('AMA', '->', u'NP')
+('W', '->', u'NP')
+('Gun', '->', u'NP')
+('Mann', '->', u'NP')
+('Mann', '->', u'NP')
+('Gun', '->', u'NP')
+('Mann', '->', u'NP')
+('Halloween', '->', u'NP')
+('Boston', '->', u'NP')
+('Sharp', '->', u'NP')
+('Mann', '->', u'NP')
+('Guy', '->', u'NP')
+('Max', '->', u'NP')
+('Black', '->', u'NP')
+('Mann', '->', u'NP')
+('Friend', '->', u'NP')
+('Friend', '->', u'NP')
+('Friend', '->', u'NP')
+('Mann', '->', u'NP')
+('Friend', '->', u'NP')
+('Gun', '->', u'NP')
+('Beta', '->', u'NP')
+('Saxton', '->', u'NP')
+('Hale', '->', u'NP')
+('W', '->', u'NP')
+('Bill', '->', u'NP')
+('Beta', '->', u'NP')
+65 
+
+11843

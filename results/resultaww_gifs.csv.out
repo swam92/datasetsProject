@@ -1,0 +1,42 @@
+aww_gifs.csv
+0
+Sentiment(classification='neg', p_pos=0.34823786249403643, p_neg=0.65176213750596401)
+
+
+1
+Sentiment(classification='pos', p_pos=0.50593890299818267, p_neg=0.49406109700181688)
+
+
+
+
+-0.4 0.7 0.572911617254 0.427088382746
+0
+I met my girlfriend two years ago online. This was our first kiss.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Wolf', '->', u'NP')
+('Doe', '->', u'NP')
+('Finn', '->', u'NP')
+('Finn', '->', u'NP')
+('Molly', '->', u'NP')
+('Fox', '->', u'NP')
+('Lucy', '->', u'NP')
+('Bunny', '->', u'NP')
+('Don', '->', u'NP')
+('Bunny', '->', u'NP')
+('Rico', '->', u'NP')
+('Fox', '->', u'NP')
+('Guinea', '->', u'NP')
+('Arctic', '->', u'NP')
+('Fox', '->', u'NP')
+('Raccoon', '->', u'NP')
+('Bunny', '->', u'NP')
+('Speed', '->', u'NP')
+('Bunny', '->', u'NP')
+('Bunny', '->', u'NP')
+('Kirby', '->', u'NP')
+('Barbara', '->', u'NP')
+('Mike', '->', u'NP')
+('Jerry', '->', u'NP')
+24 
+
+1601

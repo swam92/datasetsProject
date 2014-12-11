@@ -1,0 +1,28 @@
+gonecivil.csv
+0
+Sentiment(classification='pos', p_pos=0.82594936708860722, p_neg=0.17405063291139253)
+
+
+1
+Sentiment(classification='pos', p_pos=0.59503239740820779, p_neg=0.40496760259179282)
+
+
+
+
+0.125 0.875 0.289509117752 0.710490882248
+0
+Anyone up for a game?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Watson', '->', u'NP')
+('Jane', '->', u'NP')
+('Don', '->', u'NP')
+('Carl', '->', u'NP')
+('Burger', '->', u'NP')
+('Coke', '->', u'NP')
+('Winter', '->', u'NP')
+('F', '->', u'NP')
+('Cyrus', '->', u'NP')
+('Easter', '->', u'NP')
+10 
+
+833

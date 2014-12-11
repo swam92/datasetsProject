@@ -1,0 +1,11 @@
+HorseMask.csv
+0
+Sentiment(classification='neg', p_pos=0.45105176454937285, p_neg=0.54894823545062665)
+
+
+1
+Sentiment(classification='pos', p_pos=0.50898664312136344, p_neg=0.49101335687863645)
+
+
+
+

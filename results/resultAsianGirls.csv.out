@@ -1,0 +1,26 @@
+AsianGirls.csv
+0
+Sentiment(classification='pos', p_pos=0.64084507042253558, p_neg=0.35915492957746442)
+
+
+1
+Sentiment(classification='pos', p_pos=0.75413271793905667, p_neg=0.24586728206094305)
+
+
+
+
+-0.0892857142857 0.142857142857 0.302511105819 0.697488894181
+0
+I feel CUTE!
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Chung', '->', u'NP')
+('Lee', '->', u'NP')
+('Hee', '->', u'NP')
+('Hwang', '->', u'NP')
+('Mi', '->', u'NP')
+('Lucy', '->', u'NP')
+('Yuri', '->', u'NP')
+('Okamoto', '->', u'NP')
+8 
+
+314

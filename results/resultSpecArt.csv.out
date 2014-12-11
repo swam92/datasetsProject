@@ -1,0 +1,11 @@
+SpecArt.csv
+0
+Sentiment(classification='neg', p_pos=0.36507320553440376, p_neg=0.63492679446559575)
+
+
+1
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+
+

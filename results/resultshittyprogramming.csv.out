@@ -1,0 +1,54 @@
+shittyprogramming.csv
+0
+Sentiment(classification='pos', p_pos=0.60871013886799685, p_neg=0.39128986113200304)
+
+
+1
+Sentiment(classification='pos', p_pos=0.7067658854915172, p_neg=0.29323411450848197)
+
+
+
+
+0.216666666667 0.616666666667 0.34226198782 0.65773801218
+0
+This
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Stack', '->', u'NP')
+('PM', '->', u'NP')
+('George', '->', u'NP')
+('Orwell', '->', u'NP')
+('Java', '->', u'NP')
+('N', '->', u'NP')
+('Java', '->', u'NP')
+('Sharp', '->', u'NP')
+('Java', '->', u'NP')
+('Jon', '->', u'NP')
+('God', '->', u'NP')
+('Java', '->', u'NP')
+('Saudi', '->', u'NP')
+('Mac', '->', u'NP')
+('App', '->', u'NP')
+('Java', '->', u'NP')
+('Sue', '->', u'NP')
+('Don', '->', u'NP')
+('Java', '->', u'NP')
+('Brush', '->', u'NP')
+('Java', '->', u'NP')
+('Java', '->', u'NP')
+('Java', '->', u'NP')
+('Haskell', '->', u'NP')
+('Delphi', '->', u'NP')
+('Harlem', '->', u'NP')
+('Low', '->', u'NP')
+('Saudi', '->', u'NP')
+('Braille', '->', u'NP')
+('Minnie', '->', u'NP')
+('Russia', '->', u'NP')
+('Java', '->', u'NP')
+('Java', '->', u'NP')
+('Java', '->', u'NP')
+('Harlem', '->', u'NP')
+('Java', '->', u'NP')
+36 
+
+6198

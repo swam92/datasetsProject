@@ -1,0 +1,72 @@
+offmychest.csv
+0
+Sentiment(classification='pos', p_pos=0.50560160830652212, p_neg=0.49439839169347766)
+
+
+1
+Sentiment(classification='pos', p_pos=0.508224210803912, p_neg=0.49177578919608789)
+
+
+
+
+-0.05 0.4 0.493087090445 0.506912909555
+0
+No more r/atheism..
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('S', '->', u'NP')
+('T', '->', u'NP')
+('Gay', '->', u'NP')
+('Mommy', '->', u'NP')
+('Don', '->', u'NP')
+('Christianity', '->', u'NP')
+('August', '->', u'NP')
+('Dick', '->', u'NP')
+('Rose', '->', u'NP')
+('Pretty', '->', u'NP')
+('God', '->', u'NP')
+('T', '->', u'NP')
+('Friend', '->', u'NP')
+('T', '->', u'NP')
+('S', '->', u'NP')
+('Laura', '->', u'NP')
+('S', '->', u'NP')
+('S', '->', u'NP')
+('Don', '->', u'NP')
+('Skinny', '->', u'NP')
+('Guy', '->', u'NP')
+('Mario', '->', u'NP')
+('Russia', '->', u'NP')
+('Russia', '->', u'NP')
+('Russia', '->', u'NP')
+('F', '->', u'NP')
+('Black', '->', u'NP')
+('Don', '->', u'NP')
+('Alan', '->', u'NP')
+('Don', '->', u'NP')
+('Susan', '->', u'NP')
+('Gay', '->', u'NP')
+('Don', '->', u'NP')
+('Rebecca', '->', u'NP')
+('Morgan', '->', u'NP')
+('Don', '->', u'NP')
+('Trenton', '->', u'NP')
+('America', '->', u'NP')
+('Gore', '->', u'NP')
+('Boston', '->', u'NP')
+('Betty', '->', u'NP')
+('September', '->', u'NP')
+('Hook', '->', u'NP')
+('Paula', '->', u'NP')
+('Vegas', '->', u'NP')
+('Christmas', '->', u'NP')
+('Don', '->', u'NP')
+('Republican', '->', u'NP')
+('America', '->', u'NP')
+('Iran', '->', u'NP')
+('Don', '->', u'NP')
+('Alan', '->', u'NP')
+('Nancy', '->', u'NP')
+('Grace', '->', u'NP')
+54 
+
+12313

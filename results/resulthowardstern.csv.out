@@ -1,0 +1,11 @@
+howardstern.csv
+0
+Sentiment(classification='neg', p_pos=0.41312751768570938, p_neg=0.58687248231429057)
+
+
+1
+Sentiment(classification='pos', p_pos=0.64481763639882472, p_neg=0.355182363601176)
+
+
+
+

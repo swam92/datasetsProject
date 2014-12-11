@@ -1,0 +1,49 @@
+myog.csv
+0
+Sentiment(classification='neg', p_pos=0.098906173531662395, p_neg=0.90109382646833625)
+
+
+1
+Sentiment(classification='neg', p_pos=0.36489347624718815, p_neg=0.63510652375281273)
+
+
+
+
+0.25 0.333333333333 0.768100175111 0.231899824889
+0
+This deserves more attention, It's essentially a MYOG website.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Chuck', '->', u'NP')
+('Self', '->', u'NP')
+('Pocket', '->', u'NP')
+('Wood', '->', u'NP')
+('Foster', '->', u'NP')
+('Wood', '->', u'NP')
+('Cook', '->', u'NP')
+('Penny', '->', u'NP')
+('Flint', '->', u'NP')
+('Vera', '->', u'NP')
+('Jesus', '->', u'NP')
+('Gun', '->', u'NP')
+('May', '->', u'NP')
+('Cook', '->', u'NP')
+('Fletcher', '->', u'NP')
+('Penny', '->', u'NP')
+('Fish', '->', u'NP')
+('Berry', '->', u'NP')
+('Gore', '->', u'NP')
+('Tex', '->', u'NP')
+('Cook', '->', u'NP')
+('Winter', '->', u'NP')
+('Wood', '->', u'NP')
+('Agnes', '->', u'NP')
+('Oregon', '->', u'NP')
+('Jerry', '->', u'NP')
+('Jeff', '->', u'NP')
+('Pole', '->', u'NP')
+('Fisher', '->', u'NP')
+('Pen', '->', u'NP')
+('Hack', '->', u'NP')
+31 
+
+3168

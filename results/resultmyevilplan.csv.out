@@ -1,0 +1,56 @@
+myevilplan.csv
+0
+Sentiment(classification='neg', p_pos=0.30736243973640892, p_neg=0.69263756026359091)
+
+
+1
+Sentiment(classification='pos', p_pos=0.53611130995996747, p_neg=0.46388869004003142)
+
+
+
+
+0.5 1.0 0.578263125152 0.421736874848
+0
+I need your help to destroy a subreddit
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Chase', '->', u'NP')
+('Santa', '->', u'NP')
+('Friend', '->', u'NP')
+('America', '->', u'NP')
+('Dick', '->', u'NP')
+('N', '->', u'NP')
+('Spartan', '->', u'NP')
+('Friend', '->', u'NP')
+('Don', '->', u'NP')
+('Korea', '->', u'NP')
+('April', '->', u'NP')
+('Friend', '->', u'NP')
+('April', '->', u'NP')
+('Monte', '->', u'NP')
+('Fish', '->', u'NP')
+('Orlando', '->', u'NP')
+('Europe', '->', u'NP')
+('Pretty', '->', u'NP')
+('Tech', '->', u'NP')
+('Ray', '->', u'NP')
+('April', '->', u'NP')
+('Canada', '->', u'NP')
+('Rob', '->', u'NP')
+('T', '->', u'NP')
+('Europe', '->', u'NP')
+('Mars', '->', u'NP')
+('Canada', '->', u'NP')
+('Canada', '->', u'NP')
+('Sweden', '->', u'NP')
+('America', '->', u'NP')
+('Gotham', '->', u'NP')
+('T', '->', u'NP')
+('Fish', '->', u'NP')
+('Friend', '->', u'NP')
+('Don', '->', u'NP')
+('Guy', '->', u'NP')
+('Friend', '->', u'NP')
+('Guy', '->', u'NP')
+38 
+
+5121

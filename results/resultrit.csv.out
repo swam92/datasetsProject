@@ -1,0 +1,11 @@
+rit.csv
+0
+Sentiment(classification='pos', p_pos=0.60859824346597879, p_neg=0.3914017565340206)
+
+
+1
+Sentiment(classification='neg', p_pos=0.49034106035196601, p_neg=0.50965893964803399)
+
+
+
+

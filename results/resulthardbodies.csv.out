@@ -1,0 +1,11 @@
+hardbodies.csv
+0
+Sentiment(classification='neg', p_pos=0.2169811320754714, p_neg=0.78301886792452791)
+
+
+1
+Sentiment(classification='pos', p_pos=0.54166666666666685, p_neg=0.45833333333333337)
+
+
+
+

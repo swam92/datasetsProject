@@ -1,0 +1,11 @@
+simpsonsdidit.csv
+0
+Sentiment(classification='neg', p_pos=0.41886128992400612, p_neg=0.58113871007599471)
+
+
+1
+Sentiment(classification='pos', p_pos=0.86263055884569873, p_neg=0.137369441154302)
+
+
+
+

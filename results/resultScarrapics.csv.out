@@ -1,0 +1,35 @@
+Scarrapics.csv
+0
+Sentiment(classification='neg', p_pos=0.36011751257098956, p_neg=0.6398824874290111)
+
+
+1
+Sentiment(classification='pos', p_pos=0.61316124920331405, p_neg=0.38683875079668589)
+
+
+
+
+0.2 0.2 0.513360619113 0.486639380887
+0
+Found scarra in a friends pic
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('William', '->', u'NP')
+('Rider', '->', u'NP')
+('Tom', '->', u'NP')
+('Johnny', '->', u'NP')
+('Che', '->', u'NP')
+('Perry', '->', u'NP')
+('Winter', '->', u'NP')
+('Met', '->', u'NP')
+('Rider', '->', u'NP')
+('Roger', '->', u'NP')
+('AMA', '->', u'NP')
+('God', '->', u'NP')
+('California', '->', u'NP')
+('Job', '->', u'NP')
+('William', '->', u'NP')
+('Friend', '->', u'NP')
+('William', '->', u'NP')
+17 
+
+1926

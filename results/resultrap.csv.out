@@ -1,0 +1,11 @@
+rap.csv
+0
+Sentiment(classification='pos', p_pos=0.63130911365182463, p_neg=0.36869088634817521)
+
+
+1
+Sentiment(classification='neg', p_pos=0.4056603773584907, p_neg=0.59433962264150941)
+
+
+
+

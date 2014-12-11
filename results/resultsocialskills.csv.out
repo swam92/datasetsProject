@@ -1,0 +1,53 @@
+socialskills.csv
+0
+Sentiment(classification='pos', p_pos=0.50460100364987315, p_neg=0.49539899635012757)
+
+
+1
+Sentiment(classification='neg', p_pos=0.33093003380929653, p_neg=0.6690699661907038)
+
+
+
+
+0.3 0.9 0.58223448127 0.41776551873
+0
+Hey all, got any texting advice?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Sherlock', '->', u'NP')
+('Holmes', '->', u'NP')
+('Don', '->', u'NP')
+('Don', '->', u'NP')
+('Amy', '->', u'NP')
+('Self', '->', u'NP')
+('Short', '->', u'NP')
+('Don', '->', u'NP')
+('Guy', '->', u'NP')
+('Jonathan', '->', u'NP')
+('Dos', '->', u'NP')
+('Hardy', '->', u'NP')
+('Job', '->', u'NP')
+('Charm', '->', u'NP')
+('Don', '->', u'NP')
+('Don', '->', u'NP')
+('Bill', '->', u'NP')
+('Don', '->', u'NP')
+('Christmas', '->', u'NP')
+('Child', '->', u'NP')
+('Dale', '->', u'NP')
+('God', '->', u'NP')
+('Guy', '->', u'NP')
+('Alan', '->', u'NP')
+('Job', '->', u'NP')
+('Self', '->', u'NP')
+('Dan', '->', u'NP')
+('Don', '->', u'NP')
+('PM', '->', u'NP')
+('Jerome', '->', u'NP')
+('Amy', '->', u'NP')
+('Joe', '->', u'NP')
+('Younger', '->', u'NP')
+('Christmas', '->', u'NP')
+('Don', '->', u'NP')
+35 
+
+14094

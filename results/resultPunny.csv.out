@@ -1,0 +1,11 @@
+Punny.csv
+0
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+1
+Sentiment(classification='neg', p_pos=0.38168173418712376, p_neg=0.6183182658128763)
+
+
+
+

@@ -1,0 +1,11 @@
+homelab.csv
+0
+Sentiment(classification='pos', p_pos=0.5116043077012904, p_neg=0.48839569229870977)
+
+
+1
+Sentiment(classification='neg', p_pos=0.36437689447424781, p_neg=0.63562310552575263)
+
+
+
+

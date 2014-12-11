@@ -1,0 +1,11 @@
+bindingofisaac.csv
+0
+Sentiment(classification='pos', p_pos=0.72936410405948626, p_neg=0.2706358959405139)
+
+
+1
+Sentiment(classification='neg', p_pos=0.26932331692940004, p_neg=0.73067668307060085)
+
+
+
+

@@ -1,0 +1,47 @@
+survivorzero.csv
+0
+Sentiment(classification='neg', p_pos=0.40849946113896052, p_neg=0.59150053886104004)
+
+
+1
+Sentiment(classification='pos', p_pos=0.85852200097035913, p_neg=0.14147799902964145)
+
+
+
+
+-0.05 0.55 0.366489268945 0.633510731055
+0
+Dev team confirm the game is closed source AND we have to pay for it. Let's start a new project called Survivor One that is truly a community project.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('F', '->', u'NP')
+('Simon', '->', u'NP')
+('May', '->', u'NP')
+('Easter', '->', u'NP')
+('Don', '->', u'NP')
+('Easter', '->', u'NP')
+('John', '->', u'NP')
+('Harvey', '->', u'NP')
+('AMA', '->', u'NP')
+('Green', '->', u'NP')
+('America', '->', u'NP')
+('Victor', '->', u'NP')
+('Kriss', '->', u'NP')
+('June', '->', u'NP')
+('PM', '->', u'NP')
+('Pandora', '->', u'NP')
+('Gun', '->', u'NP')
+('Speed', '->', u'NP')
+('AMA', '->', u'NP')
+('Christmas', '->', u'NP')
+('Job', '->', u'NP')
+('Pandora', '->', u'NP')
+('Cherokee', '->', u'NP')
+('Detroit', '->', u'NP')
+('Mac', '->', u'NP')
+('Japan', '->', u'NP')
+('China', '->', u'NP')
+('Foley', '->', u'NP')
+('Breeding', '->', u'NP')
+29 
+
+4226

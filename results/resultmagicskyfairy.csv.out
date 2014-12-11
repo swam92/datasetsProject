@@ -1,0 +1,12 @@
+magicskyfairy.csv
+0
+Sentiment(classification='pos', p_pos=0.94600938967136095, p_neg=0.053990610328638437)
+
+
+1
+Sentiment(classification='neg', p_pos=0.28811558353946543, p_neg=0.71188441646053535)
+
+
+
+
+0.1 0.1 0.382937513395 0.617062486605

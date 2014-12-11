@@ -1,0 +1,11 @@
+ArcherFX.csv
+0
+Sentiment(classification='pos', p_pos=0.90531648200137438, p_neg=0.094683517998624761)
+
+
+1
+Sentiment(classification='neg', p_pos=0.22211013317927261, p_neg=0.77788986682072692)
+
+
+
+

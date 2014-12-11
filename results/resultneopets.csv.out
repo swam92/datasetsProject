@@ -1,0 +1,70 @@
+neopets.csv
+0
+Sentiment(classification='pos', p_pos=0.71510243660692807, p_neg=0.28489756339307137)
+
+
+1
+Sentiment(classification='neg', p_pos=0.3944416114227442, p_neg=0.60555838857725675)
+
+
+
+
+0.0666666666667 0.641666666667 0.445227975985 0.554772024015
+0
+PSA: BEWARE QUICKSELL/RESELLER TP SCAMS! Always check prices with SW for supposed "UB"s~
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Player', '->', u'NP')
+('Wise', '->', u'NP')
+('AMA', '->', u'NP')
+('Halloween', '->', u'NP')
+('Case', '->', u'NP')
+('Hugo', '->', u'NP')
+('Key', '->', u'NP')
+('Don', '->', u'NP')
+('Christmas', '->', u'NP')
+('Paula', '->', u'NP')
+('Stephen', '->', u'NP')
+('Christmas', '->', u'NP')
+('Chester', '->', u'NP')
+('Wise', '->', u'NP')
+('Page', '->', u'NP')
+('Stan', '->', u'NP')
+('George', '->', u'NP')
+('Martin', '->', u'NP')
+('Valentine', '->', u'NP')
+('AMA', '->', u'NP')
+('Christmas', '->', u'NP')
+('Christmas', '->', u'NP')
+('Pretty', '->', u'NP')
+('Hemus', '->', u'NP')
+('Vincent', '->', u'NP')
+('Godwin', '->', u'NP')
+('K', '->', u'NP')
+('Brian', '->', u'NP')
+('Valentine', '->', u'NP')
+('God', '->', u'NP')
+('Ray', '->', u'NP')
+('Don', '->', u'NP')
+('Grey', '->', u'NP')
+('Sell', '->', u'NP')
+('Ray', '->', u'NP')
+('Don', '->', u'NP')
+('AMA', '->', u'NP')
+('Don', '->', u'NP')
+('Buzz', '->', u'NP')
+('S', '->', u'NP')
+('Brian', '->', u'NP')
+('Worth', '->', u'NP')
+('May', '->', u'NP')
+('Gross', '->', u'NP')
+('Grey', '->', u'NP')
+('T', '->', u'NP')
+('Key', '->', u'NP')
+('Grey', '->', u'NP')
+('Halloween', '->', u'NP')
+('Ray', '->', u'NP')
+('T', '->', u'NP')
+('Ray', '->', u'NP')
+52 
+
+11677

@@ -1,0 +1,11 @@
+WildStar.csv
+0
+Sentiment(classification='pos', p_pos=0.57283568904593685, p_neg=0.42716431095406426)
+
+
+1
+Sentiment(classification='neg', p_pos=0.35526315789473639, p_neg=0.64473684210526294)
+
+
+
+

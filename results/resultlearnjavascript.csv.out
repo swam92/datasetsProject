@@ -1,0 +1,76 @@
+learnjavascript.csv
+0
+Sentiment(classification='pos', p_pos=0.56603616686359315, p_neg=0.43396383313640663)
+
+
+1
+Sentiment(classification='pos', p_pos=0.84109072439274379, p_neg=0.1589092756072569)
+
+
+
+
+0.0 0.1 0.296436554372 0.703563445628
+0
+Creating your own JavaScript library
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Hard', '->', u'NP')
+('Cheat', '->', u'NP')
+('Learned', '->', u'NP')
+('Cheat', '->', u'NP')
+('Short', '->', u'NP')
+('John', '->', u'NP')
+('Page', '->', u'NP')
+('Hard', '->', u'NP')
+('De', '->', u'NP')
+('Java', '->', u'NP')
+('Cheat', '->', u'NP')
+('Don', '->', u'NP')
+('Ticker', '->', u'NP')
+('Amazon', '->', u'NP')
+('Douglas', '->', u'NP')
+('Douglas', '->', u'NP')
+('Johnson', '->', u'NP')
+('March', '->', u'NP')
+('Douglas', '->', u'NP')
+('Pick', '->', u'NP')
+('App', '->', u'NP')
+('Snow', '->', u'NP')
+('AMA', '->', u'NP')
+('Hack', '->', u'NP')
+('AMA', '->', u'NP')
+('Bird', '->', u'NP')
+('Angelina', '->', u'NP')
+('Child', '->', u'NP')
+('Sibling', '->', u'NP')
+('Hard', '->', u'NP')
+('App', '->', u'NP')
+('Player', '->', u'NP')
+('Styles', '->', u'NP')
+('Douglas', '->', u'NP')
+('App', '->', u'NP')
+('Worth', '->', u'NP')
+('John', '->', u'NP')
+('Guy', '->', u'NP')
+('Curry', '->', u'NP')
+('N', '->', u'NP')
+('N', '->', u'NP')
+('Queens', '->', u'NP')
+('Douglas', '->', u'NP')
+('Mac', '->', u'NP')
+('Thomas', '->', u'NP')
+('Fuchs', '->', u'NP')
+('Hudson', '->', u'NP')
+('Stack', '->', u'NP')
+('Keys', '->', u'NP')
+('Stack', '->', u'NP')
+('Douglas', '->', u'NP')
+('Douglas', '->', u'NP')
+('Hack', '->', u'NP')
+('Stack', '->', u'NP')
+('Learned', '->', u'NP')
+('S', '->', u'NP')
+('London', '->', u'NP')
+('April', '->', u'NP')
+58 
+
+8766

@@ -1,0 +1,33 @@
+VirginiaTech.csv
+0
+Sentiment(classification='pos', p_pos=0.90919961710242891, p_neg=0.090800382897568366)
+
+
+1
+Sentiment(classification='neg', p_pos=0.38343137921353504, p_neg=0.6165686207864649)
+
+
+
+
+-0.5 0.9 0.353684501842 0.646315498158
+0
+Every. Single. Time.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('PM', '->', u'NP')
+('Lot', '->', u'NP')
+('Lane', '->', u'NP')
+('U', '->', u'NP')
+('S', '->', u'NP')
+('April', '->', u'NP')
+('Hard', '->', u'NP')
+('Virginia', '->', u'NP')
+('Tech', '->', u'NP')
+('Virginia', '->', u'NP')
+('Tech', '->', u'NP')
+('Ivan', '->', u'NP')
+('Virginia', '->', u'NP')
+('Tech', '->', u'NP')
+('Ben', '->', u'NP')
+15 
+
+284

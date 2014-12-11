@@ -1,0 +1,11 @@
+skiing.csv
+0
+Sentiment(classification='pos', p_pos=0.90166643529548063, p_neg=0.098333564704520066)
+
+
+1
+Sentiment(classification='neg', p_pos=0.35714285714285665, p_neg=0.64285714285714213)
+
+
+
+

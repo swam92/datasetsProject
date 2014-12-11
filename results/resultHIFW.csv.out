@@ -1,0 +1,63 @@
+HIFW.csv
+0
+Sentiment(classification='neg', p_pos=0.45648406252481738, p_neg=0.54351593747518268)
+
+
+1
+Sentiment(classification='pos', p_pos=0.5391614194608092, p_neg=0.46083858053919147)
+
+
+
+
+0.219444444444 0.591666666667 0.502177259007 0.497822740993
+0
+HIFW I leave the exam room
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Grey', '->', u'NP')
+('G', '->', u'NP')
+('F', '->', u'NP')
+('America', '->', u'NP')
+('Olive', '->', u'NP')
+('W', '->', u'NP')
+('Australia', '->', u'NP')
+('Jennifer', '->', u'NP')
+('Lawrence', '->', u'NP')
+('Bryan', '->', u'NP')
+('Cranston', '->', u'NP')
+('AMA', '->', u'NP')
+('Christmas', '->', u'NP')
+('Valentine', '->', u'NP')
+('Jan', '->', u'NP')
+('Christmas', '->', u'NP')
+('Martin', '->', u'NP')
+('Luther', '->', u'NP')
+('Ralph', '->', u'NP')
+('America', '->', u'NP')
+('Christmas', '->', u'NP')
+('Picasso', '->', u'NP')
+('Van', '->', u'NP')
+('Gogh', '->', u'NP')
+('Arnold', '->', u'NP')
+('Christmas', '->', u'NP')
+('Dove', '->', u'NP')
+('Australian', '->', u'NP')
+('Lowe', '->', u'NP')
+('Christmas', '->', u'NP')
+('AMA', '->', u'NP')
+('Cuba', '->', u'NP')
+('Korea', '->', u'NP')
+('God', '->', u'NP')
+('Jason', '->', u'NP')
+('Perry', '->', u'NP')
+('America', '->', u'NP')
+('Doug', '->', u'NP')
+('Black', '->', u'NP')
+('Mayo', '->', u'NP')
+('Chris', '->', u'NP')
+('Brown', '->', u'NP')
+('Green', '->', u'NP')
+('N', '->', u'NP')
+('Pandora', '->', u'NP')
+45 
+
+11980

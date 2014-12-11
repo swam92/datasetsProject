@@ -1,0 +1,36 @@
+Georgegifs.csv
+0
+Sentiment(classification='neg', p_pos=0.23249722144402743, p_neg=0.76750277855597182)
+
+
+1
+Sentiment(classification='pos', p_pos=0.70371024396779147, p_neg=0.29628975603220886)
+
+
+
+
+0.136363636364 0.454545454545 0.531896267294 0.468103732706
+0
+George?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('George', '->', u'NP')
+('George', '->', u'NP')
+('George', '->', u'NP')
+('George', '->', u'NP')
+('George', '->', u'NP')
+('George', '->', u'NP')
+('George', '->', u'NP')
+('George', '->', u'NP')
+('George', '->', u'NP')
+('Cool', '->', u'NP')
+('George', '->', u'NP')
+('George', '->', u'NP')
+('George', '->', u'NP')
+('George', '->', u'NP')
+('T', '->', u'NP')
+('George', '->', u'NP')
+('George', '->', u'NP')
+('George', '->', u'NP')
+18 
+
+639

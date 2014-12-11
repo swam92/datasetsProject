@@ -1,0 +1,62 @@
+creepy_gif.csv
+0
+Sentiment(classification='neg', p_pos=0.46555236259139388, p_neg=0.53444763740860635)
+
+
+1
+Sentiment(classification='pos', p_pos=0.68638574557765331, p_neg=0.31361425442234681)
+
+
+
+
+-0.275 0.633333333333 0.424030945915 0.575969054085
+0
+Watch the windows.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Jack', '->', u'NP')
+('Don', '->', u'NP')
+('El', '->', u'NP')
+('Rose', '->', u'NP')
+('Don', '->', u'NP')
+('Don', '->', u'NP')
+('Charles', '->', u'NP')
+('Norman', '->', u'NP')
+('Seattle', '->', u'NP')
+('Satan', '->', u'NP')
+('Black', '->', u'NP')
+('Rogers', '->', u'NP')
+('Poughkeepsie', '->', u'NP')
+('Shirley', '->', u'NP')
+('Bill', '->', u'NP')
+('Halloween', '->', u'NP')
+('Don', '->', u'NP')
+('Don', '->', u'NP')
+('Case', '->', u'NP')
+('Jacob', '->', u'NP')
+('Friend', '->', u'NP')
+('Don', '->', u'NP')
+('Marty', '->', u'NP')
+('Mommy', '->', u'NP')
+('Halloween', '->', u'NP')
+('Black', '->', u'NP')
+('Marilyn', '->', u'NP')
+('Don', '->', u'NP')
+('Skinny', '->', u'NP')
+('Gates', '->', u'NP')
+('Spain', '->', u'NP')
+('Black', '->', u'NP')
+('Johnny', '->', u'NP')
+('Santa', '->', u'NP')
+('Jacob', '->', u'NP')
+('Lizzie', '->', u'NP')
+('Borden', '->', u'NP')
+('Barbara', '->', u'NP')
+('T', '->', u'NP')
+('Jack', '->', u'NP')
+('Bacon', '->', u'NP')
+('Marilyn', '->', u'NP')
+('Patrick', '->', u'NP')
+('California', '->', u'NP')
+44 
+
+3408

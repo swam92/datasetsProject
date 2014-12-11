@@ -1,0 +1,11 @@
+mixes.csv
+0
+Sentiment(classification='pos', p_pos=0.61417426042501477, p_neg=0.38582573957498484)
+
+
+1
+Sentiment(classification='neg', p_pos=0.43930222626271032, p_neg=0.56069777373728991)
+
+
+
+

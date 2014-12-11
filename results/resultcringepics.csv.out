@@ -1,0 +1,11 @@
+cringepics.csv
+0
+Sentiment(classification='pos', p_pos=0.58928571428571408, p_neg=0.41071428571428586)
+
+
+1
+Sentiment(classification='neg', p_pos=0.375, p_neg=0.62499999999999978)
+
+
+
+

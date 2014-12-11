@@ -1,0 +1,78 @@
+fightporn.csv
+0
+Sentiment(classification='neg', p_pos=0.19434208250311816, p_neg=0.80565791749688165)
+
+
+1
+Sentiment(classification='neg', p_pos=0.059180237264172458, p_neg=0.94081976273582724)
+
+
+
+
+-0.25 0.6 0.873238840116 0.126761159884
+0
+Meanest kick I've seen
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Don', '->', u'NP')
+('Bob', '->', u'NP')
+('Don', '->', u'NP')
+('Guy', '->', u'NP')
+('Marcus', '->', u'NP')
+('Keegan', '->', u'NP')
+('Marshall', '->', u'NP')
+('Marshall', '->', u'NP')
+('Prairie', '->', u'NP')
+('Don', '->', u'NP')
+('BAM', '->', u'NP')
+('Swift', '->', u'NP')
+('Guy', '->', u'NP')
+('Don', '->', u'NP')
+('Black', '->', u'NP')
+('Guy', '->', u'NP')
+('Augusta', '->', u'NP')
+('Anderson', '->', u'NP')
+('Gracie', '->', u'NP')
+('Mike', '->', u'NP')
+('Tyson', '->', u'NP')
+('Guy', '->', u'NP')
+('Hard', '->', u'NP')
+('Hong', '->', u'NP')
+('Canada', '->', u'NP')
+('Russia', '->', u'NP')
+('Copenhagen', '->', u'NP')
+('Denny', '->', u'NP')
+('Russia', '->', u'NP')
+('Thailand', '->', u'NP')
+('Thai', '->', u'NP')
+('Tyson', '->', u'NP')
+('Williams', '->', u'NP')
+('Alabama', '->', u'NP')
+('Christmas', '->', u'NP')
+('Eddie', '->', u'NP')
+('Alvarez', '->', u'NP')
+('Michael', '->', u'NP')
+('Pretty', '->', u'NP')
+('Thai', '->', u'NP')
+('Leonard', '->', u'NP')
+('Garcia', '->', u'NP')
+('Birmingham', '->', u'NP')
+('Russia', '->', u'NP')
+('David', '->', u'NP')
+('Don', '->', u'NP')
+('Guy', '->', u'NP')
+('Dan', '->', u'NP')
+('Rooney', '->', u'NP')
+('Lewis', '->', u'NP')
+('Hawaii', '->', u'NP')
+('June', '->', u'NP')
+('Guy', '->', u'NP')
+('Johnny', '->', u'NP')
+('Joyce', '->', u'NP')
+('France', '->', u'NP')
+('Guy', '->', u'NP')
+('Don', '->', u'NP')
+('Guy', '->', u'NP')
+('Guy', '->', u'NP')
+60 
+
+1951

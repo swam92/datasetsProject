@@ -1,0 +1,67 @@
+leaves.csv
+0
+Sentiment(classification='pos', p_pos=0.67913239643312495, p_neg=0.32086760356687427)
+
+
+1
+Sentiment(classification='pos', p_pos=0.58771723777182572, p_neg=0.41228276222817495)
+
+
+
+
+0.205 0.436666666667 0.366575182898 0.633424817102
+0
+Day 94 - Had anal surgery on Thursday.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Self', '->', u'NP')
+('PM', '->', u'NP')
+('Bake', '->', u'NP')
+('Sober', '->', u'NP')
+('W', '->', u'NP')
+('E', '->', u'NP')
+('E', '->', u'NP')
+('S', '->', u'NP')
+('Sober', '->', u'NP')
+('Yankee', '->', u'NP')
+('AMA', '->', u'NP')
+('PM', '->', u'NP')
+('Helen', '->', u'NP')
+('Don', '->', u'NP')
+('Weeks', '->', u'NP')
+('May', '->', u'NP')
+('Don', '->', u'NP')
+('Weeks', '->', u'NP')
+('September', '->', u'NP')
+('Winston', '->', u'NP')
+('Churchill', '->', u'NP')
+('Allan', '->', u'NP')
+('Mary', '->', u'NP')
+('Jane', '->', u'NP')
+('Worth', '->', u'NP')
+('Worth', '->', u'NP')
+('Neil', '->', u'NP')
+('AMA', '->', u'NP')
+('Job', '->', u'NP')
+('Sober', '->', u'NP')
+('Weeks', '->', u'NP')
+('Turkey', '->', u'NP')
+('Mary', '->', u'NP')
+('Jane', '->', u'NP')
+('Self', '->', u'NP')
+('Learned', '->', u'NP')
+('AMA', '->', u'NP')
+('Don', '->', u'NP')
+('August', '->', u'NP')
+('Don', '->', u'NP')
+('Eve', '->', u'NP')
+('Eve', '->', u'NP')
+('Weeks', '->', u'NP')
+('Skinner', '->', u'NP')
+('Mary', '->', u'NP')
+('October', '->', u'NP')
+('Weeks', '->', u'NP')
+('Sober', '->', u'NP')
+('App', '->', u'NP')
+49 
+
+11904

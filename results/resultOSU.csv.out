@@ -1,0 +1,11 @@
+OSU.csv
+0
+Sentiment(classification='pos', p_pos=0.60195593469482345, p_neg=0.39804406530517755)
+
+
+1
+Sentiment(classification='neg', p_pos=0.31949938575887304, p_neg=0.68050061424112751)
+
+
+
+

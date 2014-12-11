@@ -1,0 +1,65 @@
+malelivingspace.csv
+0
+Sentiment(classification='pos', p_pos=0.87895172194383764, p_neg=0.12104827805616254)
+
+
+1
+Sentiment(classification='pos', p_pos=0.51221594573698681, p_neg=0.48778405426301197)
+
+
+
+
+0.125 0.2625 0.30441616616 0.69558383384
+0
+Quick and easy way to hang posters
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Winter', '->', u'NP')
+('Minnesota', '->', u'NP')
+('Sweden', '->', u'NP')
+('Boston', '->', u'NP')
+('Chicago', '->', u'NP')
+('Melbourne', '->', u'NP')
+('Australia', '->', u'NP')
+('Montreal', '->', u'NP')
+('Cheat', '->', u'NP')
+('Cool', '->', u'NP')
+('Keith', '->', u'NP')
+('Charlie', '->', u'NP')
+('Loving', '->', u'NP')
+('Cool', '->', u'NP')
+('Don', '->', u'NP')
+('L', '->', u'NP')
+('Brian', '->', u'NP')
+('Moss', '->', u'NP')
+('Canada', '->', u'NP')
+('Canada', '->', u'NP')
+('U', '->', u'NP')
+('S', '->', u'NP')
+('App', '->', u'NP')
+('Cool', '->', u'NP')
+('Don', '->', u'NP')
+('Toronto', '->', u'NP')
+('Friend', '->', u'NP')
+('Canada', '->', u'NP')
+('AMA', '->', u'NP')
+('Christmas', '->', u'NP')
+('Armstrong', '->', u'NP')
+('Benjamin', '->', u'NP')
+('Moore', '->', u'NP')
+('Lehman', '->', u'NP')
+('Barney', '->', u'NP')
+('Florence', '->', u'NP')
+('Owens', '->', u'NP')
+('Paris', '->', u'NP')
+('Manhattan', '->', u'NP')
+('Metro', '->', u'NP')
+('Canada', '->', u'NP')
+('Worth', '->', u'NP')
+('Wood', '->', u'NP')
+('Case', '->', u'NP')
+('Cool', '->', u'NP')
+('Valentine', '->', u'NP')
+('Alice', '->', u'NP')
+47 
+
+10465

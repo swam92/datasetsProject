@@ -1,0 +1,11 @@
+synthesizers.csv
+0
+Sentiment(classification='pos', p_pos=0.78950583440989186, p_neg=0.21049416559010936)
+
+
+1
+Sentiment(classification='pos', p_pos=0.54937477681541003, p_neg=0.45062522318459036)
+
+
+
+

@@ -1,0 +1,61 @@
+PowerShell.csv
+0
+Sentiment(classification='pos', p_pos=0.64477331355137368, p_neg=0.35522668644862743)
+
+
+1
+Sentiment(classification='pos', p_pos=0.86458787614478882, p_neg=0.13541212385521195)
+
+
+
+
+0.25625 0.58125 0.245319405152 0.754680594848
+0
+Strangeness with a custom object.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Cheat', '->', u'NP')
+('Don', '->', u'NP')
+('Jones', '->', u'NP')
+('Don', '->', u'NP')
+('Jones', '->', u'NP')
+('Sheets', '->', u'NP')
+('Cheat', '->', u'NP')
+('Cheat', '->', u'NP')
+('Cheat', '->', u'NP')
+('August', '->', u'NP')
+('Java', '->', u'NP')
+('N', '->', u'NP')
+('Child', '->', u'NP')
+('May', '->', u'NP')
+('Short', '->', u'NP')
+('Speed', '->', u'NP')
+('Manning', '->', u'NP')
+('Matt', '->', u'NP')
+('Europe', '->', u'NP')
+('Beta', '->', u'NP')
+('Bean', '->', u'NP')
+('Indianapolis', '->', u'NP')
+('Matt', '->', u'NP')
+('Pretty', '->', u'NP')
+('Don', '->', u'NP')
+('Jones', '->', u'NP')
+('Don', '->', u'NP')
+('Jones', '->', u'NP')
+('Hump', '->', u'NP')
+('Grant', '->', u'NP')
+('Sullivan', '->', u'NP')
+('Madison', '->', u'NP')
+('Don', '->', u'NP')
+('February', '->', u'NP')
+('Richard', '->', u'NP')
+('Madison', '->', u'NP')
+('Beta', '->', u'NP')
+('Page', '->', u'NP')
+('Dos', '->', u'NP')
+('Madison', '->', u'NP')
+('Alpha', '->', u'NP')
+('Mike', '->', u'NP')
+('Wilbur', '->', u'NP')
+43 
+
+10259

@@ -1,0 +1,65 @@
+askseddit.csv
+0
+Sentiment(classification='pos', p_pos=0.75245597762671135, p_neg=0.2475440223732884)
+
+
+1
+Sentiment(classification='neg', p_pos=0.4212275243997643, p_neg=0.57877247560023592)
+
+
+
+
+-0.183333333333 0.404166666667 0.413158248987 0.586841751013
+0
+Girl invited me to movies with her... Not sure if date or not
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Don', '->', u'NP')
+('Friend', '->', u'NP')
+('Alpha', '->', u'NP')
+('F', '->', u'NP')
+('Chase', '->', u'NP')
+('Don', '->', u'NP')
+('F', '->', u'NP')
+('Learned', '->', u'NP')
+('Hitch', '->', u'NP')
+('Case', '->', u'NP')
+('Friend', '->', u'NP')
+('Don', '->', u'NP')
+('Low', '->', u'NP')
+('Pitt', '->', u'NP')
+('PM', '->', u'NP')
+('Self', '->', u'NP')
+('T', '->', u'NP')
+('Alpha', '->', u'NP')
+('Guy', '->', u'NP')
+('Met', '->', u'NP')
+('Gay', '->', u'NP')
+('Alpha', '->', u'NP')
+('Don', '->', u'NP')
+('Steve', '->', u'NP')
+('Irwin', '->', u'NP')
+('Neil', '->', u'NP')
+('Don', '->', u'NP')
+('E', '->', u'NP')
+('Met', '->', u'NP')
+('Don', '->', u'NP')
+('Worth', '->', u'NP')
+('Worth', '->', u'NP')
+('Friend', '->', u'NP')
+('Friend', '->', u'NP')
+('Black', '->', u'NP')
+('Alpha', '->', u'NP')
+('F', '->', u'NP')
+('Pick', '->', u'NP')
+('Weeks', '->', u'NP')
+('Friend', '->', u'NP')
+('K', '->', u'NP')
+('Friend', '->', u'NP')
+('Younger', '->', u'NP')
+('Met', '->', u'NP')
+('Alpha', '->', u'NP')
+('Beta', '->', u'NP')
+('Alpha', '->', u'NP')
+47 
+
+13908

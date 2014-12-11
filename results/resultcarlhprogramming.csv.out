@@ -1,0 +1,29 @@
+carlhprogramming.csv
+0
+Sentiment(classification='neg', p_pos=0.21824707752189884, p_neg=0.78175292247809958)
+
+
+1
+Sentiment(classification='neg', p_pos=0.49755003983091584, p_neg=0.50244996016908405)
+
+
+
+
+0.5 0.55 0.642101441324 0.357898558676
+0
+hello. thid video lessons about programming helped me a lot . why there're no videos from lessons 16 or 17 ?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Stack', '->', u'NP')
+('Carl', '->', u'NP')
+('Carl', '->', u'NP')
+('N', '->', u'NP')
+('N', '->', u'NP')
+('Case', '->', u'NP')
+('PM', '->', u'NP')
+('PM', '->', u'NP')
+('PM', '->', u'NP')
+('Mac', '->', u'NP')
+('Carl', '->', u'NP')
+11 
+
+3805

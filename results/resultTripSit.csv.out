@@ -1,0 +1,45 @@
+TripSit.csv
+0
+Sentiment(classification='neg', p_pos=0.48226728604609603, p_neg=0.51773271395390408)
+
+
+1
+Sentiment(classification='pos', p_pos=0.56579703478172161, p_neg=0.43420296521827878)
+
+
+
+
+-0.25 0.6 0.475967839586 0.524032160414
+0
+harlom shake v420
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Don', '->', u'NP')
+('Rainy', '->', u'NP')
+('Zendo', '->', u'NP')
+('Maryland', '->', u'NP')
+('E', '->', u'NP')
+('K', '->', u'NP')
+('AMA', '->', u'NP')
+('Don', '->', u'NP')
+('Max', '->', u'NP')
+('Page', '->', u'NP')
+('B', '->', u'NP')
+('B', '->', u'NP')
+('E', '->', u'NP')
+('Lucy', '->', u'NP')
+('Germany', '->', u'NP')
+('T', '->', u'NP')
+('E', '->', u'NP')
+('Pick', '->', u'NP')
+('K', '->', u'NP')
+('Lucy', '->', u'NP')
+('Buffalo', '->', u'NP')
+('T', '->', u'NP')
+('July', '->', u'NP')
+('Don', '->', u'NP')
+('Gospel', '->', u'NP')
+('Lucy', '->', u'NP')
+('AMA', '->', u'NP')
+27 
+
+5390

@@ -1,0 +1,31 @@
+onejob.csv
+0
+Sentiment(classification='neg', p_pos=0.33098036101154438, p_neg=0.66901963898845596)
+
+
+1
+Sentiment(classification='neg', p_pos=0.34470612372021797, p_neg=0.65529387627978186)
+
+
+
+
+-0.4 0.6 0.662156757634 0.337843242366
+0
+No, it's not!
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Kroger', '->', u'NP')
+('January', '->', u'NP')
+('Oklahoma', '->', u'NP')
+('Allan', '->', u'NP')
+('Franz', '->', u'NP')
+('Don', '->', u'NP')
+('Australian', '->', u'NP')
+('London', '->', u'NP')
+('Di', '->', u'NP')
+('Job', '->', u'NP')
+('Barnes', '->', u'NP')
+('Job', '->', u'NP')
+('Job', '->', u'NP')
+13 
+
+1020

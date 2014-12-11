@@ -1,0 +1,25 @@
+LaTeX.csv
+0
+Sentiment(classification='neg', p_pos=0.4972306525037935, p_neg=0.5027693474962065)
+
+
+1
+Sentiment(classification='pos', p_pos=0.66329717452174386, p_neg=0.33670282547825559)
+
+
+
+
+0.85 1.0 0.419736086487 0.580263913513
+0
+[OC] A Beginner's Guide to LaTeX
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Short', '->', u'NP')
+('Donald', '->', u'NP')
+('Donald', '->', u'NP')
+('Nolan', '->', u'NP')
+('Hastings', '->', u'NP')
+('February', '->', u'NP')
+('Edward', '->', u'NP')
+7 
+
+753

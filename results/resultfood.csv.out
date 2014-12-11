@@ -1,0 +1,11 @@
+food.csv
+0
+Sentiment(classification='pos', p_pos=0.51099155472256053, p_neg=0.48900844527743964)
+
+
+1
+Sentiment(classification='neg', p_pos=0.44930432887865268, p_neg=0.55069567112134798)
+
+
+
+

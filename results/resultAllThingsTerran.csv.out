@@ -1,0 +1,73 @@
+AllThingsTerran.csv
+0
+Sentiment(classification='neg', p_pos=0.15619161834462034, p_neg=0.84380838165537775)
+
+
+1
+Sentiment(classification='pos', p_pos=0.56894061212444236, p_neg=0.43105938787555809)
+
+
+
+
+0.0833333333333 0.75 0.637433884765 0.362566115235
+0
+This video will get you a promotion sub-Masters.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('ATP', '->', u'NP')
+('Dallas', '->', u'NP')
+('Beta', '->', u'NP')
+('Dallas', '->', u'NP')
+('Dallas', '->', u'NP')
+('Dallas', '->', u'NP')
+('Thor', '->', u'NP')
+('Thor', '->', u'NP')
+('Jan', '->', u'NP')
+('December', '->', u'NP')
+('Beta', '->', u'NP')
+('Cool', '->', u'NP')
+('Beta', '->', u'NP')
+('Tech', '->', u'NP')
+('Christmas', '->', u'NP')
+('Helion', '->', u'NP')
+('Don', '->', u'NP')
+('Myers', '->', u'NP')
+('Thor', '->', u'NP')
+('Pretty', '->', u'NP')
+('B', '->', u'NP')
+('T', '->', u'NP')
+('S', '->', u'NP')
+('T', '->', u'NP')
+('S', '->', u'NP')
+('G', '->', u'NP')
+('Gun', '->', u'NP')
+('Violet', '->', u'NP')
+('S', '->', u'NP')
+('T', '->', u'NP')
+('Max', '->', u'NP')
+('Keys', '->', u'NP')
+('Korea', '->', u'NP')
+('Beta', '->', u'NP')
+('Max', '->', u'NP')
+('Dallas', '->', u'NP')
+('AMA', '->', u'NP')
+('Max', '->', u'NP')
+('Keys', '->', u'NP')
+('Columbus', '->', u'NP')
+('Thor', '->', u'NP')
+('Short', '->', u'NP')
+('Rush', '->', u'NP')
+('T', '->', u'NP')
+('Hack', '->', u'NP')
+('T', '->', u'NP')
+('T', '->', u'NP')
+('Christmas', '->', u'NP')
+('T', '->', u'NP')
+('ATP', '->', u'NP')
+('Thor', '->', u'NP')
+('Friend', '->', u'NP')
+('Hack', '->', u'NP')
+('Dallas', '->', u'NP')
+('Beta', '->', u'NP')
+55 
+
+11719

@@ -1,0 +1,48 @@
+MuseumOfReddit.csv
+0
+Sentiment(classification='pos', p_pos=0.59694000012854198, p_neg=0.40305999987145891)
+
+
+1
+Sentiment(classification='pos', p_pos=0.99009173374802772, p_neg=0.0099082662519703324)
+
+
+
+
+0.258333333333 0.466666666667 0.206484133062 0.793515866938
+0
+The vagina that launched a thousand ships
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Le', '->', u'NP')
+('Alexander', '->', u'NP')
+('AMA', '->', u'NP')
+('Baltimore', '->', u'NP')
+('Learned', '->', u'NP')
+('France', '->', u'NP')
+('Bacon', '->', u'NP')
+('AMA', '->', u'NP')
+('Sears', '->', u'NP')
+('Lucas', '->', u'NP')
+('Halloween', '->', u'NP')
+('Tom', '->', u'NP')
+('Cruise', '->', u'NP')
+('Morgan', '->', u'NP')
+('Freeman', '->', u'NP')
+('AMA', '->', u'NP')
+('AMA', '->', u'NP')
+('AMA', '->', u'NP')
+('Boston', '->', u'NP')
+('April', '->', u'NP')
+('AMA', '->', u'NP')
+('Santa', '->', u'NP')
+('Rome', '->', u'NP')
+('Rome', '->', u'NP')
+('Warner', '->', u'NP')
+('Valentine', '->', u'NP')
+('Ryan', '->', u'NP')
+('AMA', '->', u'NP')
+('China', '->', u'NP')
+('Orient', '->', u'NP')
+30 
+
+1751

@@ -1,0 +1,11 @@
+depression.csv
+0
+Sentiment(classification='pos', p_pos=0.83503851002356788, p_neg=0.1649614899764322)
+
+
+1
+Sentiment(classification='pos', p_pos=0.61249999999999993, p_neg=0.38749999999999984)
+
+
+
+

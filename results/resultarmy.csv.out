@@ -1,0 +1,11 @@
+army.csv
+0
+Sentiment(classification='pos', p_pos=0.72257506771721713, p_neg=0.27742493228278364)
+
+
+1
+Sentiment(classification='neg', p_pos=0.05284187148936613, p_neg=0.94715812851063141)
+
+
+
+

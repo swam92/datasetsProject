@@ -1,0 +1,11 @@
+lacrosse.csv
+0
+Sentiment(classification='pos', p_pos=0.57183302660634949, p_neg=0.42816697339365029)
+
+
+1
+Sentiment(classification='neg', p_pos=0.061863081752182088, p_neg=0.93813691824781664)
+
+
+
+

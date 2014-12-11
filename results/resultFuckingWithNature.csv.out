@@ -1,0 +1,82 @@
+FuckingWithNature.csv
+0
+Sentiment(classification='neg', p_pos=0.29850776629497333, p_neg=0.70149223370502634)
+
+
+1
+Sentiment(classification='neg', p_pos=0.12803588333598667, p_neg=0.87196411666401286)
+
+
+
+
+0.0333333333333 0.733333333333 0.786728175185 0.213271824815
+0
+Fucking with cows
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Guy', '->', u'NP')
+('Guy', '->', u'NP')
+('Guy', '->', u'NP')
+('Guy', '->', u'NP')
+('Marlin', '->', u'NP')
+('Guy', '->', u'NP')
+('Guy', '->', u'NP')
+('Guy', '->', u'NP')
+('Guy', '->', u'NP')
+('Guy', '->', u'NP')
+('Black', '->', u'NP')
+('Black', '->', u'NP')
+('Marlin', '->', u'NP')
+('Steve', '->', u'NP')
+('Irwin', '->', u'NP')
+('Steve', '->', u'NP')
+('Oliver', '->', u'NP')
+('Karl', '->', u'NP')
+('Brazil', '->', u'NP')
+('Brazil', '->', u'NP')
+('Raccoon', '->', u'NP')
+('Kruger', '->', u'NP')
+('Don', '->', u'NP')
+('Cam', '->', u'NP')
+('God', '->', u'NP')
+('Gee', '->', u'NP')
+('Guy', '->', u'NP')
+('Loving', '->', u'NP')
+('Friend', '->', u'NP')
+('Guy', '->', u'NP')
+('Crow', '->', u'NP')
+('Guy', '->', u'NP')
+('Hunt', '->', u'NP')
+('Guy', '->', u'NP')
+('Swim', '->', u'NP')
+('Don', '->', u'NP')
+('Beaver', '->', u'NP')
+('Fish', '->', u'NP')
+('Black', '->', u'NP')
+('Guy', '->', u'NP')
+('India', '->', u'NP')
+('Guy', '->', u'NP')
+('Black', '->', u'NP')
+('David', '->', u'NP')
+('Christmas', '->', u'NP')
+('Hunter', '->', u'NP')
+('Self', '->', u'NP')
+('Wisconsin', '->', u'NP')
+('Guy', '->', u'NP')
+('Guy', '->', u'NP')
+('Harry', '->', u'NP')
+('Black', '->', u'NP')
+('Marlin', '->', u'NP')
+('Steve', '->', u'NP')
+('Christ', '->', u'NP')
+('Pontius', '->', u'NP')
+('Fox', '->', u'NP')
+('Breeding', '->', u'NP')
+('Raccoon', '->', u'NP')
+('Africa', '->', u'NP')
+('Don', '->', u'NP')
+('Don', '->', u'NP')
+('Pretty', '->', u'NP')
+('Guy', '->', u'NP')
+64 
+
+3732

@@ -1,0 +1,82 @@
+minecraftsuggestions.csv
+0
+Sentiment(classification='pos', p_pos=0.64813640561759511, p_neg=0.35186359438240428)
+
+
+1
+Sentiment(classification='pos', p_pos=0.94437231193702809, p_neg=0.055627688062971567)
+
+
+
+
+0.258333333333 0.566666666667 0.203745641223 0.796254358777
+0
+Snow should build up over time
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Clay', '->', u'NP')
+('Easter', '->', u'NP')
+('Easter', '->', u'NP')
+('Player', '->', u'NP')
+('Black', '->', u'NP')
+('Mining', '->', u'NP')
+('Player', '->', u'NP')
+('Pretty', '->', u'NP')
+('Victoria', '->', u'NP')
+('Lily', '->', u'NP')
+('Jeb', '->', u'NP')
+('Snow', '->', u'NP')
+('Brew', '->', u'NP')
+('Charm', '->', u'NP')
+('Atlas', '->', u'NP')
+('Lily', '->', u'NP')
+('Armour', '->', u'NP')
+('Jeb', '->', u'NP')
+('Self', '->', u'NP')
+('Beta', '->', u'NP')
+('Don', '->', u'NP')
+('Speed', '->', u'NP')
+('Redstone', '->', u'NP')
+('Flint', '->', u'NP')
+('Friend', '->', u'NP')
+('Wood', '->', u'NP')
+('Redstone', '->', u'NP')
+('Player', '->', u'NP')
+('Flint', '->', u'NP')
+('Rocky', '->', u'NP')
+('Cliff', '->', u'NP')
+('Redstone', '->', u'NP')
+('Rod', '->', u'NP')
+('Halloween', '->', u'NP')
+('Rod', '->', u'NP')
+('Redstone', '->', u'NP')
+('Alpha', '->', u'NP')
+('Bright', '->', u'NP')
+('Snow', '->', u'NP')
+('Fortune', '->', u'NP')
+('Jack', '->', u'NP')
+('Lilly', '->', u'NP')
+('Hammer', '->', u'NP')
+('Ball', '->', u'NP')
+('Cricket', '->', u'NP')
+('Pretty', '->', u'NP')
+('Snow', '->', u'NP')
+('Snow', '->', u'NP')
+('Wolf', '->', u'NP')
+('Hard', '->', u'NP')
+('Jeb', '->', u'NP')
+('Steve', '->', u'NP')
+('Snow', '->', u'NP')
+('Crouch', '->', u'NP')
+('Steve', '->', u'NP')
+('Player', '->', u'NP')
+('Jeb', '->', u'NP')
+('Clay', '->', u'NP')
+('Black', '->', u'NP')
+('Redstone', '->', u'NP')
+('Green', '->', u'NP')
+('Jeb', '->', u'NP')
+('Halloween', '->', u'NP')
+('Snow', '->', u'NP')
+64 
+
+10244

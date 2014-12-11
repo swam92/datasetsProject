@@ -1,0 +1,73 @@
+CatGifs.csv
+0
+Sentiment(classification='pos', p_pos=0.56276652232341429, p_neg=0.43723347767658566)
+
+
+1
+Sentiment(classification='pos', p_pos=0.53258223950715755, p_neg=0.46741776049284278)
+
+
+
+
+1.0 0.3 0.452325619085 0.547674380915
+0
+Jump!
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Pat', '->', u'NP')
+('Lola', '->', u'NP')
+('S', '->', u'NP')
+('God', '->', u'NP')
+('Hard', '->', u'NP')
+('Snow', '->', u'NP')
+('Kitty', '->', u'NP')
+('Snow', '->', u'NP')
+('Kitty', '->', u'NP')
+('Kitty', '->', u'NP')
+('Kitty', '->', u'NP')
+('Kitty', '->', u'NP')
+('Kitty', '->', u'NP')
+('Kitty', '->', u'NP')
+('mister', '->', u'NP')
+('Kitty', '->', u'NP')
+('God', '->', u'NP')
+('Kitty', '->', u'NP')
+('Kitty', '->', u'NP')
+('Snow', '->', u'NP')
+('Powers', '->', u'NP')
+('Floyd', '->', u'NP')
+('Butt', '->', u'NP')
+('Floyd', '->', u'NP')
+('Kitty', '->', u'NP')
+('Kitty', '->', u'NP')
+('Van', '->', u'NP')
+('Rocky', '->', u'NP')
+('Anderson', '->', u'NP')
+('Cooper', '->', u'NP')
+('B', '->', u'NP')
+('U', '->', u'NP')
+('Cool', '->', u'NP')
+('Kitty', '->', u'NP')
+('Kitty', '->', u'NP')
+('Sheets', '->', u'NP')
+('Child', '->', u'NP')
+('Kitty', '->', u'NP')
+('Sybil', '->', u'NP')
+('Kitty', '->', u'NP')
+('Dizzy', '->', u'NP')
+('Marvin', '->', u'NP')
+('Sir', '->', u'NP')
+('Kitty', '->', u'NP')
+('Walter', '->', u'NP')
+('Kitty', '->', u'NP')
+('Bruce', '->', u'NP')
+('Lee', '->', u'NP')
+('Chuck', '->', u'NP')
+('Norris', '->', u'NP')
+('Burton', '->', u'NP')
+('Hard', '->', u'NP')
+('Dion', '->', u'NP')
+('Paul', '->', u'NP')
+('May', '->', u'NP')
+55 
+
+3707

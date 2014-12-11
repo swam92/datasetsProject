@@ -1,0 +1,11 @@
+snackexchange.csv
+0
+Sentiment(classification='neg', p_pos=0.10669146871287317, p_neg=0.89330853128712617)
+
+
+1
+Sentiment(classification='pos', p_pos=0.55528115343289541, p_neg=0.44471884656710436)
+
+
+
+

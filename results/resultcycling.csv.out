@@ -1,0 +1,11 @@
+cycling.csv
+0
+Sentiment(classification='pos', p_pos=0.9891461506528364, p_neg=0.010853849347166716)
+
+
+1
+Sentiment(classification='pos', p_pos=0.81880462772599405, p_neg=0.18119537227400467)
+
+
+
+

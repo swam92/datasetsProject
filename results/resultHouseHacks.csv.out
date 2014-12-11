@@ -1,0 +1,77 @@
+HouseHacks.csv
+0
+Sentiment(classification='pos', p_pos=0.59516924042093378, p_neg=0.40483075957906645)
+
+
+1
+Sentiment(classification='pos', p_pos=0.79981276097233633, p_neg=0.20018723902766311)
+
+
+
+
+0.216666666667 0.595238095238 0.302508999303 0.697491000697
+0
+This is revolutionary.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Edison', '->', u'NP')
+('Caddy', '->', u'NP')
+('Lock', '->', u'NP')
+('Swing', '->', u'NP')
+('Self', '->', u'NP')
+('Cable', '->', u'NP')
+('U', '->', u'NP')
+('Key', '->', u'NP')
+('Self', '->', u'NP')
+('Mite', '->', u'NP')
+('Low', '->', u'NP')
+('Lock', '->', u'NP')
+('Tower', '->', u'NP')
+('Wood', '->', u'NP')
+('Alden', '->', u'NP')
+('Flip', '->', u'NP')
+('Cable', '->', u'NP')
+('Child', '->', u'NP')
+('Lock', '->', u'NP')
+('Ball', '->', u'NP')
+('Cap', '->', u'NP')
+('Black', '->', u'NP')
+('Walker', '->', u'NP')
+('Edison', '->', u'NP')
+('Black', '->', u'NP')
+('Black', '->', u'NP')
+('Lock', '->', u'NP')
+('Lock', '->', u'NP')
+('Lock', '->', u'NP')
+('Brush', '->', u'NP')
+('Lock', '->', u'NP')
+('Lock', '->', u'NP')
+('Lily', '->', u'NP')
+('Black', '->', u'NP')
+('Arch', '->', u'NP')
+('Black', '->', u'NP')
+('Astor', '->', u'NP')
+('Lock', '->', u'NP')
+('Rex', '->', u'NP')
+('Gun', '->', u'NP')
+('U', '->', u'NP')
+('Key', '->', u'NP')
+('Black', '->', u'NP')
+('Lock', '->', u'NP')
+('Key', '->', u'NP')
+('Black', '->', u'NP')
+('Phillips', '->', u'NP')
+('Caddy', '->', u'NP')
+('Caddy', '->', u'NP')
+('Black', '->', u'NP')
+('Pole', '->', u'NP')
+('Bright', '->', u'NP')
+('Rod', '->', u'NP')
+('Kuhn', '->', u'NP')
+('Hook', '->', u'NP')
+('K', '->', u'NP')
+('Adams', '->', u'NP')
+('Wood', '->', u'NP')
+('Black', '->', u'NP')
+59 
+
+3391

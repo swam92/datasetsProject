@@ -1,0 +1,41 @@
+delusionalartists.csv
+0
+Sentiment(classification='pos', p_pos=0.77745376962656521, p_neg=0.22254623037343571)
+
+
+1
+Sentiment(classification='pos', p_pos=0.94003910157168979, p_neg=0.0599608984283111)
+
+
+
+
+0.175 0.7 0.141253564401 0.858746435599
+0
+I know I'd pay $35 for your handwriting.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Marilyn', '->', u'NP')
+('Alice', '->', u'NP')
+('Wonderland', '->', u'NP')
+('Paris', '->', u'NP')
+('Guy', '->', u'NP')
+('Starr', '->', u'NP')
+('Guy', '->', u'NP')
+('Cyrus', '->', u'NP')
+('Paris', '->', u'NP')
+('Chris', '->', u'NP')
+('Paris', '->', u'NP')
+('Britain', '->', u'NP')
+('Friend', '->', u'NP')
+('Quebec', '->', u'NP')
+('Sam', '->', u'NP')
+('Glasgow', '->', u'NP')
+('Babe', '->', u'NP')
+('Sarah', '->', u'NP')
+('Edward', '->', u'NP')
+('Pretty', '->', u'NP')
+('Lee', '->', u'NP')
+('Friend', '->', u'NP')
+('Cyrus', '->', u'NP')
+23 
+
+2723

@@ -1,0 +1,11 @@
+Jazz.csv
+0
+Sentiment(classification='pos', p_pos=0.64222770960499409, p_neg=0.35777229039500574)
+
+
+1
+Sentiment(classification='neg', p_pos=0.070451461306569263, p_neg=0.9295485386934309)
+
+
+
+

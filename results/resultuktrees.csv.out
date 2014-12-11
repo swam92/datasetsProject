@@ -1,0 +1,11 @@
+uktrees.csv
+0
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+1
+Sentiment(classification='pos', p_pos=0.66442692055436536, p_neg=0.33557307944563491)
+
+
+
+

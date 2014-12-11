@@ -1,0 +1,29 @@
+GuildWars.csv
+0
+Sentiment(classification='pos', p_pos=0.60894818538172457, p_neg=0.39105181461827565)
+
+
+1
+Sentiment(classification='pos', p_pos=0.53007518796992492, p_neg=0.46992481203007497)
+
+
+
+
+0.4 0.8 0.430488313324 0.569511686676
+0
+I decided to draw Brother Mhenlo, let me know what you think :)
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Keys', '->', u'NP')
+('L', '->', u'NP')
+('Jackson', '->', u'NP')
+('Armour', '->', u'NP')
+('Beta', '->', u'NP')
+('April', '->', u'NP')
+('April', '->', u'NP')
+('April', '->', u'NP')
+('April', '->', u'NP')
+('March', '->', u'NP')
+('April', '->', u'NP')
+11 
+
+471

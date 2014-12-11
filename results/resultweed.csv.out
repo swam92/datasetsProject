@@ -1,0 +1,11 @@
+weed.csv
+0
+Sentiment(classification='pos', p_pos=0.56874999999999953, p_neg=0.43124999999999997)
+
+
+1
+Sentiment(classification='neg', p_pos=0.28591419037047977, p_neg=0.71408580962951995)
+
+
+
+

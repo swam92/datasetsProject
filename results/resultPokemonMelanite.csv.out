@@ -1,0 +1,55 @@
+PokemonMelanite.csv
+0
+Sentiment(classification='pos', p_pos=0.51450093586437973, p_neg=0.48549906413562061)
+
+
+1
+Sentiment(classification='pos', p_pos=0.60205923515467408, p_neg=0.39794076484532642)
+
+
+
+
+0.5 1.0 0.44171991449 0.55828008551
+0
+Creating your own pokemon game
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Mac', '->', u'NP')
+('Beta', '->', u'NP')
+('August', '->', u'NP')
+('Yin', '->', u'NP')
+('Yang', '->', u'NP')
+('Lot', '->', u'NP')
+('Easter', '->', u'NP')
+('Charm', '->', u'NP')
+('Beta', '->', u'NP')
+('Ray', '->', u'NP')
+('Parker', '->', u'NP')
+('Lily', '->', u'NP')
+('AMA', '->', u'NP')
+('Beta', '->', u'NP')
+('Joey', '->', u'NP')
+('Easter', '->', u'NP')
+('Kelsey', '->', u'NP')
+('Yin', '->', u'NP')
+('Yang', '->', u'NP')
+('Alice', '->', u'NP')
+('Joey', '->', u'NP')
+('Bright', '->', u'NP')
+('AMA', '->', u'NP')
+('Lily', '->', u'NP')
+('Beta', '->', u'NP')
+('Ray', '->', u'NP')
+('AMA', '->', u'NP')
+('Christmas', '->', u'NP')
+('Green', '->', u'NP')
+('Player', '->', u'NP')
+('Mac', '->', u'NP')
+('Player', '->', u'NP')
+('Mac', '->', u'NP')
+('Don', '->', u'NP')
+('Mac', '->', u'NP')
+('Beta', '->', u'NP')
+('Christmas', '->', u'NP')
+37 
+
+2728

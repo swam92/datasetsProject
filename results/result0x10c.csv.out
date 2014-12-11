@@ -1,0 +1,130 @@
+0x10c.csv
+0
+Sentiment(classification='neg', p_pos=0.41939026367597526, p_neg=0.58060973632402491)
+
+
+1
+Sentiment(classification='pos', p_pos=0.53701334509760568, p_neg=0.4629866549023921)
+
+
+
+
+-0.35 0.4 0.521798195613 0.478201804387
+0
+0x10C Reference?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Alpha', '->', u'NP')
+('Fields', '->', u'NP')
+('Mac', '->', u'NP')
+('Don', '->', u'NP')
+('Mac', '->', u'NP')
+('Russia', '->', u'NP')
+('Alpha', '->', u'NP')
+('AMA', '->', u'NP')
+('July', '->', u'NP')
+('June', '->', u'NP')
+('Key', '->', u'NP')
+('Christmas', '->', u'NP')
+('Mars', '->', u'NP')
+('Beam', '->', u'NP')
+('T', '->', u'NP')
+('Bugs', '->', u'NP')
+('Bugs', '->', u'NP')
+('PM', '->', u'NP')
+('Beta', '->', u'NP')
+('Carl', '->', u'NP')
+('Player', '->', u'NP')
+('Short', '->', u'NP')
+('Fields', '->', u'NP')
+('Conway', '->', u'NP')
+('T', '->', u'NP')
+('Conway', '->', u'NP')
+('AMA', '->', u'NP')
+('June', '->', u'NP')
+('Mac', '->', u'NP')
+('Alpha', '->', u'NP')
+('France', '->', u'NP')
+('Self', '->', u'NP')
+('Mac', '->', u'NP')
+('Black', '->', u'NP')
+('Beta', '->', u'NP')
+('Don', '->', u'NP')
+('Java', '->', u'NP')
+('Speed', '->', u'NP')
+('Rust', '->', u'NP')
+('Player', '->', u'NP')
+('Short', '->', u'NP')
+('Alpha', '->', u'NP')
+('L', '->', u'NP')
+('Short', '->', u'NP')
+('Rev', '->', u'NP')
+('Java', '->', u'NP')
+('Hard', '->', u'NP')
+47 
+
+10789
+0x10c.csv
+0
+Sentiment(classification='neg', p_pos=0.41939026367597526, p_neg=0.58060973632402491)
+
+
+1
+Sentiment(classification='pos', p_pos=0.53701334509760568, p_neg=0.4629866549023921)
+
+
+
+
+-0.35 0.4 0.521798195613 0.478201804387
+0
+0x10C Reference?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Alpha', '->', u'NP')
+('Fields', '->', u'NP')
+('Mac', '->', u'NP')
+('Don', '->', u'NP')
+('Mac', '->', u'NP')
+('Russia', '->', u'NP')
+('Alpha', '->', u'NP')
+('AMA', '->', u'NP')
+('July', '->', u'NP')
+('June', '->', u'NP')
+('Key', '->', u'NP')
+('Christmas', '->', u'NP')
+('Mars', '->', u'NP')
+('Beam', '->', u'NP')
+('T', '->', u'NP')
+('Bugs', '->', u'NP')
+('Bugs', '->', u'NP')
+('PM', '->', u'NP')
+('Beta', '->', u'NP')
+('Carl', '->', u'NP')
+('Player', '->', u'NP')
+('Short', '->', u'NP')
+('Fields', '->', u'NP')
+('Conway', '->', u'NP')
+('T', '->', u'NP')
+('Conway', '->', u'NP')
+('AMA', '->', u'NP')
+('June', '->', u'NP')
+('Mac', '->', u'NP')
+('Alpha', '->', u'NP')
+('France', '->', u'NP')
+('Self', '->', u'NP')
+('Mac', '->', u'NP')
+('Black', '->', u'NP')
+('Beta', '->', u'NP')
+('Don', '->', u'NP')
+('Java', '->', u'NP')
+('Speed', '->', u'NP')
+('Rust', '->', u'NP')
+('Player', '->', u'NP')
+('Short', '->', u'NP')
+('Alpha', '->', u'NP')
+('L', '->', u'NP')
+('Short', '->', u'NP')
+('Rev', '->', u'NP')
+('Java', '->', u'NP')
+('Hard', '->', u'NP')
+47 
+
+10789

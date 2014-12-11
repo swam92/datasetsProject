@@ -1,0 +1,60 @@
+uglyduckling.csv
+0
+Sentiment(classification='neg', p_pos=0.46965362232871932, p_neg=0.53034637767128068)
+
+
+1
+Sentiment(classification='pos', p_pos=0.66711533012184721, p_neg=0.33288466987815285)
+
+
+
+
+0.5 0.9 0.431615523775 0.568384476225
+0
+The mother of all ugly ducklings! 
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Benjamin', '->', u'NP')
+('Matt', '->', u'NP')
+('Damon', '->', u'NP')
+('Mark', '->', u'NP')
+('Chris', '->', u'NP')
+('Eric', '->', u'NP')
+('Marc', '->', u'NP')
+('Miss', '->', u'NP')
+('America', '->', u'NP')
+('April', '->', u'NP')
+('September', '->', u'NP')
+('Friend', '->', u'NP')
+('Short', '->', u'NP')
+('Skinny', '->', u'NP')
+('Christmas', '->', u'NP')
+('Rosie', '->', u'NP')
+('God', '->', u'NP')
+('Jesus', '->', u'NP')
+('God', '->', u'NP')
+('Hard', '->', u'NP')
+('Child', '->', u'NP')
+('October', '->', u'NP')
+('Eve', '->', u'NP')
+('May', '->', u'NP')
+('Child', '->', u'NP')
+('Learned', '->', u'NP')
+('Friend', '->', u'NP')
+('Don', '->', u'NP')
+('Downs', '->', u'NP')
+('Bangs', '->', u'NP')
+('U', '->', u'NP')
+('G', '->', u'NP')
+('L', '->', u'NP')
+('Easter', '->', u'NP')
+('Jew', '->', u'NP')
+('Pretty', '->', u'NP')
+('Don', '->', u'NP')
+('Hard', '->', u'NP')
+('Seattle', '->', u'NP')
+('God', '->', u'NP')
+('May', '->', u'NP')
+('Brian', '->', u'NP')
+42 
+
+12284

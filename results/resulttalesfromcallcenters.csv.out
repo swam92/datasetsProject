@@ -1,0 +1,58 @@
+talesfromcallcenters.csv
+0
+Sentiment(classification='pos', p_pos=0.52532826414754041, p_neg=0.47467173585245981)
+
+
+1
+Sentiment(classification='pos', p_pos=0.51302721872455193, p_neg=0.48697278127544802)
+
+
+
+
+0.0 0.65 0.480822258564 0.519177741436
+0
+This is what you do. Okay, this is what I do?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Don', '->', u'NP')
+('Skip', '->', u'NP')
+('T', '->', u'NP')
+('China', '->', u'NP')
+('Carol', '->', u'NP')
+('Job', '->', u'NP')
+('Job', '->', u'NP')
+('Job', '->', u'NP')
+('Tech', '->', u'NP')
+('May', '->', u'NP')
+('Don', '->', u'NP')
+('Jimmy', '->', u'NP')
+('Klan', '->', u'NP')
+('Canada', '->', u'NP')
+('China', '->', u'NP')
+('America', '->', u'NP')
+('Canada', '->', u'NP')
+('Australia', '->', u'NP')
+('Joe', '->', u'NP')
+('Duffy', '->', u'NP')
+('Hawaii', '->', u'NP')
+('T', '->', u'NP')
+('Mobile', '->', u'NP')
+('Short', '->', u'NP')
+('T', '->', u'NP')
+('Mobile', '->', u'NP')
+('T', '->', u'NP')
+('Mobile', '->', u'NP')
+('Job', '->', u'NP')
+('T', '->', u'NP')
+('Mobile', '->', u'NP')
+('San', '->', u'NP')
+('Diego', '->', u'NP')
+('T', '->', u'NP')
+('Mobile', '->', u'NP')
+('T', '->', u'NP')
+('Don', '->', u'NP')
+('Key', '->', u'NP')
+('Tech', '->', u'NP')
+('T', '->', u'NP')
+40 
+
+3475

@@ -1,0 +1,33 @@
+ProRevenge.csv
+0
+Sentiment(classification='neg', p_pos=0.271881123448727, p_neg=0.72811887655127405)
+
+
+1
+Sentiment(classification='neg', p_pos=0.29017673349035855, p_neg=0.70982326650963989)
+
+
+
+
+-0.6 0.8 0.71897107153 0.28102892847
+0
+10 room inspections in a month? Time to make the RC quit.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Don', '->', u'NP')
+('Don', '->', u'NP')
+('Don', '->', u'NP')
+('Alpha', '->', u'NP')
+('Guy', '->', u'NP')
+('Alpha', '->', u'NP')
+('Saudi', '->', u'NP')
+('Arabia', '->', u'NP')
+('Fish', '->', u'NP')
+('Spain', '->', u'NP')
+('Don', '->', u'NP')
+('Spain', '->', u'NP')
+('Australia', '->', u'NP')
+('Don', '->', u'NP')
+('Jesus', '->', u'NP')
+15 
+
+1874

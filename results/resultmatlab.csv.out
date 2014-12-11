@@ -1,0 +1,49 @@
+matlab.csv
+0
+Sentiment(classification='neg', p_pos=0.2869436970082993, p_neg=0.71305630299170009)
+
+
+1
+Sentiment(classification='neg', p_pos=0.45342013390301755, p_neg=0.54657986609698272)
+
+
+
+
+-0.1 0.75 0.629818084544 0.370181915456
+0
+Does anyone have any experience using GPOPS?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Easter', '->', u'NP')
+('Easter', '->', u'NP')
+('Mars', '->', u'NP')
+('Pick', '->', u'NP')
+('Stack', '->', u'NP')
+('N', '->', u'NP')
+('Java', '->', u'NP')
+('Ball', '->', u'NP')
+('Beam', '->', u'NP')
+('Low', '->', u'NP')
+('S', '->', u'NP')
+('Jupiter', '->', u'NP')
+('Short', '->', u'NP')
+('Taylor', '->', u'NP')
+('Mac', '->', u'NP')
+('Mac', '->', u'NP')
+('Java', '->', u'NP')
+('E', '->', u'NP')
+('Boston', '->', u'NP')
+('Monte', '->', u'NP')
+('Carlo', '->', u'NP')
+('Archimedes', '->', u'NP')
+('Spikes', '->', u'NP')
+('Java', '->', u'NP')
+('Java', '->', u'NP')
+('Pretty', '->', u'NP')
+('June', '->', u'NP')
+('Fink', '->', u'NP')
+('Java', '->', u'NP')
+('Newton', '->', u'NP')
+('Cricket', '->', u'NP')
+31 
+
+10151

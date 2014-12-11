@@ -1,0 +1,11 @@
+sanantonio.csv
+0
+Sentiment(classification='pos', p_pos=0.85232930798137407, p_neg=0.14767069201862643)
+
+
+1
+Sentiment(classification='neg', p_pos=0.45994873584410922, p_neg=0.54005126415589066)
+
+
+
+

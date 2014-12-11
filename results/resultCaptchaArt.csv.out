@@ -1,0 +1,78 @@
+CaptchaArt.csv
+0
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+1
+Sentiment(classification='pos', p_pos=0.63982953236581397, p_neg=0.36017046763418537)
+
+
+
+
+0.5 1.0 0.430085233817 0.569914766183
+0
+I just got this a few minutes ago. I have to say, it made my day. (My first post btw)
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Ball', '->', u'NP')
+('Todd', '->', u'NP')
+('Connor', '->', u'NP')
+('Sonny', '->', u'NP')
+('Pete', '->', u'NP')
+('Job', '->', u'NP')
+('Hobbes', '->', u'NP')
+('Guy', '->', u'NP')
+('Edward', '->', u'NP')
+('Australian', '->', u'NP')
+('Da', '->', u'NP')
+('Hitler', '->', u'NP')
+('God', '->', u'NP')
+('Jim', '->', u'NP')
+('Italy', '->', u'NP')
+('Stephen', '->', u'NP')
+('Dick', '->', u'NP')
+('Jerry', '->', u'NP')
+('Rudolph', '->', u'NP')
+('Gary', '->', u'NP')
+('Martini', '->', u'NP')
+('Don', '->', u'NP')
+('Matthew', '->', u'NP')
+('Lock', '->', u'NP')
+('Steve', '->', u'NP')
+('Lois', '->', u'NP')
+('Moses', '->', u'NP')
+('Don', '->', u'NP')
+('Robert', '->', u'NP')
+('Santa', '->', u'NP')
+('Claus', '->', u'NP')
+('Tech', '->', u'NP')
+('S', '->', u'NP')
+('Mario', '->', u'NP')
+('Loving', '->', u'NP')
+('E', '->', u'NP')
+('Billy', '->', u'NP')
+('Jack', '->', u'NP')
+('Dolan', '->', u'NP')
+('Lee', '->', u'NP')
+('Jeff', '->', u'NP')
+('Don', '->', u'NP')
+('God', '->', u'NP')
+('George', '->', u'NP')
+('Clark', '->', u'NP')
+('Weld', '->', u'NP')
+('Fortune', '->', u'NP')
+('F', '->', u'NP')
+('Rachel', '->', u'NP')
+('Julie', '->', u'NP')
+('Don', '->', u'NP')
+('Charlie', '->', u'NP')
+('Pretty', '->', u'NP')
+('Don', '->', u'NP')
+('Don', '->', u'NP')
+('Al', '->', u'NP')
+('Gore', '->', u'NP')
+('Don', '->', u'NP')
+('F', '->', u'NP')
+('K', '->', u'NP')
+60 
+
+3394

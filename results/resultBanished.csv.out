@@ -1,0 +1,25 @@
+Banished.csv
+0
+Sentiment(classification='pos', p_pos=0.71357273968724233, p_neg=0.2864272603127575)
+
+
+1
+Sentiment(classification='pos', p_pos=0.84342859940770276, p_neg=0.15657140059229646)
+
+
+
+
+0.05 0.45 0.221499330453 0.778500669547
+0
+Does this game remind any one of Age of Mythology
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Faith', '->', u'NP')
+('Tech', '->', u'NP')
+('Luke', '->', u'NP')
+('Alpha', '->', u'NP')
+('Mac', '->', u'NP')
+('Luke', '->', u'NP')
+('Tech', '->', u'NP')
+7 
+
+769

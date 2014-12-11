@@ -1,0 +1,56 @@
+intj.csv
+0
+Sentiment(classification='neg', p_pos=0.44807151236735282, p_neg=0.55192848763264735)
+
+
+1
+Sentiment(classification='pos', p_pos=0.6559947387170898, p_neg=0.34400526128290959)
+
+
+
+
+0.136363636364 0.5 0.447966874458 0.552033125542
+0
+Finding happiness as an INTJ?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Harry', '->', u'NP')
+('Potter', '->', u'NP')
+('Mark', '->', u'NP')
+('Jack', '->', u'NP')
+('Christmas', '->', u'NP')
+('Meyers', '->', u'NP')
+('Briggs', '->', u'NP')
+('T', '->', u'NP')
+('January', '->', u'NP')
+('Stephen', '->', u'NP')
+('Learned', '->', u'NP')
+('Myers', '->', u'NP')
+('Briggs', '->', u'NP')
+('Mitchell', '->', u'NP')
+('Webb', '->', u'NP')
+('May', '->', u'NP')
+('Susan', '->', u'NP')
+('Cain', '->', u'NP')
+('Cool', '->', u'NP')
+('Carl', '->', u'NP')
+('Christmas', '->', u'NP')
+('Don', '->', u'NP')
+('Don', '->', u'NP')
+('T', '->', u'NP')
+('David', '->', u'NP')
+('Mitchell', '->', u'NP')
+('Don', '->', u'NP')
+('Self', '->', u'NP')
+('F', '->', u'NP')
+('Self', '->', u'NP')
+('Ti', '->', u'NP')
+('Faith', '->', u'NP')
+('Friend', '->', u'NP')
+('AMA', '->', u'NP')
+('Winter', '->', u'NP')
+('Ford', '->', u'NP')
+('Myers', '->', u'NP')
+('Briggs', '->', u'NP')
+38 
+
+11477

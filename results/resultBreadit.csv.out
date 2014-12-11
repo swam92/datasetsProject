@@ -1,0 +1,11 @@
+Breadit.csv
+0
+Sentiment(classification='pos', p_pos=0.81384112526524988, p_neg=0.1861588747347489)
+
+
+1
+Sentiment(classification='neg', p_pos=0.18980881879000633, p_neg=0.81019118120999245)
+
+
+
+

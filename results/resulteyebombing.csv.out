@@ -1,0 +1,76 @@
+eyebombing.csv
+0
+Sentiment(classification='neg', p_pos=0.35975714534766712, p_neg=0.64024285465233266)
+
+
+1
+Sentiment(classification='pos', p_pos=0.96148463900846515, p_neg=0.038515360991532549)
+
+
+
+
+0.0653409090909 0.551136363636 0.339379107822 0.660620892178
+0
+Reports about East Coast meteor flood in, setting off a media scramble
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Jesus', '->', u'NP')
+('Washington', '->', u'NP')
+('Green', '->', u'NP')
+('Tom', '->', u'NP')
+('G', '->', u'NP')
+('Perry', '->', u'NP')
+('Portland', '->', u'NP')
+('Coke', '->', u'NP')
+('Steve', '->', u'NP')
+('Christmas', '->', u'NP')
+('Leon', '->', u'NP')
+('Tallahassee', '->', u'NP')
+('Adele', '->', u'NP')
+('Abe', '->', u'NP')
+('Vegas', '->', u'NP')
+('Sir', '->', u'NP')
+('Lot', '->', u'NP')
+('Alice', '->', u'NP')
+('Wonderland', '->', u'NP')
+('India', '->', u'NP')
+('Coke', '->', u'NP')
+('Don', '->', u'NP')
+('Pennsylvania', '->', u'NP')
+('Hudson', '->', u'NP')
+('Tate', '->', u'NP')
+('Colorado', '->', u'NP')
+('Don', '->', u'NP')
+('Arnold', '->', u'NP')
+('Pen', '->', u'NP')
+('Dan', '->', u'NP')
+('Pennsylvania', '->', u'NP')
+('El', '->', u'NP')
+('Rudolph', '->', u'NP')
+('Boston', '->', u'NP')
+('Toronto', '->', u'NP')
+('Sears', '->', u'NP')
+('Sheridan', '->', u'NP')
+('Nat', '->', u'NP')
+('Hard', '->', u'NP')
+('Don', '->', u'NP')
+('Christmas', '->', u'NP')
+('Lisa', '->', u'NP')
+('Almighty', '->', u'NP')
+('Harry', '->', u'NP')
+('Potter', '->', u'NP')
+('Berlin', '->', u'NP')
+('Olive', '->', u'NP')
+('Charlie', '->', u'NP')
+('Chaplin', '->', u'NP')
+('Madame', '->', u'NP')
+('Jane', '->', u'NP')
+('Luke', '->', u'NP')
+('Canada', '->', u'NP')
+('Fish', '->', u'NP')
+('Kurt', '->', u'NP')
+('Robert', '->', u'NP')
+('Burns', '->', u'NP')
+('Don', '->', u'NP')
+58 
+
+3696

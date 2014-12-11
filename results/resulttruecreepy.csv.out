@@ -1,0 +1,47 @@
+truecreepy.csv
+0
+Sentiment(classification='pos', p_pos=0.54138784796573869, p_neg=0.45861215203426137)
+
+
+1
+Sentiment(classification='pos', p_pos=0.64999999999999969, p_neg=0.35000000000000003)
+
+
+
+
+-1.0 1.0 0.404306076017 0.595693923983
+0
+The Edge
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Tower', '->', u'NP')
+('Stan', '->', u'NP')
+('Everest', '->', u'NP')
+('Don', '->', u'NP')
+('Black', '->', u'NP')
+('Max', '->', u'NP')
+('Albert', '->', u'NP')
+('Fish', '->', u'NP')
+('B', '->', u'NP')
+('July', '->', u'NP')
+('Colombia', '->', u'NP')
+('Bean', '->', u'NP')
+('Poughkeepsie', '->', u'NP')
+('Hunt', '->', u'NP')
+('Don', '->', u'NP')
+('Christmas', '->', u'NP')
+('Jacob', '->', u'NP')
+('Dawn', '->', u'NP')
+('Self', '->', u'NP')
+('Japan', '->', u'NP')
+('Louise', '->', u'NP')
+('Paxton', '->', u'NP')
+('Bunny', '->', u'NP')
+('Lester', '->', u'NP')
+('Don', '->', u'NP')
+('David', '->', u'NP')
+('Tower', '->', u'NP')
+('Gary', '->', u'NP')
+('Max', '->', u'NP')
+29 
+
+2608

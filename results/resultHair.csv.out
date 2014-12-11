@@ -1,0 +1,82 @@
+Hair.csv
+0
+Sentiment(classification='pos', p_pos=0.53736719794855869, p_neg=0.46263280205144097)
+
+
+1
+Sentiment(classification='neg', p_pos=0.41955178904997575, p_neg=0.58044821095002264)
+
+
+
+
+0.116666666667 0.5 0.521540506501 0.478459493499
+0
+Haircut tomorrow. I'm thinking of trying a new style, what do you think would look good?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Pretty', '->', u'NP')
+('Buchanan', '->', u'NP')
+('Tao', '->', u'NP')
+('Okamoto', '->', u'NP')
+('Fish', '->', u'NP')
+('B', '->', u'NP')
+('Violet', '->', u'NP')
+('Emma', '->', u'NP')
+('Watson', '->', u'NP')
+('Self', '->', u'NP')
+('October', '->', u'NP')
+('Loving', '->', u'NP')
+('Guy', '->', u'NP')
+('Buchanan', '->', u'NP')
+('September', '->', u'NP')
+('B', '->', u'NP')
+('Fish', '->', u'NP')
+('Loving', '->', u'NP')
+('Bobby', '->', u'NP')
+('December', '->', u'NP')
+('Black', '->', u'NP')
+('Green', '->', u'NP')
+('Pretty', '->', u'NP')
+('Sally', '->', u'NP')
+('Sam', '->', u'NP')
+('Villa', '->', u'NP')
+('Florida', '->', u'NP')
+('Matt', '->', u'NP')
+('Smith', '->', u'NP')
+('Cool', '->', u'NP')
+('Fox', '->', u'NP')
+('F', '->', u'NP')
+('Jamaican', '->', u'NP')
+('Bangs', '->', u'NP')
+('Green', '->', u'NP')
+('Hollywood', '->', u'NP')
+('Holloway', '->', u'NP')
+('Jason', '->', u'NP')
+('F', '->', u'NP')
+('Bangs', '->', u'NP')
+('Easter', '->', u'NP')
+('Atlanta', '->', u'NP')
+('B', '->', u'NP')
+('Bangs', '->', u'NP')
+('Mal', '->', u'NP')
+('F', '->', u'NP')
+('Sally', '->', u'NP')
+('Rachel', '->', u'NP')
+('Betty', '->', u'NP')
+('Korea', '->', u'NP')
+('Styles', '->', u'NP')
+('Bangs', '->', u'NP')
+('November', '->', u'NP')
+('Boston', '->', u'NP')
+('Brown', '->', u'NP')
+('Angelo', '->', u'NP')
+('Anne', '->', u'NP')
+('Hathaway', '->', u'NP')
+('Angelina', '->', u'NP')
+('Ricci', '->', u'NP')
+('Bangs', '->', u'NP')
+('F', '->', u'NP')
+('Tasmania', '->', u'NP')
+('F', '->', u'NP')
+64 
+
+14281

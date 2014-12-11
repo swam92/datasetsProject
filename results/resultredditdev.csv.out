@@ -1,0 +1,56 @@
+redditdev.csv
+0
+Sentiment(classification='neg', p_pos=0.12040709165011261, p_neg=0.87959290834988613)
+
+
+1
+Sentiment(classification='pos', p_pos=0.90017282784197883, p_neg=0.099827172158018854)
+
+
+
+
+0.0 0.183333333333 0.489710040254 0.510289959746
+0
+the service you request is temporarily unavailable. please try again later. 
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('April', '->', u'NP')
+('June', '->', u'NP')
+('Beta', '->', u'NP')
+('Pi', '->', u'NP')
+('Amazon', '->', u'NP')
+('February', '->', u'NP')
+('Cool', '->', u'NP')
+('Java', '->', u'NP')
+('Page', '->', u'NP')
+('Amazon', '->', u'NP')
+('Java', '->', u'NP')
+('App', '->', u'NP')
+('App', '->', u'NP')
+('Learned', '->', u'NP')
+('Don', '->', u'NP')
+('Page', '->', u'NP')
+('App', '->', u'NP')
+('Sept', '->', u'NP')
+('AMA', '->', u'NP')
+('April', '->', u'NP')
+('App', '->', u'NP')
+('App', '->', u'NP')
+('Bacon', '->', u'NP')
+('App', '->', u'NP')
+('Java', '->', u'NP')
+('PM', '->', u'NP')
+('Alpha', '->', u'NP')
+('Amazon', '->', u'NP')
+('Metro', '->', u'NP')
+('Blackberry', '->', u'NP')
+('Amazon', '->', u'NP')
+('Child', '->', u'NP')
+('App', '->', u'NP')
+('Pyrex', '->', u'NP')
+('Java', '->', u'NP')
+('App', '->', u'NP')
+('Amazon', '->', u'NP')
+('302', '->', u'NP')
+38 
+
+12356

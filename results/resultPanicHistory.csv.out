@@ -1,0 +1,11 @@
+PanicHistory.csv
+0
+Sentiment(classification='neg', p_pos=0.16046213206409524, p_neg=0.83953786793590535)
+
+
+1
+Sentiment(classification='pos', p_pos=0.99466958526837623, p_neg=0.0053304147316232415)
+
+
+
+

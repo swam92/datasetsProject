@@ -1,0 +1,11 @@
+SuicideWatch.csv
+0
+Sentiment(classification='neg', p_pos=0.49845797471868658, p_neg=0.50154202528131231)
+
+
+1
+Sentiment(classification='pos', p_pos=0.84923031451015007, p_neg=0.15076968548984876)
+
+
+
+

@@ -1,0 +1,11 @@
+explainlikeimjive.csv
+0
+Sentiment(classification='pos', p_pos=0.62743443261490506, p_neg=0.37256556738509528)
+
+
+1
+Sentiment(classification='neg', p_pos=0.22759226713532502, p_neg=0.77240773286467523)
+
+
+
+

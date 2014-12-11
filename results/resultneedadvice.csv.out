@@ -1,0 +1,78 @@
+needadvice.csv
+0
+Sentiment(classification='pos', p_pos=0.88550552080337919, p_neg=0.11449447919662074)
+
+
+1
+Sentiment(classification='neg', p_pos=0.34268817362185328, p_neg=0.657311826378146)
+
+
+
+
+0.1 0.2 0.385903152787 0.614096847213
+0
+Massive mental grudge towards drugs/alcohol.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Don', '->', u'NP')
+('September', '->', u'NP')
+('Christmas', '->', u'NP')
+('T', '->', u'NP')
+('T', '->', u'NP')
+('Christmas', '->', u'NP')
+('Christmas', '->', u'NP')
+('Younger', '->', u'NP')
+('F', '->', u'NP')
+('Saudi', '->', u'NP')
+('Arabia', '->', u'NP')
+('Bill', '->', u'NP')
+('Child', '->', u'NP')
+('Portland', '->', u'NP')
+('Sears', '->', u'NP')
+('Saudi', '->', u'NP')
+('Arabia', '->', u'NP')
+('T', '->', u'NP')
+('Forrest', '->', u'NP')
+('Kitty', '->', u'NP')
+('Worthy', '->', u'NP')
+('F', '->', u'NP')
+('Baker', '->', u'NP')
+('March', '->', u'NP')
+('Friend', '->', u'NP')
+('Job', '->', u'NP')
+('Don', '->', u'NP')
+('Met', '->', u'NP')
+('Lowell', '->', u'NP')
+('Mason', '->', u'NP')
+('America', '->', u'NP')
+('Mary', '->', u'NP')
+('Guy', '->', u'NP')
+('Asia', '->', u'NP')
+('Africa', '->', u'NP')
+('California', '->', u'NP')
+('Pretty', '->', u'NP')
+('Don', '->', u'NP')
+('Short', '->', u'NP')
+('AMA', '->', u'NP')
+('Friend', '->', u'NP')
+('Job', '->', u'NP')
+('Low', '->', u'NP')
+('Bacon', '->', u'NP')
+('Child', '->', u'NP')
+('Friend', '->', u'NP')
+('Ghana', '->', u'NP')
+('Christmas', '->', u'NP')
+('Christmas', '->', u'NP')
+('F', '->', u'NP')
+('Friend', '->', u'NP')
+('Christmas', '->', u'NP')
+('Self', '->', u'NP')
+('L', '->', u'NP')
+('Friend', '->', u'NP')
+('Self', '->', u'NP')
+('Portland', '->', u'NP')
+('Oregon', '->', u'NP')
+('Friend', '->', u'NP')
+('Halloween', '->', u'NP')
+60 
+
+17807

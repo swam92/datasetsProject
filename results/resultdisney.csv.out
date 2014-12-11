@@ -1,0 +1,11 @@
+disney.csv
+0
+Sentiment(classification='neg', p_pos=0.39362835000175733, p_neg=0.60637164999824023)
+
+
+1
+Sentiment(classification='pos', p_pos=0.70038883258815143, p_neg=0.29961116741184679)
+
+
+
+

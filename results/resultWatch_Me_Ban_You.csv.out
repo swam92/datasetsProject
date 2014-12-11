@@ -1,0 +1,19 @@
+Watch_Me_Ban_You.csv
+0
+Sentiment(classification='pos', p_pos=0.56661164450109169, p_neg=0.43338835549890847)
+
+
+1
+Sentiment(classification='neg', p_pos=0.47722567287784678, p_neg=0.52277432712215322)
+
+
+
+
+0.5 0.5 0.478081341311 0.521918658689
+0
+He won't.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Florence', '->', u'NP')
+1 
+
+265

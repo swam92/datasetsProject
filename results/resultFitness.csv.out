@@ -1,0 +1,11 @@
+Fitness.csv
+0
+Sentiment(classification='pos', p_pos=0.51331779917361009, p_neg=0.4866822008263898)
+
+
+1
+Sentiment(classification='neg', p_pos=0.46282400332172224, p_neg=0.53717599667827776)
+
+
+
+

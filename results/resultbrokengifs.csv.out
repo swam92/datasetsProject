@@ -1,0 +1,11 @@
+brokengifs.csv
+0
+Sentiment(classification='neg', p_pos=0.2083333333333334, p_neg=0.79166666666666652)
+
+
+1
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+
+

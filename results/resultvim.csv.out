@@ -1,0 +1,11 @@
+vim.csv
+0
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+1
+Sentiment(classification='pos', p_pos=0.76061975721100228, p_neg=0.23938024278899803)
+
+
+
+

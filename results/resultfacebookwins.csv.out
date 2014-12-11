@@ -1,0 +1,11 @@
+facebookwins.csv
+0
+Sentiment(classification='neg', p_pos=0.32812499999999989, p_neg=0.671875)
+
+
+1
+Sentiment(classification='pos', p_pos=0.81816163410301845, p_neg=0.18183836589698066)
+
+
+
+

@@ -1,0 +1,52 @@
+linuxadmin.csv
+0
+Sentiment(classification='neg', p_pos=0.28056965538977896, p_neg=0.71943034461022082)
+
+
+1
+Sentiment(classification='pos', p_pos=0.58945812152123889, p_neg=0.4105418784787615)
+
+
+
+
+0.2 0.2 0.564986111544 0.435013888456
+0
+new junior admin - how should i put my companies education budget to use?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('China', '->', u'NP')
+('Job', '->', u'NP')
+('Brian', '->', u'NP')
+('Amazon', '->', u'NP')
+('Job', '->', u'NP')
+('N', '->', u'NP')
+('Page', '->', u'NP')
+('T', '->', u'NP')
+('Self', '->', u'NP')
+('Germany', '->', u'NP')
+('Mac', '->', u'NP')
+('K', '->', u'NP')
+('Job', '->', u'NP')
+('Seattle', '->', u'NP')
+('AMA', '->', u'NP')
+('Key', '->', u'NP')
+('Guest', '->', u'NP')
+('K', '->', u'NP')
+('S', '->', u'NP')
+('S', '->', u'NP')
+('Amazon', '->', u'NP')
+('Europe', '->', u'NP')
+('Pittsburgh', '->', u'NP')
+('Seattle', '->', u'NP')
+('PM', '->', u'NP')
+('Hard', '->', u'NP')
+('U', '->', u'NP')
+('S', '->', u'NP')
+('Mac', '->', u'NP')
+('Arch', '->', u'NP')
+('Job', '->', u'NP')
+('Pittsburgh', '->', u'NP')
+('March', '->', u'NP')
+('Java', '->', u'NP')
+34 
+
+10914

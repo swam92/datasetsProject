@@ -1,0 +1,45 @@
+AskElectronics.csv
+0
+Sentiment(classification='neg', p_pos=0.1369463031854071, p_neg=0.86305369681459232)
+
+
+1
+Sentiment(classification='neg', p_pos=0.46301628788081101, p_neg=0.53698371211918883)
+
+
+
+
+0.375 0.475 0.700018704467 0.299981295533
+0
+Op-Amp Design question (problem with bias currents / offset voltages?)
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Player', '->', u'NP')
+('Max', '->', u'NP')
+('Smith', '->', u'NP')
+('Horowitz', '->', u'NP')
+('Don', '->', u'NP')
+('Jordan', '->', u'NP')
+('Korea', '->', u'NP')
+('Philly', '->', u'NP')
+('Cable', '->', u'NP')
+('Pi', '->', u'NP')
+('mister', '->', u'NP')
+('Don', '->', u'NP')
+('Plate', '->', u'NP')
+('Harvard', '->', u'NP')
+('von', '->', u'NP')
+('Neumann', '->', u'NP')
+('B', '->', u'NP')
+('Christmas', '->', u'NP')
+('Canada', '->', u'NP')
+('Christmas', '->', u'NP')
+('Pi', '->', u'NP')
+('Pi', '->', u'NP')
+('N', '->', u'NP')
+('Low', '->', u'NP')
+('Boston', '->', u'NP')
+('RCA', '->', u'NP')
+('E', '->', u'NP')
+27 
+
+13767

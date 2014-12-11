@@ -1,0 +1,79 @@
+bikewrench.csv
+0
+Sentiment(classification='neg', p_pos=0.21826476891200428, p_neg=0.78173523108799658)
+
+
+1
+Sentiment(classification='pos', p_pos=0.60543653147582854, p_neg=0.39456346852417307)
+
+
+
+
+0.316666666667 0.65 0.588149349806 0.411850650194
+0
+Question about Shimano compatibility - rear cassette replacement.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Ross', '->', u'NP')
+('Friend', '->', u'NP')
+('Tokyo', '->', u'NP')
+('Fuji', '->', u'NP')
+('Gran', '->', u'NP')
+('Oklahoma', '->', u'NP')
+('Don', '->', u'NP')
+('Short', '->', u'NP')
+('Phil', '->', u'NP')
+('Speed', '->', u'NP')
+('Sheldon', '->', u'NP')
+('Brown', '->', u'NP')
+('Job', '->', u'NP')
+('Fuji', '->', u'NP')
+('America', '->', u'NP')
+('Rust', '->', u'NP')
+('Rust', '->', u'NP')
+('Cable', '->', u'NP')
+('Speed', '->', u'NP')
+('AMA', '->', u'NP')
+('Dunlop', '->', u'NP')
+('Fuji', '->', u'NP')
+('Fox', '->', u'NP')
+('Reynolds', '->', u'NP')
+('Rider', '->', u'NP')
+('Hub', '->', u'NP')
+('Klein', '->', u'NP')
+('Florida', '->', u'NP')
+('Hub', '->', u'NP')
+('Le', '->', u'NP')
+('Pretty', '->', u'NP')
+('Hub', '->', u'NP')
+('L', '->', u'NP')
+('Christmas', '->', u'NP')
+('Tech', '->', u'NP')
+('Gary', '->', u'NP')
+('Fisher', '->', u'NP')
+('Hub', '->', u'NP')
+('Guy', '->', u'NP')
+('Hub', '->', u'NP')
+('Cable', '->', u'NP')
+('Speed', '->', u'NP')
+('Chris', '->', u'NP')
+('Speed', '->', u'NP')
+('Fuji', '->', u'NP')
+('Lever', '->', u'NP')
+('Skinny', '->', u'NP')
+('Black', '->', u'NP')
+('Le', '->', u'NP')
+('Speed', '->', u'NP')
+('Hayes', '->', u'NP')
+('Cable', '->', u'NP')
+('Black', '->', u'NP')
+('Rider', '->', u'NP')
+('Worth', '->', u'NP')
+('Case', '->', u'NP')
+('Hub', '->', u'NP')
+('Speed', '->', u'NP')
+('Rider', '->', u'NP')
+('Hub', '->', u'NP')
+('Hard', '->', u'NP')
+61 
+
+12917

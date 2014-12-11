@@ -1,0 +1,38 @@
+declutter.csv
+0
+Sentiment(classification='pos', p_pos=0.60826928351492837, p_neg=0.39173071648507085)
+
+
+1
+Sentiment(classification='pos', p_pos=0.64861232086636178, p_neg=0.3513876791336385)
+
+
+
+
+0.15625 0.291666666667 0.371559197809 0.628440802191
+0
+An Interesting way to Declutter!
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Craft', '->', u'NP')
+('B', '->', u'NP')
+('George', '->', u'NP')
+('Adams', '->', u'NP')
+('Don', '->', u'NP')
+('Seattle', '->', u'NP')
+('Tolstoy', '->', u'NP')
+('Ottawa', '->', u'NP')
+('Pretty', '->', u'NP')
+('Tech', '->', u'NP')
+('Means', '->', u'NP')
+('Don', '->', u'NP')
+('Case', '->', u'NP')
+('Sell', '->', u'NP')
+('Don', '->', u'NP')
+('Katie', '->', u'NP')
+('Sell', '->', u'NP')
+('Short', '->', u'NP')
+('California', '->', u'NP')
+('Case', '->', u'NP')
+20 
+
+4064

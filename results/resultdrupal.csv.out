@@ -1,0 +1,11 @@
+drupal.csv
+0
+Sentiment(classification='pos', p_pos=0.58677935799357772, p_neg=0.41322064200642261)
+
+
+1
+Sentiment(classification='neg', p_pos=0.36144558942180888, p_neg=0.63855441057819229)
+
+
+
+

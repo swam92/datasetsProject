@@ -1,0 +1,77 @@
+usenet.csv
+0
+Sentiment(classification='pos', p_pos=0.52289000394655216, p_neg=0.47710999605344767)
+
+
+1
+Sentiment(classification='pos', p_pos=0.63035909998386452, p_neg=0.36964090001613531)
+
+
+
+
+-0.2125 0.308333333333 0.423375448035 0.576624551965
+0
+Do newznab, sick beard and couch potato rely on proper file names? I.e. rather than req numbers or funny spellings?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Joseph', '->', u'NP')
+('Jupiter', '->', u'NP')
+('Mobile', '->', u'NP')
+('Amsterdam', '->', u'NP')
+('Alpha', '->', u'NP')
+('Hollywood', '->', u'NP')
+('Lemon', '->', u'NP')
+('Mac', '->', u'NP')
+('AMA', '->', u'NP')
+('Joe', '->', u'NP')
+('April', '->', u'NP')
+('Alpha', '->', u'NP')
+('Joe', '->', u'NP')
+('Alfred', '->', u'NP')
+('Mylar', '->', u'NP')
+('Alfred', '->', u'NP')
+('Case', '->', u'NP')
+('Mylar', '->', u'NP')
+('Black', '->', u'NP')
+('April', '->', u'NP')
+('AMA', '->', u'NP')
+('Warner', '->', u'NP')
+('Cable', '->', u'NP')
+('Kansas', '->', u'NP')
+('Joe', '->', u'NP')
+('Black', '->', u'NP')
+('April', '->', u'NP')
+('Christmas', '->', u'NP')
+('Beta', '->', u'NP')
+('September', '->', u'NP')
+('Joe', '->', u'NP')
+('Mac', '->', u'NP')
+('Joe', '->', u'NP')
+('Speed', '->', u'NP')
+('Trinity', '->', u'NP')
+('Cox', '->', u'NP')
+('Beta', '->', u'NP')
+('Australian', '->', u'NP')
+('PM', '->', u'NP')
+('Pi', '->', u'NP')
+('Holland', '->', u'NP')
+('America', '->', u'NP')
+('Arizona', '->', u'NP')
+('Mac', '->', u'NP')
+('E', '->', u'NP')
+('Mylar', '->', u'NP')
+('Asia', '->', u'NP')
+('T', '->', u'NP')
+('U', '->', u'NP')
+('Sphinx', '->', u'NP')
+('Speed', '->', u'NP')
+('Beta', '->', u'NP')
+('Australian', '->', u'NP')
+('Joseph', '->', u'NP')
+('America', '->', u'NP')
+('Mac', '->', u'NP')
+('Alpha', '->', u'NP')
+('Keys', '->', u'NP')
+('App', '->', u'NP')
+59 
+
+10734

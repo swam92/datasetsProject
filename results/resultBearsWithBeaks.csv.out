@@ -1,0 +1,30 @@
+BearsWithBeaks.csv
+0
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+1
+Sentiment(classification='pos', p_pos=0.71394889066698375, p_neg=0.28605110933301492)
+
+
+
+
+0.0763888888889 0.583333333333 0.393025554667 0.606974445333
+0
+The rare Beakman Bear!
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Brace', '->', u'NP')
+('Salmon', '->', u'NP')
+('Brown', '->', u'NP')
+('Russia', '->', u'NP')
+('God', '->', u'NP')
+('Black', '->', u'NP')
+('Bald', '->', u'NP')
+('Bucky', '->', u'NP')
+('Yogi', '->', u'NP')
+('Friend', '->', u'NP')
+('Cherokee', '->', u'NP')
+('July', '->', u'NP')
+12 
+
+1193

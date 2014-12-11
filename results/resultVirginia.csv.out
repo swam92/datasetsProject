@@ -1,0 +1,11 @@
+Virginia.csv
+0
+Sentiment(classification='neg', p_pos=0.10351346256726394, p_neg=0.8964865374327361)
+
+
+1
+Sentiment(classification='pos', p_pos=0.77363118079820969, p_neg=0.22636881920179133)
+
+
+
+

@@ -1,0 +1,11 @@
+Cthulhu.csv
+0
+Sentiment(classification='pos', p_pos=0.86074505194983808, p_neg=0.1392549480501615)
+
+
+1
+Sentiment(classification='neg', p_pos=0.24999999999999969, p_neg=0.75)
+
+
+
+

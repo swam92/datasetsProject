@@ -1,0 +1,44 @@
+wtfstockphotos.csv
+0
+Sentiment(classification='pos', p_pos=0.95930885919490994, p_neg=0.040691140805089301)
+
+
+1
+Sentiment(classification='pos', p_pos=0.91266998903895602, p_neg=0.087330010961044993)
+
+
+
+
+0.075 0.525 0.0640105758831 0.935989424117
+0
+Interracial Couple Showing Affection
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Christmas', '->', u'NP')
+('Hitler', '->', u'NP')
+('Hitler', '->', u'NP')
+('Hazard', '->', u'NP')
+('Jesus', '->', u'NP')
+('Santa', '->', u'NP')
+('Bald', '->', u'NP')
+('Lemon', '->', u'NP')
+('Hitler', '->', u'NP')
+('Bald', '->', u'NP')
+('Satan', '->', u'NP')
+('Fish', '->', u'NP')
+('Santa', '->', u'NP')
+('Claus', '->', u'NP')
+('Plane', '->', u'NP')
+('Harry', '->', u'NP')
+('Potter', '->', u'NP')
+('Jesus', '->', u'NP')
+('Guy', '->', u'NP')
+('Gun', '->', u'NP')
+('Peel', '->', u'NP')
+('Frankfurter', '->', u'NP')
+('Willy', '->', u'NP')
+('Black', '->', u'NP')
+('Black', '->', u'NP')
+('Page', '->', u'NP')
+26 
+
+2366

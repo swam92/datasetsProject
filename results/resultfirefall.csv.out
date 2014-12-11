@@ -1,0 +1,11 @@
+firefall.csv
+0
+Sentiment(classification='pos', p_pos=0.64544559141332236, p_neg=0.35455440858667819)
+
+
+1
+Sentiment(classification='neg', p_pos=0.40214447358102801, p_neg=0.59785552641897188)
+
+
+
+

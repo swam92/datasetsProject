@@ -1,0 +1,43 @@
+GoodValue.csv
+0
+Sentiment(classification='pos', p_pos=0.59844202013357106, p_neg=0.40155797986642922)
+
+
+1
+Sentiment(classification='pos', p_pos=0.99740259026027267, p_neg=0.002597409739725145)
+
+
+
+
+1.0 0.3 0.202077694803 0.797922305197
+0
+My mechanic recommended Valvoline High Mileage Synthetic Motor Oil telling me that I would notice a difference in performance.  I put it in our Civic.  When my wife drove it the next day, she asked what I did to our car to make it run so much better.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Amazon', '->', u'NP')
+('Thai', '->', u'NP')
+('Dexter', '->', u'NP')
+('Self', '->', u'NP')
+('Hard', '->', u'NP')
+('Sheets', '->', u'NP')
+('T', '->', u'NP')
+('Mobile', '->', u'NP')
+('Brush', '->', u'NP')
+('Bean', '->', u'NP')
+('T', '->', u'NP')
+('Doc', '->', u'NP')
+('T', '->', u'NP')
+('Trimmer', '->', u'NP')
+('B', '->', u'NP')
+('Bright', '->', u'NP')
+('Delta', '->', u'NP')
+('Christmas', '->', u'NP')
+('Winter', '->', u'NP')
+('Chicago', '->', u'NP')
+('Burlington', '->', u'NP')
+('Canada', '->', u'NP')
+('Gun', '->', u'NP')
+('Speed', '->', u'NP')
+('Mobile', '->', u'NP')
+25 
+
+2940

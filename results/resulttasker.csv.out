@@ -1,0 +1,61 @@
+tasker.csv
+0
+Sentiment(classification='pos', p_pos=0.59909909909909909, p_neg=0.4009009009009008)
+
+
+1
+Sentiment(classification='pos', p_pos=0.56770886254017094, p_neg=0.43229113745982889)
+
+
+
+
+0.35 0.6 0.41659601918 0.58340398082
+0
+I made the switch from Settings Profiles to Tasker. I can't figure out how to turn off vibrate when the phone is charging.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Lock', '->', u'NP')
+('Pretty', '->', u'NP')
+('Beta', '->', u'NP')
+('Alpha', '->', u'NP')
+('Beta', '->', u'NP')
+('App', '->', u'NP')
+('Flip', '->', u'NP')
+('App', '->', u'NP')
+('Morse', '->', u'NP')
+('Europe', '->', u'NP')
+('App', '->', u'NP')
+('Mac', '->', u'NP')
+('Pi', '->', u'NP')
+('Fisher', '->', u'NP')
+('S', '->', u'NP')
+('App', '->', u'NP')
+('Mark', '->', u'NP')
+('Don', '->', u'NP')
+('Mobile', '->', u'NP')
+('Mobile', '->', u'NP')
+('Lock', '->', u'NP')
+('Lock', '->', u'NP')
+('App', '->', u'NP')
+('Lock', '->', u'NP')
+('Mark', '->', u'NP')
+('G', '->', u'NP')
+('Jarvis', '->', u'NP')
+('Mobile', '->', u'NP')
+('App', '->', u'NP')
+('Pandora', '->', u'NP')
+('Mac', '->', u'NP')
+('Beta', '->', u'NP')
+('Mobile', '->', u'NP')
+('B', '->', u'NP')
+('Pocket', '->', u'NP')
+('App', '->', u'NP')
+('Pandora', '->', u'NP')
+('App', '->', u'NP')
+('App', '->', u'NP')
+('Doc', '->', u'NP')
+('App', '->', u'NP')
+('Short', '->', u'NP')
+('App', '->', u'NP')
+43 
+
+13242

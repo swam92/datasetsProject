@@ -1,0 +1,11 @@
+wine.csv
+0
+Sentiment(classification='neg', p_pos=0.30497127791615641, p_neg=0.6950287220838437)
+
+
+1
+Sentiment(classification='neg', p_pos=0.35557228186213086, p_neg=0.64442771813786826)
+
+
+
+

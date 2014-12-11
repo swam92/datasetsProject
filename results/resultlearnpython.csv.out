@@ -1,0 +1,81 @@
+learnpython.csv
+0
+Sentiment(classification='neg', p_pos=0.32254860354262571, p_neg=0.67745139645737218)
+
+
+1
+Sentiment(classification='pos', p_pos=0.52686882182993933, p_neg=0.47313117817006028)
+
+
+
+
+0.25 0.3125 0.575291287314 0.424708712686
+0
+Finding a specific word in a string/file?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('F', '->', u'NP')
+('David', '->', u'NP')
+('April', '->', u'NP')
+('Friend', '->', u'NP')
+('AMA', '->', u'NP')
+('Stack', '->', u'NP')
+('E', '->', u'NP')
+('Allen', '->', u'NP')
+('B', '->', u'NP')
+('Cheat', '->', u'NP')
+('Weeks', '->', u'NP')
+('Hard', '->', u'NP')
+('Hard', '->', u'NP')
+('Khan', '->', u'NP')
+('Django', '->', u'NP')
+('AMA', '->', u'NP')
+('Java', '->', u'NP')
+('Hard', '->', u'NP')
+('Hard', '->', u'NP')
+('Java', '->', u'NP')
+('Django', '->', u'NP')
+('Self', '->', u'NP')
+('Hard', '->', u'NP')
+('June', '->', u'NP')
+('Christmas', '->', u'NP')
+('May', '->', u'NP')
+('Al', '->', u'NP')
+('Amazon', '->', u'NP')
+('Amazon', '->', u'NP')
+('Cheat', '->', u'NP')
+('Key', '->', u'NP')
+('Django', '->', u'NP')
+('Player', '->', u'NP')
+('Mac', '->', u'NP')
+('Mark', '->', u'NP')
+('Mark', '->', u'NP')
+('Conway', '->', u'NP')
+('Low', '->', u'NP')
+('App', '->', u'NP')
+('Django', '->', u'NP')
+('Mac', '->', u'NP')
+('App', '->', u'NP')
+('Monty', '->', u'NP')
+('Django', '->', u'NP')
+('Midi', '->', u'NP')
+('Mark', '->', u'NP')
+('Mac', '->', u'NP')
+('Hard', '->', u'NP')
+('Mac', '->', u'NP')
+('ABC', '->', u'NP')
+('Key', '->', u'NP')
+('Django', '->', u'NP')
+('Django', '->', u'NP')
+('Tony', '->', u'NP')
+('Django', '->', u'NP')
+('Django', '->', u'NP')
+('Conway', '->', u'NP')
+('Django', '->', u'NP')
+('Pi', '->', u'NP')
+('Django', '->', u'NP')
+('Java', '->', u'NP')
+('Michael', '->', u'NP')
+('AMA', '->', u'NP')
+63 
+
+12504

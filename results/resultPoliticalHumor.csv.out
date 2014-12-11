@@ -1,0 +1,11 @@
+PoliticalHumor.csv
+0
+Sentiment(classification='pos', p_pos=0.65256600194249226, p_neg=0.34743399805750769)
+
+
+1
+Sentiment(classification='neg', p_pos=0.26649342620523736, p_neg=0.73350657379476225)
+
+
+
+

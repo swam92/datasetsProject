@@ -1,0 +1,11 @@
+museum.csv
+0
+Sentiment(classification='neg', p_pos=0.16655888909688074, p_neg=0.83344111090311956)
+
+
+1
+Sentiment(classification='pos', p_pos=0.61704455368765709, p_neg=0.38295544631234041)
+
+
+
+

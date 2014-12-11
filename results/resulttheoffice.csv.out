@@ -1,0 +1,11 @@
+theoffice.csv
+0
+Sentiment(classification='pos', p_pos=0.82837884133111395, p_neg=0.17162115866888711)
+
+
+1
+Sentiment(classification='pos', p_pos=0.56141645590828204, p_neg=0.43858354409171785)
+
+
+
+

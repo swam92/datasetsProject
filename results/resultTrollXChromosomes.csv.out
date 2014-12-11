@@ -1,0 +1,79 @@
+TrollXChromosomes.csv
+0
+Sentiment(classification='pos', p_pos=0.5245215858392962, p_neg=0.47547841416070397)
+
+
+1
+Sentiment(classification='neg', p_pos=0.35046846851840241, p_neg=0.64953153148159937)
+
+
+
+
+-0.125 0.125 0.562504972821 0.437495027179
+0
+It never fails. 
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Sir', '->', u'NP')
+('Myers', '->', u'NP')
+('Louis', '->', u'NP')
+('Friend', '->', u'NP')
+('Arizona', '->', u'NP')
+('Self', '->', u'NP')
+('Jon', '->', u'NP')
+('Snow', '->', u'NP')
+('Wise', '->', u'NP')
+('LD', '->', u'NP')
+('Blanche', '->', u'NP')
+('August', '->', u'NP')
+('Grey', '->', u'NP')
+('Eric', '->', u'NP')
+('T', '->', u'NP')
+('Pretty', '->', u'NP')
+('God', '->', u'NP')
+('Gwen', '->', u'NP')
+('Don', '->', u'NP')
+('Pretty', '->', u'NP')
+('Pretty', '->', u'NP')
+('Liz', '->', u'NP')
+('Lemon', '->', u'NP')
+('Hollywood', '->', u'NP')
+('George', '->', u'NP')
+('Martin', '->', u'NP')
+('Guy', '->', u'NP')
+('Christmas', '->', u'NP')
+('July', '->', u'NP')
+('Dove', '->', u'NP')
+('Don', '->', u'NP')
+('Seattle', '->', u'NP')
+('Pretty', '->', u'NP')
+('Means', '->', u'NP')
+('T', '->', u'NP')
+('Steve', '->', u'NP')
+('Pretty', '->', u'NP')
+('Learned', '->', u'NP')
+('Reginald', '->', u'NP')
+('Hunter', '->', u'NP')
+('Miss', '->', u'NP')
+('America', '->', u'NP')
+('Self', '->', u'NP')
+('Thor', '->', u'NP')
+('T', '->', u'NP')
+('Cool', '->', u'NP')
+('Rolls', '->', u'NP')
+('Royce', '->', u'NP')
+('Don', '->', u'NP')
+('Mike', '->', u'NP')
+('Pretty', '->', u'NP')
+('Ann', '->', u'NP')
+('Perkins', '->', u'NP')
+('Karen', '->', u'NP')
+('Walker', '->', u'NP')
+('Dominic', '->', u'NP')
+('Charlie', '->', u'NP')
+('Don', '->', u'NP')
+('Gay', '->', u'NP')
+('Monet', '->', u'NP')
+('Channing', '->', u'NP')
+61 
+
+10712

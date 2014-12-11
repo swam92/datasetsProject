@@ -1,0 +1,37 @@
+misleadingthumbnails.csv
+0
+Sentiment(classification='pos', p_pos=0.64999999999999969, p_neg=0.35000000000000003)
+
+
+1
+Sentiment(classification='neg', p_pos=0.43364662328935971, p_neg=0.56635337671064123)
+
+
+
+
+-0.05 0.4 0.458176688355 0.541823311645
+0
+What is going on here
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Lincoln', '->', u'NP')
+('Black', '->', u'NP')
+('Lockheed', '->', u'NP')
+('Butt', '->', u'NP')
+('Cruise', '->', u'NP')
+('Tower', '->', u'NP')
+('Bird', '->', u'NP')
+('Santa', '->', u'NP')
+('Claus', '->', u'NP')
+('Butt', '->', u'NP')
+('Kitty', '->', u'NP')
+('Bacon', '->', u'NP')
+('Burger', '->', u'NP')
+('Guy', '->', u'NP')
+('Friend', '->', u'NP')
+('Iraq', '->', u'NP')
+('Jesus', '->', u'NP')
+('Mississippi', '->', u'NP')
+('F', '->', u'NP')
+19 
+
+1770

@@ -1,0 +1,64 @@
+computerforensics.csv
+0
+Sentiment(classification='pos', p_pos=0.63362950164207055, p_neg=0.36637049835792906)
+
+
+1
+Sentiment(classification='pos', p_pos=0.99962259672755838, p_neg=0.00037740327244143064)
+
+
+
+
+0.2 0.2 0.183373950815 0.816626049185
+0
+Tyan Computers S8230-D (S8230WGM4NR-DL*) (DDR3-1333MHz) (Reg.ECC) Memory
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Hard', '->', u'NP')
+('Bradley', '->', u'NP')
+('Manning', '->', u'NP')
+('Case', '->', u'NP')
+('Key', '->', u'NP')
+('Mark', '->', u'NP')
+('Lane', '->', u'NP')
+('U', '->', u'NP')
+('N', '->', u'NP')
+('Black', '->', u'NP')
+('Mac', '->', u'NP')
+('Jonathan', '->', u'NP')
+('Hitler', '->', u'NP')
+('Mac', '->', u'NP')
+('B', '->', u'NP')
+('F', '->', u'NP')
+('Mac', '->', u'NP')
+('Hard', '->', u'NP')
+('Mac', '->', u'NP')
+('Chips', '->', u'NP')
+('Mobile', '->', u'NP')
+('Michael', '->', u'NP')
+('Jackson', '->', u'NP')
+('Lenny', '->', u'NP')
+('Key', '->', u'NP')
+('Mac', '->', u'NP')
+('Australia', '->', u'NP')
+('Bing', '->', u'NP')
+('Key', '->', u'NP')
+('Stevens', '->', u'NP')
+('F', '->', u'NP')
+('Mac', '->', u'NP')
+('Rob', '->', u'NP')
+('Lee', '->', u'NP')
+('David', '->', u'NP')
+('AMA', '->', u'NP')
+('Blackberry', '->', u'NP')
+('San', '->', u'NP')
+('Antonio', '->', u'NP')
+('S', '->', u'NP')
+('Job', '->', u'NP')
+('June', '->', u'NP')
+('Mac', '->', u'NP')
+('PM', '->', u'NP')
+('Houston', '->', u'NP')
+('Texas', '->', u'NP')
+46 
+
+3833

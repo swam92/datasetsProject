@@ -1,0 +1,74 @@
+cosmology.csv
+0
+Sentiment(classification='pos', p_pos=0.95241580352582811, p_neg=0.047584196474172037)
+
+
+1
+Sentiment(classification='pos', p_pos=0.81883303770252336, p_neg=0.18116696229747506)
+
+
+
+
+0.3 0.1 0.114375579386 0.885624420614
+0
+Modern geocentrism
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Carl', '->', u'NP')
+('Lawrence', '->', u'NP')
+('Powers', '->', u'NP')
+('Einstein', '->', u'NP')
+('Black', '->', u'NP')
+('B', '->', u'NP')
+('Neil', '->', u'NP')
+('Tyson', '->', u'NP')
+('Tom', '->', u'NP')
+('John', '->', u'NP')
+('James', '->', u'NP')
+('Webb', '->', u'NP')
+('Paris', '->', u'NP')
+('March', '->', u'NP')
+('Sean', '->', u'NP')
+('Carroll', '->', u'NP')
+('B', '->', u'NP')
+('S', '->', u'NP')
+('Lawrence', '->', u'NP')
+('May', '->', u'NP')
+('Patricia', '->', u'NP')
+('Fred', '->', u'NP')
+('Oxford', '->', u'NP')
+('Case', '->', u'NP')
+('Stephen', '->', u'NP')
+('Cosmo', '->', u'NP')
+('Lee', '->', u'NP')
+('John', '->', u'NP')
+('Self', '->', u'NP')
+('Mercury', '->', u'NP')
+('Black', '->', u'NP')
+('James', '->', u'NP')
+('Webb', '->', u'NP')
+('Mars', '->', u'NP')
+('Black', '->', u'NP')
+('Webb', '->', u'NP')
+('Sean', '->', u'NP')
+('Carroll', '->', u'NP')
+('Aurora', '->', u'NP')
+('Carter', '->', u'NP')
+('Sean', '->', u'NP')
+('Carroll', '->', u'NP')
+('Carl', '->', u'NP')
+('Black', '->', u'NP')
+('Sean', '->', u'NP')
+('Carroll', '->', u'NP')
+('T', '->', u'NP')
+('E', '->', u'NP')
+('Green', '->', u'NP')
+('Kepler', '->', u'NP')
+('Australian', '->', u'NP')
+('Lawrence', '->', u'NP')
+('God', '->', u'NP')
+('Guest', '->', u'NP')
+('Einstein', '->', u'NP')
+('Stephen', '->', u'NP')
+56 
+
+3177

@@ -1,0 +1,11 @@
+redditdotcom.csv
+0
+Sentiment(classification='pos', p_pos=0.81203473945409432, p_neg=0.18796526054590554)
+
+
+1
+Sentiment(classification='neg', p_pos=0.43278567165630261, p_neg=0.56721432834369745)
+
+
+
+

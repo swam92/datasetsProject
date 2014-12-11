@@ -1,0 +1,57 @@
+logophilia.csv
+0
+Sentiment(classification='pos', p_pos=0.81967518316299603, p_neg=0.18032481683700155)
+
+
+1
+Sentiment(classification='neg', p_pos=0.43354303784367537, p_neg=0.56645696215632446)
+
+
+
+
+0.1 0.4 0.373390889497 0.626609110503
+0
+Birr: Force; energy; vigor.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Winter', '->', u'NP')
+('G', '->', u'NP')
+('Sol', '->', u'NP')
+('Sol', '->', u'NP')
+('God', '->', u'NP')
+('Hawaii', '->', u'NP')
+('Stendhal', '->', u'NP')
+('Stephen', '->', u'NP')
+('Hugh', '->', u'NP')
+('Laurie', '->', u'NP')
+('Cyprian', '->', u'NP')
+('Sharp', '->', u'NP')
+('Gospel', '->', u'NP')
+('Halloween', '->', u'NP')
+('Mars', '->', u'NP')
+('Cerise', '->', u'NP')
+('B', '->', u'NP')
+('Sleight', '->', u'NP')
+('William', '->', u'NP')
+('Shakespeare', '->', u'NP')
+('God', '->', u'NP')
+('Levin', '->', u'NP')
+('Syria', '->', u'NP')
+('Arabia', '->', u'NP')
+('Oxford', '->', u'NP')
+('S', '->', u'NP')
+('B', '->', u'NP')
+('Webster', '->', u'NP')
+('Greece', '->', u'NP')
+('Goodwill', '->', u'NP')
+('Page', '->', u'NP')
+('April', '->', u'NP')
+('Christmas', '->', u'NP')
+('Self', '->', u'NP')
+('Scot', '->', u'NP')
+('God', '->', u'NP')
+('Burke', '->', u'NP')
+('Homer', '->', u'NP')
+('Pace', '->', u'NP')
+39 
+
+14390

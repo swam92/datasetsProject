@@ -1,0 +1,11 @@
+Models.csv
+0
+Sentiment(classification='neg', p_pos=0.48749999999999971, p_neg=0.51249999999999996)
+
+
+1
+Sentiment(classification='pos', p_pos=0.96031746031746079, p_neg=0.039682539682539729)
+
+
+
+

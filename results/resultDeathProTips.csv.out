@@ -1,0 +1,46 @@
+DeathProTips.csv
+0
+Sentiment(classification='neg', p_pos=0.19789146838996532, p_neg=0.80210853161003259)
+
+
+1
+Sentiment(classification='neg', p_pos=0.055075842266622474, p_neg=0.94492415773338001)
+
+
+
+
+-0.128571428571 0.646428571429 0.873516344672 0.126483655328
+0
+Macabre Ship Models Made From Human Bones by POWs
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Samuel', '->', u'NP')
+('L', '->', u'NP')
+('Jackson', '->', u'NP')
+('Wu', '->', u'NP')
+('Sears', '->', u'NP')
+('Tower', '->', u'NP')
+('T', '->', u'NP')
+('Rob', '->', u'NP')
+('Al', '->', u'NP')
+('Don', '->', u'NP')
+('Don', '->', u'NP')
+('Egypt', '->', u'NP')
+('Casey', '->', u'NP')
+('Anthony', '->', u'NP')
+('Chase', '->', u'NP')
+('Don', '->', u'NP')
+('Hook', '->', u'NP')
+('Syria', '->', u'NP')
+('Black', '->', u'NP')
+('Jack', '->', u'NP')
+('Don', '->', u'NP')
+('Hammer', '->', u'NP')
+('Mary', '->', u'NP')
+('Halloween', '->', u'NP')
+('Holden', '->', u'NP')
+('Mario', '->', u'NP')
+('Mohammed', '->', u'NP')
+('Allah', '->', u'NP')
+28 
+
+3706

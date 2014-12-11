@@ -1,0 +1,69 @@
+iiiiiiitttttttttttt.csv
+0
+Sentiment(classification='pos', p_pos=0.55967607390879648, p_neg=0.44032392609120397)
+
+
+1
+Sentiment(classification='neg', p_pos=0.24999999999999969, p_neg=0.75)
+
+
+
+
+-0.135714285714 0.507142857143 0.595161963046 0.404838036954
+0
+Scumbag jack and his bad coding skills
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Cable', '->', u'NP')
+('Tech', '->', u'NP')
+('Don', '->', u'NP')
+('Alaska', '->', u'NP')
+('Pretty', '->', u'NP')
+('Java', '->', u'NP')
+('Java', '->', u'NP')
+('B', '->', u'NP')
+('E', '->', u'NP')
+('Tech', '->', u'NP')
+('Guy', '->', u'NP')
+('Paul', '->', u'NP')
+('Cable', '->', u'NP')
+('Tech', '->', u'NP')
+('May', '->', u'NP')
+('E', '->', u'NP')
+('Job', '->', u'NP')
+('S', '->', u'NP')
+('God', '->', u'NP')
+('Job', '->', u'NP')
+('Tech', '->', u'NP')
+('Mobile', '->', u'NP')
+('Africa', '->', u'NP')
+('India', '->', u'NP')
+('Papa', '->', u'NP')
+('Charlie', '->', u'NP')
+('Oscar', '->', u'NP')
+('November', '->', u'NP')
+('India', '->', u'NP')
+('Key', '->', u'NP')
+('Guy', '->', u'NP')
+('Tech', '->', u'NP')
+('Blackberry', '->', u'NP')
+('Tech', '->', u'NP')
+('Java', '->', u'NP')
+('Tech', '->', u'NP')
+('Arch', '->', u'NP')
+('Guy', '->', u'NP')
+('Bush', '->', u'NP')
+('Cobb', '->', u'NP')
+('Del', '->', u'NP')
+('George', '->', u'NP')
+('Dumas', '->', u'NP')
+('Melvin', '->', u'NP')
+('Job', '->', u'NP')
+('Guy', '->', u'NP')
+('Self', '->', u'NP')
+('Job', '->', u'NP')
+('Easter', '->', u'NP')
+('Charles', '->', u'NP')
+('Self', '->', u'NP')
+51 
+
+8211

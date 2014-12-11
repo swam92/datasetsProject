@@ -1,0 +1,73 @@
+CyanideandHappiness.csv
+0
+Sentiment(classification='neg', p_pos=0.47176310455829928, p_neg=0.52823689544170072)
+
+
+1
+Sentiment(classification='pos', p_pos=0.53926817539891936, p_neg=0.46073182460108025)
+
+
+
+
+0.275 0.216666666667 0.494484360021 0.505515639979
+0
+Thumb UP PLZ I AM new to reddit
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Maurice', '->', u'NP')
+('Jesus', '->', u'NP')
+('Matt', '->', u'NP')
+('Dave', '->', u'NP')
+('Thomas', '->', u'NP')
+('Jim', '->', u'NP')
+('K', '->', u'NP')
+('Black', '->', u'NP')
+('Paris', '->', u'NP')
+('Hard', '->', u'NP')
+('Dave', '->', u'NP')
+('Santa', '->', u'NP')
+('Pretty', '->', u'NP')
+('Don', '->', u'NP')
+('Oklahoma', '->', u'NP')
+('Phoenix', '->', u'NP')
+('Dave', '->', u'NP')
+('July', '->', u'NP')
+('Dan', '->', u'NP')
+('Dave', '->', u'NP')
+('Ball', '->', u'NP')
+('Rob', '->', u'NP')
+('Waldo', '->', u'NP')
+('Mel', '->', u'NP')
+('Schwartz', '->', u'NP')
+('Rob', '->', u'NP')
+('Child', '->', u'NP')
+('Jesus', '->', u'NP')
+('Jesus', '->', u'NP')
+('Met', '->', u'NP')
+('Rob', '->', u'NP')
+('Boris', '->', u'NP')
+('Rob', '->', u'NP')
+('Phoenix', '->', u'NP')
+('Met', '->', u'NP')
+('Ted', '->', u'NP')
+('Green', '->', u'NP')
+('Isaac', '->', u'NP')
+('Newton', '->', u'NP')
+('Patrick', '->', u'NP')
+('Dick', '->', u'NP')
+('Nazi', '->', u'NP')
+('Larry', '->', u'NP')
+('Jimmy', '->', u'NP')
+('Christmas', '->', u'NP')
+('Dave', '->', u'NP')
+('God', '->', u'NP')
+('Dave', '->', u'NP')
+('T', '->', u'NP')
+('Dave', '->', u'NP')
+('Rob', '->', u'NP')
+('Ted', '->', u'NP')
+('Ted', '->', u'NP')
+('S', '->', u'NP')
+('Dallas', '->', u'NP')
+55 
+
+7096

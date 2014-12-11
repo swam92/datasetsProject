@@ -1,0 +1,11 @@
+scuba.csv
+0
+Sentiment(classification='neg', p_pos=0.47449596994829091, p_neg=0.52550403005171031)
+
+
+1
+Sentiment(classification='pos', p_pos=0.81249999999999922, p_neg=0.18749999999999975)
+
+
+
+

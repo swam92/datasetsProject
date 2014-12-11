@@ -1,0 +1,78 @@
+iOSthemes.csv
+0
+Sentiment(classification='neg', p_pos=0.48734135359043257, p_neg=0.51265864640956582)
+
+
+1
+Sentiment(classification='pos', p_pos=0.61101753612694032, p_neg=0.38898246387305957)
+
+
+
+
+0.3 0.533333333333 0.450820555141 0.549179444859
+0
+Is there any way to remove this line? No big deal if there isn't but I was just wondering
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Black', '->', u'NP')
+('Leo', '->', u'NP')
+('Lock', '->', u'NP')
+('S', '->', u'NP')
+('E', '->', u'NP')
+('L', '->', u'NP')
+('Loving', '->', u'NP')
+('App', '->', u'NP')
+('Metro', '->', u'NP')
+('Bean', '->', u'NP')
+('Don', '->', u'NP')
+('April', '->', u'NP')
+('S', '->', u'NP')
+('Frost', '->', u'NP')
+('Patrick', '->', u'NP')
+('Lock', '->', u'NP')
+('Jacob', '->', u'NP')
+('Daniel', '->', u'NP')
+('App', '->', u'NP')
+('App', '->', u'NP')
+('August', '->', u'NP')
+('Black', '->', u'NP')
+('Patrick', '->', u'NP')
+('Lock', '->', u'NP')
+('Florida', '->', u'NP')
+('Don', '->', u'NP')
+('Stark', '->', u'NP')
+('Mario', '->', u'NP')
+('Snow', '->', u'NP')
+('Newport', '->', u'NP')
+('Pops', '->', u'NP')
+('Beta', '->', u'NP')
+('Beta', '->', u'NP')
+('Lock', '->', u'NP')
+('Lock', '->', u'NP')
+('Bean', '->', u'NP')
+('Pretty', '->', u'NP')
+('August', '->', u'NP')
+('Max', '->', u'NP')
+('Frost', '->', u'NP')
+('Wood', '->', u'NP')
+('Cody', '->', u'NP')
+('Gordon', '->', u'NP')
+('Moore', '->', u'NP')
+('Grey', '->', u'NP')
+('App', '->', u'NP')
+('App', '->', u'NP')
+('App', '->', u'NP')
+('Loving', '->', u'NP')
+('App', '->', u'NP')
+('Pretty', '->', u'NP')
+('Pretty', '->', u'NP')
+('App', '->', u'NP')
+('Lock', '->', u'NP')
+('Lock', '->', u'NP')
+('Mining', '->', u'NP')
+('Pretty', '->', u'NP')
+('Metro', '->', u'NP')
+('Flip', '->', u'NP')
+('August', '->', u'NP')
+60 
+
+12655

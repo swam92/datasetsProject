@@ -1,0 +1,78 @@
+askashittydoctor.csv
+0
+Sentiment(classification='neg', p_pos=0.071604267032006938, p_neg=0.92839573296799294)
+
+
+1
+Sentiment(classification='neg', p_pos=0.33231210734507083, p_neg=0.66768789265492889)
+
+
+
+
+0.116666666667 0.4 0.798041812811 0.201958187189
+0
+There is STD on the street where I live. Should I get my feet tested? (I was wearing rubber soles).
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('T', '->', u'NP')
+('Norton', '->', u'NP')
+('Gwen', '->', u'NP')
+('Michael', '->', u'NP')
+('Phelps', '->', u'NP')
+('California', '->', u'NP')
+('June', '->', u'NP')
+('July', '->', u'NP')
+('Lou', '->', u'NP')
+('K', '->', u'NP')
+('Black', '->', u'NP')
+('Alaska', '->', u'NP')
+('Jesus', '->', u'NP')
+('Mayo', '->', u'NP')
+('Hammer', '->', u'NP')
+('Mayo', '->', u'NP')
+('David', '->', u'NP')
+('Dave', '->', u'NP')
+('George', '->', u'NP')
+('Australian', '->', u'NP')
+('Christ', '->', u'NP')
+('Cap', '->', u'NP')
+('April', '->', u'NP')
+('Beta', '->', u'NP')
+('America', '->', u'NP')
+('Mario', '->', u'NP')
+('Case', '->', u'NP')
+('Luke', '->', u'NP')
+('AMA', '->', u'NP')
+('God', '->', u'NP')
+('Case', '->', u'NP')
+('Pick', '->', u'NP')
+('Benjamin', '->', u'NP')
+('Robin', '->', u'NP')
+('Williams', '->', u'NP')
+('Jack', '->', u'NP')
+('Bacon', '->', u'NP')
+('Ryan', '->', u'NP')
+('Florida', '->', u'NP')
+('Jesus', '->', u'NP')
+('Asia', '->', u'NP')
+('John', '->', u'NP')
+('Case', '->', u'NP')
+('Charles', '->', u'NP')
+('Sober', '->', u'NP')
+('Dexter', '->', u'NP')
+('Ted', '->', u'NP')
+('Williams', '->', u'NP')
+('Jackson', '->', u'NP')
+('Sean', '->', u'NP')
+('Patrick', '->', u'NP')
+('Sean', '->', u'NP')
+('Angelina', '->', u'NP')
+('Hodgkin', '->', u'NP')
+('Hodgkin', '->', u'NP')
+('Key', '->', u'NP')
+('Doc', '->', u'NP')
+('Williams', '->', u'NP')
+('Adam', '->', u'NP')
+('Angelina', '->', u'NP')
+60 
+
+18063

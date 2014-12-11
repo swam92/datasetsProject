@@ -1,0 +1,11 @@
+snes.csv
+0
+Sentiment(classification='neg', p_pos=0.46334928945238252, p_neg=0.53665071054761693)
+
+
+1
+Sentiment(classification='pos', p_pos=0.55715965258196898, p_neg=0.44284034741803047)
+
+
+
+

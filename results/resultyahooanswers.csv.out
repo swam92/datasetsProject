@@ -1,0 +1,12 @@
+yahooanswers.csv
+0
+Sentiment(classification='neg', p_pos=0.44836956521739046, p_neg=0.55163043478260843)
+
+
+1
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+
+
+-0.625 0.5 0.525815217391 0.474184782609

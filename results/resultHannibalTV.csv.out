@@ -1,0 +1,11 @@
+HannibalTV.csv
+0
+Sentiment(classification='pos', p_pos=0.72373634518424346, p_neg=0.2762636548157556)
+
+
+1
+Sentiment(classification='neg', p_pos=0.36523347141217238, p_neg=0.63476652858782689)
+
+
+
+

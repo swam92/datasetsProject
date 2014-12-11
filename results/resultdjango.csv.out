@@ -1,0 +1,11 @@
+django.csv
+0
+Sentiment(classification='pos', p_pos=0.51724693586904402, p_neg=0.48275306413095548)
+
+
+1
+Sentiment(classification='pos', p_pos=0.50872616115436742, p_neg=0.49127383884563219)
+
+
+
+

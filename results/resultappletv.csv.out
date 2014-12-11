@@ -1,0 +1,68 @@
+appletv.csv
+0
+Sentiment(classification='neg', p_pos=0.41639852153578849, p_neg=0.58360147846421273)
+
+
+1
+Sentiment(classification='pos', p_pos=0.63065109145775922, p_neg=0.36934890854224156)
+
+
+
+
+0.0 1.0 0.476475193503 0.523524806497
+0
+I control everything 
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('December', '->', u'NP')
+('Beta', '->', u'NP')
+('App', '->', u'NP')
+('App', '->', u'NP')
+('App', '->', u'NP')
+('Mac', '->', u'NP')
+('App', '->', u'NP')
+('Mac', '->', u'NP')
+('Black', '->', u'NP')
+('January', '->', u'NP')
+('October', '->', u'NP')
+('Christmas', '->', u'NP')
+('Amazon', '->', u'NP')
+('Mac', '->', u'NP')
+('Hack', '->', u'NP')
+('Steve', '->', u'NP')
+('Short', '->', u'NP')
+('Beta', '->', u'NP')
+('App', '->', u'NP')
+('Amazon', '->', u'NP')
+('U', '->', u'NP')
+('S', '->', u'NP')
+('Player', '->', u'NP')
+('March', '->', u'NP')
+('App', '->', u'NP')
+('Cable', '->', u'NP')
+('App', '->', u'NP')
+('G', '->', u'NP')
+('App', '->', u'NP')
+('Cook', '->', u'NP')
+('App', '->', u'NP')
+('Mac', '->', u'NP')
+('Amazon', '->', u'NP')
+('Amazon', '->', u'NP')
+('Amazon', '->', u'NP')
+('Fox', '->', u'NP')
+('Steve', '->', u'NP')
+('Eden', '->', u'NP')
+('Beta', '->', u'NP')
+('Eden', '->', u'NP')
+('G', '->', u'NP')
+('G', '->', u'NP')
+('Hub', '->', u'NP')
+('Canada', '->', u'NP')
+('Mac', '->', u'NP')
+('Mac', '->', u'NP')
+('Mac', '->', u'NP')
+('Mac', '->', u'NP')
+('Canada', '->', u'NP')
+('Black', '->', u'NP')
+50 
+
+7739

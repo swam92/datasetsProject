@@ -1,0 +1,11 @@
+corgi.csv
+0
+Sentiment(classification='pos', p_pos=0.71206230976516138, p_neg=0.28793769023483834)
+
+
+1
+Sentiment(classification='neg', p_pos=0.47413890413910964, p_neg=0.52586109586089058)
+
+
+
+

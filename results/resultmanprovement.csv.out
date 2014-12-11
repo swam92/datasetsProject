@@ -1,0 +1,43 @@
+manprovement.csv
+0
+Sentiment(classification='pos', p_pos=0.81160214570122524, p_neg=0.18839785429877384)
+
+
+1
+Sentiment(classification='neg', p_pos=0.32671419437466753, p_neg=0.67328580562533302)
+
+
+
+
+0.4875 0.7125 0.430841829962 0.569158170038
+0
+7 Ways To Stop Being So Hard On Yourself 
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Learned', '->', u'NP')
+('Alpha', '->', u'NP')
+('Don', '->', u'NP')
+('Guy', '->', u'NP')
+('Arnold', '->', u'NP')
+('Alpha', '->', u'NP')
+('Alpha', '->', u'NP')
+('Tom', '->', u'NP')
+('Hardy', '->', u'NP')
+('Sartre', '->', u'NP')
+('Ben', '->', u'NP')
+('Franklin', '->', u'NP')
+('Jerry', '->', u'NP')
+('Napoleon', '->', u'NP')
+('Bonaparte', '->', u'NP')
+('Zen', '->', u'NP')
+('Don', '->', u'NP')
+('Mark', '->', u'NP')
+('Harmon', '->', u'NP')
+('Self', '->', u'NP')
+('AMA', '->', u'NP')
+('Pretty', '->', u'NP')
+('Ray', '->', u'NP')
+('Lewis', '->', u'NP')
+('Hard', '->', u'NP')
+25 
+
+1279

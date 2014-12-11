@@ -1,0 +1,11 @@
+CastleStory.csv
+0
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+1
+Sentiment(classification='neg', p_pos=0.4323113475437842, p_neg=0.56768865245621536)
+
+
+
+

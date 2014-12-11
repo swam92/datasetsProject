@@ -1,0 +1,11 @@
+circlebroke2.csv
+0
+Sentiment(classification='pos', p_pos=0.50024999999999997, p_neg=0.49974999999999997)
+
+
+1
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+
+

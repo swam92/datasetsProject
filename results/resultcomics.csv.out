@@ -1,0 +1,11 @@
+comics.csv
+0
+Sentiment(classification='neg', p_pos=0.34292149344739098, p_neg=0.65707850655261024)
+
+
+1
+Sentiment(classification='pos', p_pos=0.532258064516129, p_neg=0.467741935483871)
+
+
+
+

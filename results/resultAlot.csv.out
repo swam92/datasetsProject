@@ -1,0 +1,11 @@
+Alot.csv
+0
+Sentiment(classification='pos', p_pos=0.75888324873096469, p_neg=0.2411167512690352)
+
+
+1
+Sentiment(classification='neg', p_pos=0.33779925422816309, p_neg=0.66220074577183763)
+
+
+
+

@@ -1,0 +1,11 @@
+berkeley.csv
+0
+Sentiment(classification='neg', p_pos=0.37535253856056433, p_neg=0.62464746143943528)
+
+
+1
+Sentiment(classification='pos', p_pos=0.85450769552747285, p_neg=0.14549230447252734)
+
+
+
+

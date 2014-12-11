@@ -1,0 +1,44 @@
+whatstheword.csv
+0
+Sentiment(classification='pos', p_pos=0.64977754608184435, p_neg=0.35022245391815487)
+
+
+1
+Sentiment(classification='neg', p_pos=0.43476478273859553, p_neg=0.56523521726140502)
+
+
+
+
+0.0428571428571 0.704761904762 0.45772883559 0.54227116441
+0
+WTW for so-bad-it's-good
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Winter', '->', u'NP')
+('E', '->', u'NP')
+('Jesse', '->', u'NP')
+('N', '->', u'NP')
+('Yin', '->', u'NP')
+('Yang', '->', u'NP')
+('Shakespeare', '->', u'NP')
+('Othello', '->', u'NP')
+('Caesar', '->', u'NP')
+('May', '->', u'NP')
+('Adam', '->', u'NP')
+('Eve', '->', u'NP')
+('Ted', '->', u'NP')
+('God', '->', u'NP')
+('U', '->', u'NP')
+('W', '->', u'NP')
+('Buddy', '->', u'NP')
+('B', '->', u'NP')
+('B', '->', u'NP')
+('Don', '->', u'NP')
+('S', '->', u'NP')
+('Self', '->', u'NP')
+('B', '->', u'NP')
+('B', '->', u'NP')
+('B', '->', u'NP')
+('B', '->', u'NP')
+26 
+
+16380

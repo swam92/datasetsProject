@@ -1,0 +1,32 @@
+myfriendwantstoknow.csv
+0
+Sentiment(classification='neg', p_pos=0.45599394778027141, p_neg=0.54400605221972809)
+
+
+1
+Sentiment(classification='neg', p_pos=0.2178150932529585, p_neg=0.78218490674704055)
+
+
+
+
+0.136363636364 0.454545454545 0.663095479483 0.336904520517
+0
+My friends wants to know if it is considered cheating if you are dating a girl and you still have a fuck buddy
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Friend', '->', u'NP')
+('California', '->', u'NP')
+('Cam', '->', u'NP')
+('China', '->', u'NP')
+('America', '->', u'NP')
+('Friend', '->', u'NP')
+('May', '->', u'NP')
+('Hitler', '->', u'NP')
+('Job', '->', u'NP')
+('April', '->', u'NP')
+('Ireland', '->', u'NP')
+('Bill', '->', u'NP')
+('Gates', '->', u'NP')
+('Australia', '->', u'NP')
+14 
+
+6089

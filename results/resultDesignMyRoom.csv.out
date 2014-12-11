@@ -1,0 +1,11 @@
+DesignMyRoom.csv
+0
+Sentiment(classification='pos', p_pos=0.64544559141332236, p_neg=0.35455440858667819)
+
+
+1
+Sentiment(classification='neg', p_pos=0.054956136641186704, p_neg=0.94504386335881296)
+
+
+
+

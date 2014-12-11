@@ -1,0 +1,11 @@
+moviecritic.csv
+0
+Sentiment(classification='pos', p_pos=0.50541014768240933, p_neg=0.49458985231759017)
+
+
+1
+Sentiment(classification='pos', p_pos=0.78551284729475646, p_neg=0.21448715270524341)
+
+
+
+

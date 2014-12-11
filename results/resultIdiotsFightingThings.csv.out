@@ -1,0 +1,59 @@
+IdiotsFightingThings.csv
+0
+Sentiment(classification='neg', p_pos=0.36418820929740797, p_neg=0.63581179070259197)
+
+
+1
+Sentiment(classification='neg', p_pos=0.35622110250647726, p_neg=0.64377889749352268)
+
+
+
+
+-0.5 0.6 0.639795344098 0.360204655902
+0
+Bottle breaker
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('July', '->', u'NP')
+('Swing', '->', u'NP')
+('Brace', '->', u'NP')
+('Player', '->', u'NP')
+('Russia', '->', u'NP')
+('Guy', '->', u'NP')
+('Russia', '->', u'NP')
+('Ball', '->', u'NP')
+('Guy', '->', u'NP')
+('Gallon', '->', u'NP')
+('Pole', '->', u'NP')
+('Christmas', '->', u'NP')
+('Don', '->', u'NP')
+('Speed', '->', u'NP')
+('Coke', '->', u'NP')
+('Guy', '->', u'NP')
+('G', '->', u'NP')
+('Guy', '->', u'NP')
+('Guy', '->', u'NP')
+('Guy', '->', u'NP')
+('Australian', '->', u'NP')
+('Russia', '->', u'NP')
+('Guy', '->', u'NP')
+('Guy', '->', u'NP')
+('L', '->', u'NP')
+('Guy', '->', u'NP')
+('Pole', '->', u'NP')
+('Brian', '->', u'NP')
+('Jackie', '->', u'NP')
+('BAM', '->', u'NP')
+('Guy', '->', u'NP')
+('Mike', '->', u'NP')
+('Darwin', '->', u'NP')
+('Kurt', '->', u'NP')
+('Snow', '->', u'NP')
+('K', '->', u'NP')
+('N', '->', u'NP')
+('Don', '->', u'NP')
+('Porta', '->', u'NP')
+('John', '->', u'NP')
+('Guy', '->', u'NP')
+41 
+
+2859

@@ -1,0 +1,69 @@
+techsupportanimals.csv
+0
+Sentiment(classification='neg', p_pos=0.36628891443484751, p_neg=0.63371108556515277)
+
+
+1
+Sentiment(classification='pos', p_pos=0.90278987888183782, p_neg=0.097210121118161144)
+
+
+
+
+-0.0625 0.1875 0.365460603342 0.634539396658
+0
+You help the desktop guy fix his problem yet he...
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Tech', '->', u'NP')
+('G', '->', u'NP')
+('Europe', '->', u'NP')
+('America', '->', u'NP')
+('E', '->', u'NP')
+('Tech', '->', u'NP')
+('Mac', '->', u'NP')
+('Guy', '->', u'NP')
+('Blackberry', '->', u'NP')
+('September', '->', u'NP')
+('Norton', '->', u'NP')
+('T', '->', u'NP')
+('G', '->', u'NP')
+('Warner', '->', u'NP')
+('Cable', '->', u'NP')
+('Friend', '->', u'NP')
+('Self', '->', u'NP')
+('Player', '->', u'NP')
+('Tech', '->', u'NP')
+('Tech', '->', u'NP')
+('Don', '->', u'NP')
+('T', '->', u'NP')
+('Christmas', '->', u'NP')
+('Pretty', '->', u'NP')
+('Arch', '->', u'NP')
+('Tech', '->', u'NP')
+('Tech', '->', u'NP')
+('Joe', '->', u'NP')
+('Bill', '->', u'NP')
+('Gates', '->', u'NP')
+('Mac', '->', u'NP')
+('Tech', '->', u'NP')
+('Guy', '->', u'NP')
+('Tech', '->', u'NP')
+('Greg', '->', u'NP')
+('Metro', '->', u'NP')
+('Gun', '->', u'NP')
+('Tech', '->', u'NP')
+('Norton', '->', u'NP')
+('Guy', '->', u'NP')
+('Greg', '->', u'NP')
+('U', '->', u'NP')
+('Wolf', '->', u'NP')
+('Tech', '->', u'NP')
+('Guy', '->', u'NP')
+('Java', '->', u'NP')
+('Arch', '->', u'NP')
+('Cruise', '->', u'NP')
+('Tech', '->', u'NP')
+('Blackberry', '->', u'NP')
+('Easter', '->', u'NP')
+51 
+
+5910

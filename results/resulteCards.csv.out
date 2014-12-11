@@ -1,0 +1,11 @@
+eCards.csv
+0
+Sentiment(classification='pos', p_pos=0.61342473485645088, p_neg=0.38657526514354956)
+
+
+1
+Sentiment(classification='neg', p_pos=0.29727427597955686, p_neg=0.70272572402044364)
+
+
+
+

@@ -1,0 +1,45 @@
+modhelp.csv
+0
+Sentiment(classification='neg', p_pos=0.49258915579075613, p_neg=0.50741084420924343)
+
+
+1
+Sentiment(classification='pos', p_pos=0.97878331168187094, p_neg=0.021216688318128271)
+
+
+
+
+0.358333333333 0.583333333333 0.264313766264 0.735686233736
+0
+Hyperlink markdown failing?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('February', '->', u'NP')
+('Max', '->', u'NP')
+('September', '->', u'NP')
+('Amazon', '->', u'NP')
+('Don', '->', u'NP')
+('Amazon', '->', u'NP')
+('Ham', '->', u'NP')
+('App', '->', u'NP')
+('Ham', '->', u'NP')
+('PM', '->', u'NP')
+('AMA', '->', u'NP')
+('Aurora', '->', u'NP')
+('Page', '->', u'NP')
+('Baltimore', '->', u'NP')
+('Amazon', '->', u'NP')
+('Self', '->', u'NP')
+('PM', '->', u'NP')
+('S', '->', u'NP')
+('B', '->', u'NP')
+('Page', '->', u'NP')
+('Amazon', '->', u'NP')
+('Case', '->', u'NP')
+('Green', '->', u'NP')
+('Joe', '->', u'NP')
+('PM', '->', u'NP')
+('Ham', '->', u'NP')
+('Ham', '->', u'NP')
+27 
+
+14687

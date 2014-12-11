@@ -1,0 +1,11 @@
+DebateReligion.csv
+0
+Sentiment(classification='pos', p_pos=0.98974338890677493, p_neg=0.010256611093225926)
+
+
+1
+Sentiment(classification='neg', p_pos=0.13809668150299576, p_neg=0.86190331849700441)
+
+
+
+

@@ -1,0 +1,11 @@
+Fantasy.csv
+0
+Sentiment(classification='pos', p_pos=0.67813765182186181, p_neg=0.32186234817813791)
+
+
+1
+Sentiment(classification='neg', p_pos=0.4959360544763583, p_neg=0.50406394552364264)
+
+
+
+

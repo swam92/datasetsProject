@@ -1,0 +1,11 @@
+Conservative.csv
+0
+Sentiment(classification='neg', p_pos=0.45477317644895904, p_neg=0.54522682355104102)
+
+
+1
+Sentiment(classification='pos', p_pos=0.72384211198773496, p_neg=0.27615788801226543)
+
+
+
+

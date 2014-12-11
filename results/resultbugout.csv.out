@@ -1,0 +1,63 @@
+bugout.csv
+0
+Sentiment(classification='pos', p_pos=0.72294230014345273, p_neg=0.27705769985654599)
+
+
+1
+Sentiment(classification='pos', p_pos=0.74278187071459001, p_neg=0.25721812928540894)
+
+
+
+
+0.0727272727273 0.425757575758 0.267137914571 0.732862085429
+0
+Gerber DMF Auto knife - only $129.99 shipped!
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Moore', '->', u'NP')
+('Don', '->', u'NP')
+('Wise', '->', u'NP')
+('B', '->', u'NP')
+('B', '->', u'NP')
+('Manhattan', '->', u'NP')
+('Weber', '->', u'NP')
+('Michaels', '->', u'NP')
+('Cool', '->', u'NP')
+('B', '->', u'NP')
+('B', '->', u'NP')
+('Blackberry', '->', u'NP')
+('Rod', '->', u'NP')
+('Rod', '->', u'NP')
+('B', '->', u'NP')
+('B', '->', u'NP')
+('Europe', '->', u'NP')
+('Green', '->', u'NP')
+('Black', '->', u'NP')
+('B', '->', u'NP')
+('B', '->', u'NP')
+('Don', '->', u'NP')
+('Friend', '->', u'NP')
+('L', '->', u'NP')
+('E', '->', u'NP')
+('B', '->', u'NP')
+('B', '->', u'NP')
+('Mobile', '->', u'NP')
+('App', '->', u'NP')
+('Jeff', '->', u'NP')
+('Randall', '->', u'NP')
+('T', '->', u'NP')
+('E', '->', u'NP')
+('Pretty', '->', u'NP')
+('London', '->', u'NP')
+('B', '->', u'NP')
+('B', '->', u'NP')
+('Amazon', '->', u'NP')
+('David', '->', u'NP')
+('Sam', '->', u'NP')
+('Sheridan', '->', u'NP')
+('Rush', '->', u'NP')
+('Pick', '->', u'NP')
+('B', '->', u'NP')
+('B', '->', u'NP')
+45 
+
+3726

@@ -1,0 +1,11 @@
+stare_dad.csv
+0
+Sentiment(classification='pos', p_pos=0.68871028612675433, p_neg=0.31128971387324544)
+
+
+1
+Sentiment(classification='neg', p_pos=0.48385794008223992, p_neg=0.51614205991775997)
+
+
+
+

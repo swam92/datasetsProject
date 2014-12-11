@@ -1,0 +1,78 @@
+AskEngineers.csv
+0
+Sentiment(classification='pos', p_pos=0.82449145804025914, p_neg=0.175508541959742)
+
+
+1
+Sentiment(classification='pos', p_pos=0.71079152873738827, p_neg=0.28920847126261401)
+
+
+
+
+0.141666666667 0.533333333333 0.232358506611 0.767641493389
+0
+FE Review Material
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Stack', '->', u'NP')
+('Denmark', '->', u'NP')
+('Finland', '->', u'NP')
+('AMA', '->', u'NP')
+('Amazon', '->', u'NP')
+('Arch', '->', u'NP')
+('Friend', '->', u'NP')
+('Bugatti', '->', u'NP')
+('Hong', '->', u'NP')
+('Kong', '->', u'NP')
+('Mars', '->', u'NP')
+('Europe', '->', u'NP')
+('Illinois', '->', u'NP')
+('Asia', '->', u'NP')
+('Yale', '->', u'NP')
+('Sigma', '->', u'NP')
+('Worth', '->', u'NP')
+('August', '->', u'NP')
+('F', '->', u'NP')
+('Sears', '->', u'NP')
+('Tower', '->', u'NP')
+('September', '->', u'NP')
+('VTOL', '->', u'NP')
+('S', '->', u'NP')
+('Rider', '->', u'NP')
+('China', '->', u'NP')
+('Chicago', '->', u'NP')
+('America', '->', u'NP')
+('Hard', '->', u'NP')
+('Allen', '->', u'NP')
+('E', '->', u'NP')
+('October', '->', u'NP')
+('Canada', '->', u'NP')
+('Canada', '->', u'NP')
+('Mining', '->', u'NP')
+('U', '->', u'NP')
+('S', '->', u'NP')
+('Mining', '->', u'NP')
+('Nolan', '->', u'NP')
+('Low', '->', u'NP')
+('Low', '->', u'NP')
+('U', '->', u'NP')
+('S', '->', u'NP')
+('Ray', '->', u'NP')
+('E', '->', u'NP')
+('Panama', '->', u'NP')
+('Job', '->', u'NP')
+('Stirling', '->', u'NP')
+('Geneva', '->', u'NP')
+('Pantheon', '->', u'NP')
+('Sigma', '->', u'NP')
+('Schmidt', '->', u'NP')
+('Egypt', '->', u'NP')
+('Europe', '->', u'NP')
+('L', '->', u'NP')
+('L', '->', u'NP')
+('Low', '->', u'NP')
+('May', '->', u'NP')
+('Brown', '->', u'NP')
+('Da', '->', u'NP')
+60 
+
+15362

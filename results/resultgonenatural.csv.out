@@ -1,0 +1,47 @@
+gonenatural.csv
+0
+Sentiment(classification='pos', p_pos=0.85033292437745878, p_neg=0.14966707562254294)
+
+
+1
+Sentiment(classification='pos', p_pos=0.61849100910115073, p_neg=0.3815089908988486)
+
+
+
+
+0.316666666667 0.554166666667 0.265588033261 0.734411966739
+0
+As a guy
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Black', '->', u'NP')
+('Honolulu', '->', u'NP')
+('Snow', '->', u'NP')
+('Rainy', '->', u'NP')
+('Ella', '->', u'NP')
+('Fitzgerald', '->', u'NP')
+('Rome', '->', u'NP')
+('Don', '->', u'NP')
+('Teddy', '->', u'NP')
+('Don', '->', u'NP')
+('Syracuse', '->', u'NP')
+('Self', '->', u'NP')
+('Marilyn', '->', u'NP')
+('Monroe', '->', u'NP')
+('F', '->', u'NP')
+('Denver', '->', u'NP')
+('Australia', '->', u'NP')
+('Don', '->', u'NP')
+('Loving', '->', u'NP')
+('June', '->', u'NP')
+('Pretty', '->', u'NP')
+('Christmas', '->', u'NP')
+('Eve', '->', u'NP')
+('October', '->', u'NP')
+('Dove', '->', u'NP')
+('Christmas', '->', u'NP')
+('Daniel', '->', u'NP')
+('Don', '->', u'NP')
+('Easter', '->', u'NP')
+29 
+
+11348

@@ -1,0 +1,79 @@
+datfeel.csv
+0
+Sentiment(classification='neg', p_pos=0.47737556561085981, p_neg=0.52262443438914041)
+
+
+1
+Sentiment(classification='pos', p_pos=0.73429630541185753, p_neg=0.26570369458814264)
+
+
+
+
+0.375 0.5 0.394164064489 0.605835935511
+0
+tfw watching Dexter's lab.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('December', '->', u'NP')
+('Carl', '->', u'NP')
+('Mars', '->', u'NP')
+('Boston', '->', u'NP')
+('Charlie', '->', u'NP')
+('Brown', '->', u'NP')
+('Smith', '->', u'NP')
+('Santa', '->', u'NP')
+('Christmas', '->', u'NP')
+('Fox', '->', u'NP')
+('Eddy', '->', u'NP')
+('Pittsburgh', '->', u'NP')
+('april', '->', u'NP')
+('Christmas', '->', u'NP')
+('Flanders', '->', u'NP')
+('Dallas', '->', u'NP')
+('Worth', '->', u'NP')
+('Texas', '->', u'NP')
+('Bob', '->', u'NP')
+('Ross', '->', u'NP')
+('Christmas', '->', u'NP')
+('Eve', '->', u'NP')
+('William', '->', u'NP')
+('Jerry', '->', u'NP')
+('Christmas', '->', u'NP')
+('Mozart', '->', u'NP')
+('Horton', '->', u'NP')
+('Eve', '->', u'NP')
+('Pocket', '->', u'NP')
+('Horton', '->', u'NP')
+('Heard', '->', u'NP')
+('Henry', '->', u'NP')
+('Longfellow', '->', u'NP')
+('Mario', '->', u'NP')
+('Christmas', '->', u'NP')
+('Jim', '->', u'NP')
+('James', '->', u'NP')
+('Guy', '->', u'NP')
+('Russia', '->', u'NP')
+('Manning', '->', u'NP')
+('Luke', '->', u'NP')
+('Wayne', '->', u'NP')
+('Christmas', '->', u'NP')
+('N', '->', u'NP')
+('April', '->', u'NP')
+('Brown', '->', u'NP')
+('Charlie', '->', u'NP')
+('Chaplin', '->', u'NP')
+('God', '->', u'NP')
+('Dallas', '->', u'NP')
+('Christmas', '->', u'NP')
+('Wayne', '->', u'NP')
+('Guthrie', '->', u'NP')
+('John', '->', u'NP')
+('Ken', '->', u'NP')
+('Burns', '->', u'NP')
+('April', '->', u'NP')
+('Shepard', '->', u'NP')
+('Valentine', '->', u'NP')
+('Goodman', '->', u'NP')
+('Dexter', '->', u'NP')
+61 
+
+13226

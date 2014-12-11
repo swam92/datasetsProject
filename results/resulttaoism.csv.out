@@ -1,0 +1,11 @@
+taoism.csv
+0
+Sentiment(classification='neg', p_pos=0.39637300043823798, p_neg=0.60362699956176258)
+
+
+1
+Sentiment(classification='pos', p_pos=0.95436210356999474, p_neg=0.045637896430005161)
+
+
+
+

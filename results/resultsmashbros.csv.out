@@ -1,0 +1,11 @@
+smashbros.csv
+0
+Sentiment(classification='neg', p_pos=0.46334928945238252, p_neg=0.53665071054761693)
+
+
+1
+Sentiment(classification='pos', p_pos=0.57493005042483003, p_neg=0.42506994957517075)
+
+
+
+

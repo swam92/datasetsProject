@@ -1,0 +1,37 @@
+findareddit.csv
+0
+Sentiment(classification='pos', p_pos=0.72559861926663838, p_neg=0.27440138073335996)
+
+
+1
+Sentiment(classification='pos', p_pos=0.77304083885209707, p_neg=0.22695916114790254)
+
+
+
+
+0.25 0.45 0.250680270941 0.749319729059
+0
+I'm looking for a sfw homoerotic subreddit with pictures of handsome guys wearing uniforms or with a martial feeling
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Amazon', '->', u'NP')
+('Halloween', '->', u'NP')
+('Jesus', '->', u'NP')
+('Learned', '->', u'NP')
+('Africa', '->', u'NP')
+('Europe', '->', u'NP')
+('Pretty', '->', u'NP')
+('Amazon', '->', u'NP')
+('T', '->', u'NP')
+('Pandora', '->', u'NP')
+('E', '->', u'NP')
+('U', '->', u'NP')
+('S', '->', u'NP')
+('Fil', '->', u'NP')
+('Everest', '->', u'NP')
+('April', '->', u'NP')
+('Europe', '->', u'NP')
+('Self', '->', u'NP')
+('Hard', '->', u'NP')
+19 
+
+15326

@@ -1,0 +1,11 @@
+raspberry_pi.csv
+0
+Sentiment(classification='pos', p_pos=0.79920165721017156, p_neg=0.2007983427898283)
+
+
+1
+Sentiment(classification='neg', p_pos=0.41666666666666652, p_neg=0.58333333333333326)
+
+
+
+

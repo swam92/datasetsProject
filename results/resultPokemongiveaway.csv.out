@@ -1,0 +1,64 @@
+Pokemongiveaway.csv
+0
+Sentiment(classification='neg', p_pos=0.38962833061752372, p_neg=0.61037166938247545)
+
+
+1
+Sentiment(classification='pos', p_pos=0.98308253713346383, p_neg=0.016917462866534914)
+
+
+
+
+0.25 1.0 0.313644566125 0.686355433875
+0
+[5th] LF Any Pokemon from Gens 1-4 pref Starters
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Christmas', '->', u'NP')
+('Hump', '->', u'NP')
+('February', '->', u'NP')
+('November', '->', u'NP')
+('Pick', '->', u'NP')
+('Breeding', '->', u'NP')
+('S', '->', u'NP')
+('Breeding', '->', u'NP')
+('Abra', '->', u'NP')
+('Pick', '->', u'NP')
+('Christmas', '->', u'NP')
+('Mercedes', '->', u'NP')
+('Gaston', '->', u'NP')
+('Rich', '->', u'NP')
+('Friend', '->', u'NP')
+('Breeding', '->', u'NP')
+('Breeding', '->', u'NP')
+('PM', '->', u'NP')
+('Rich', '->', u'NP')
+('Pick', '->', u'NP')
+('Valentine', '->', u'NP')
+('Breeding', '->', u'NP')
+('Short', '->', u'NP')
+('Breeding', '->', u'NP')
+('Abra', '->', u'NP')
+('Kanto', '->', u'NP')
+('Lot', '->', u'NP')
+('PM', '->', u'NP')
+('Breeding', '->', u'NP')
+('Canada', '->', u'NP')
+('July', '->', u'NP')
+('Moody', '->', u'NP')
+('Abra', '->', u'NP')
+('Kanto', '->', u'NP')
+('Speed', '->', u'NP')
+('Kanto', '->', u'NP')
+('Kanto', '->', u'NP')
+('November', '->', u'NP')
+('Bird', '->', u'NP')
+('Kanto', '->', u'NP')
+('Beam', '->', u'NP')
+('August', '->', u'NP')
+('Bird', '->', u'NP')
+('Dawn', '->', u'NP')
+('Abra', '->', u'NP')
+('F', '->', u'NP')
+46 
+
+10332

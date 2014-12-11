@@ -1,0 +1,51 @@
+badtaxidermy.csv
+0
+Sentiment(classification='neg', p_pos=0.47569066808986327, p_neg=0.52430933191013707)
+
+
+1
+Sentiment(classification='pos', p_pos=0.93721878461620767, p_neg=0.062781215383791361)
+
+
+
+
+0.279166666667 0.784259259259 0.293545273647 0.706454726353
+0
+Found these guys on Craigslist. Ready to go to a new home!
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Fox', '->', u'NP')
+('Beaver', '->', u'NP')
+('Wolf', '->', u'NP')
+('Black', '->', u'NP')
+('Gus', '->', u'NP')
+('Fox', '->', u'NP')
+('Ted', '->', u'NP')
+('Berlin', '->', u'NP')
+('James', '->', u'NP')
+('Van', '->', u'NP')
+('Wisconsin', '->', u'NP')
+('London', '->', u'NP')
+('Warsaw', '->', u'NP')
+('Fred', '->', u'NP')
+('Amazon', '->', u'NP')
+('Pretty', '->', u'NP')
+('Thai', '->', u'NP')
+('Fox', '->', u'NP')
+('Smithsonian', '->', u'NP')
+('Gay', '->', u'NP')
+('Fox', '->', u'NP')
+('Florida', '->', u'NP')
+('Camden', '->', u'NP')
+('Northumberland', '->', u'NP')
+('Hard', '->', u'NP')
+('Gator', '->', u'NP')
+('Green', '->', u'NP')
+('Fox', '->', u'NP')
+('Jordan', '->', u'NP')
+('Kitty', '->', u'NP')
+('Fox', '->', u'NP')
+('London', '->', u'NP')
+('Chuck', '->', u'NP')
+33 
+
+1550

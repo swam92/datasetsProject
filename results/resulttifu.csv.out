@@ -1,0 +1,48 @@
+tifu.csv
+0
+Sentiment(classification='neg', p_pos=0.49999769981646469, p_neg=0.50000230018353542)
+
+
+1
+Sentiment(classification='neg', p_pos=0.45937017916668849, p_neg=0.54062982083331401)
+
+
+
+
+-0.25 0.1 0.520316060508 0.479683939492
+0
+TIFU by using the wrong towel.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Friend', '->', u'NP')
+('Gross', '->', u'NP')
+('Christmas', '->', u'NP')
+('Guy', '->', u'NP')
+('San', '->', u'NP')
+('Diego', '->', u'NP')
+('Burger', '->', u'NP')
+('K', '->', u'NP')
+('Maine', '->', u'NP')
+('Buffalo', '->', u'NP')
+('B', '->', u'NP')
+('Hitler', '->', u'NP')
+('May', '->', u'NP')
+('Brian', '->', u'NP')
+('Dick', '->', u'NP')
+('PM', '->', u'NP')
+('Korea', '->', u'NP')
+('Burger', '->', u'NP')
+('Tim', '->', u'NP')
+('Hitler', '->', u'NP')
+('Django', '->', u'NP')
+('Satan', '->', u'NP')
+('Banjo', '->', u'NP')
+('T', '->', u'NP')
+('Pocket', '->', u'NP')
+('April', '->', u'NP')
+('Sarah', '->', u'NP')
+('April', '->', u'NP')
+('Jack', '->', u'NP')
+('T', '->', u'NP')
+30 
+
+11997

@@ -1,0 +1,11 @@
+tall.csv
+0
+Sentiment(classification='neg', p_pos=0.4591400790281473, p_neg=0.54085992097185265)
+
+
+1
+Sentiment(classification='pos', p_pos=0.70026717465934107, p_neg=0.29973282534066015)
+
+
+
+

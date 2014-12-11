@@ -1,0 +1,11 @@
+mturk.csv
+0
+Sentiment(classification='pos', p_pos=0.69383081093964105, p_neg=0.30616918906035878)
+
+
+1
+Sentiment(classification='pos', p_pos=0.63403626374770639, p_neg=0.36596373625229245)
+
+
+
+

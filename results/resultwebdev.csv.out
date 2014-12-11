@@ -1,0 +1,11 @@
+webdev.csv
+0
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+1
+Sentiment(classification='pos', p_pos=0.63535405447279758, p_neg=0.36464594552720297)
+
+
+
+

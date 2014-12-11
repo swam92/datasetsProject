@@ -1,0 +1,11 @@
+Bombing.csv
+0
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+1
+Sentiment(classification='neg', p_pos=0.49578281497100696, p_neg=0.50421718502899315)
+
+
+
+

@@ -1,0 +1,11 @@
+Maps.csv
+0
+Sentiment(classification='neg', p_pos=0.49527439336878204, p_neg=0.50472560663121746)
+
+
+1
+Sentiment(classification='pos', p_pos=0.91299627791563209, p_neg=0.087003722084367269)
+
+
+
+

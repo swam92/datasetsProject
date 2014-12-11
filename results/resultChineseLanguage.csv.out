@@ -1,0 +1,12 @@
+ChineseLanguage.csv
+0
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+1
+Sentiment(classification='pos', p_pos=0.70655741508556946, p_neg=0.29344258491442921)
+
+
+
+
+0.65 0.725 0.396721292457 0.603278707543

@@ -1,0 +1,11 @@
+jpop.csv
+0
+Sentiment(classification='neg', p_pos=0.48574730354391349, p_neg=0.51425269645608684)
+
+
+1
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+
+

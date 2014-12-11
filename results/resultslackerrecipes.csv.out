@@ -1,0 +1,11 @@
+slackerrecipes.csv
+0
+Sentiment(classification='pos', p_pos=0.60126582278481, p_neg=0.39873417721518989)
+
+
+1
+Sentiment(classification='neg', p_pos=0.21089331973227898, p_neg=0.7891066802677198)
+
+
+
+

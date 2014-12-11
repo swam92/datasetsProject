@@ -1,0 +1,83 @@
+CubeWorld.csv
+0
+Sentiment(classification='neg', p_pos=0.39926960063791533, p_neg=0.60073039936208472)
+
+
+1
+Sentiment(classification='neg', p_pos=0.29498320558934299, p_neg=0.70501679441065723)
+
+
+
+
+0.0 0.0666666666667 0.652873596886 0.347126403114
+0
+BigDaddy's Skeleton Half-Giants!
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('S', '->', u'NP')
+('Don', '->', u'NP')
+('Del', '->', u'NP')
+('AMA', '->', u'NP')
+('S', '->', u'NP')
+('Swim', '->', u'NP')
+('Arctic', '->', u'NP')
+('Canada', '->', u'NP')
+('Cheat', '->', u'NP')
+('Fox', '->', u'NP')
+('Don', '->', u'NP')
+('God', '->', u'NP')
+('Alpha', '->', u'NP')
+('Mac', '->', u'NP')
+('Alpha', '->', u'NP')
+('God', '->', u'NP')
+('Jan', '->', u'NP')
+('Alpha', '->', u'NP')
+('Mac', '->', u'NP')
+('Alpha', '->', u'NP')
+('Don', '->', u'NP')
+('Pretty', '->', u'NP')
+('Eve', '->', u'NP')
+('Del', '->', u'NP')
+('Pocket', '->', u'NP')
+('Bugs', '->', u'NP')
+('Tech', '->', u'NP')
+('Alpha', '->', u'NP')
+('Bunny', '->', u'NP')
+('Parry', '->', u'NP')
+('Key', '->', u'NP')
+('Friend', '->', u'NP')
+('Beta', '->', u'NP')
+('Ball', '->', u'NP')
+('May', '->', u'NP')
+('Cheat', '->', u'NP')
+('Cheat', '->', u'NP')
+('Snow', '->', u'NP')
+('T', '->', u'NP')
+('February', '->', u'NP')
+('Pretty', '->', u'NP')
+('Christmas', '->', u'NP')
+('Raccoon', '->', u'NP')
+('Dreadnought', '->', u'NP')
+('Alpha', '->', u'NP')
+('Mac', '->', u'NP')
+('Don', '->', u'NP')
+('Alpha', '->', u'NP')
+('Winter', '->', u'NP')
+('Wood', '->', u'NP')
+('Alpha', '->', u'NP')
+('Steve', '->', u'NP')
+('Tech', '->', u'NP')
+('Alpha', '->', u'NP')
+('Jesus', '->', u'NP')
+('Almighty', '->', u'NP')
+('June', '->', u'NP')
+('June', '->', u'NP')
+('Australian', '->', u'NP')
+('Fish', '->', u'NP')
+('God', '->', u'NP')
+('Don', '->', u'NP')
+('Rouge', '->', u'NP')
+('Player', '->', u'NP')
+('Angie', '->', u'NP')
+65 
+
+11301

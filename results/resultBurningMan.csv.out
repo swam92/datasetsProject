@@ -1,0 +1,11 @@
+BurningMan.csv
+0
+Sentiment(classification='pos', p_pos=0.5510489076909002, p_neg=0.44895109230909952)
+
+
+1
+Sentiment(classification='neg', p_pos=0.28948473293038507, p_neg=0.71051526706961443)
+
+
+
+

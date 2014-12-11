@@ -1,0 +1,11 @@
+AskComputerScience.csv
+0
+Sentiment(classification='neg', p_pos=0.38719253942022186, p_neg=0.61280746057977753)
+
+
+1
+Sentiment(classification='pos', p_pos=0.98629163281884669, p_neg=0.013708367181153524)
+
+
+
+

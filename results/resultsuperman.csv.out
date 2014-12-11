@@ -1,0 +1,11 @@
+superman.csv
+0
+Sentiment(classification='pos', p_pos=0.51933092174975559, p_neg=0.48066907825024408)
+
+
+1
+Sentiment(classification='neg', p_pos=0.08164143152099089, p_neg=0.91835856847900799)
+
+
+
+

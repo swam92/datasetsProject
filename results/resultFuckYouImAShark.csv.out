@@ -1,0 +1,74 @@
+FuckYouImAShark.csv
+0
+Sentiment(classification='neg', p_pos=0.12589928057553984, p_neg=0.87410071942446055)
+
+
+1
+Sentiment(classification='neg', p_pos=0.34646859989325746, p_neg=0.65353140010674249)
+
+
+
+
+-0.666666666667 1.0 0.763816059766 0.236183940234
+0
+Fuck You We're Humans
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('N', '->', u'NP')
+('T', '->', u'NP')
+('Alison', '->', u'NP')
+('S', '->', u'NP')
+('Andy', '->', u'NP')
+('Alton', '->', u'NP')
+('Brown', '->', u'NP')
+('Swim', '->', u'NP')
+('Calvin', '->', u'NP')
+('T', '->', u'NP')
+('Timmy', '->', u'NP')
+('Cool', '->', u'NP')
+('Greg', '->', u'NP')
+('Norman', '->', u'NP')
+('T', '->', u'NP')
+('Frank', '->', u'NP')
+('F', '->', u'NP')
+('Andrew', '->', u'NP')
+('W', '->', u'NP')
+('K', '->', u'NP')
+('Samuel', '->', u'NP')
+('Thompson', '->', u'NP')
+('Thomas', '->', u'NP')
+('Friend', '->', u'NP')
+('Australia', '->', u'NP')
+('T', '->', u'NP')
+('Washington', '->', u'NP')
+('Jenkins', '->', u'NP')
+('Sir', '->', u'NP')
+('T', '->', u'NP')
+('Dick', '->', u'NP')
+('Adam', '->', u'NP')
+('Billy', '->', u'NP')
+('Joel', '->', u'NP')
+('Benjamin', '->', u'NP')
+('T', '->', u'NP')
+('Kirk', '->', u'NP')
+('Dick', '->', u'NP')
+('S', '->', u'NP')
+('Don', '->', u'NP')
+('Plane', '->', u'NP')
+('T', '->', u'NP')
+('T', '->', u'NP')
+('F', '->', u'NP')
+('Jimmy', '->', u'NP')
+('El', '->', u'NP')
+('Peter', '->', u'NP')
+('Don', '->', u'NP')
+('Jacksonville', '->', u'NP')
+('Black', '->', u'NP')
+('Hitler', '->', u'NP')
+('AMA', '->', u'NP')
+('Amazon', '->', u'NP')
+('Hanukkah', '->', u'NP')
+('Tokyo', '->', u'NP')
+('Bambi', '->', u'NP')
+56 
+
+8395

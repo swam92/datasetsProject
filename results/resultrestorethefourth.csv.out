@@ -1,0 +1,11 @@
+restorethefourth.csv
+0
+Sentiment(classification='pos', p_pos=0.82386915952939654, p_neg=0.17613084047060437)
+
+
+1
+Sentiment(classification='neg', p_pos=0.079545454545454475, p_neg=0.92045454545454575)
+
+
+
+

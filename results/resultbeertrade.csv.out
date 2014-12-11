@@ -1,0 +1,11 @@
+beertrade.csv
+0
+Sentiment(classification='neg', p_pos=0.43442679518823085, p_neg=0.56557320481176943)
+
+
+1
+Sentiment(classification='pos', p_pos=0.66613675516134541, p_neg=0.33386324483865493)
+
+
+
+

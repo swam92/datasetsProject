@@ -1,0 +1,77 @@
+zelda.csv
+0
+Sentiment(classification='pos', p_pos=0.64938726063843455, p_neg=0.35061273936156506)
+
+
+1
+Sentiment(classification='neg', p_pos=0.37102648547954126, p_neg=0.62897351452045713)
+
+
+
+
+0.1 0.775 0.489793126941 0.510206873059
+0
+Skyrule
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Kong', '->', u'NP')
+('Phoenix', '->', u'NP')
+('December', '->', u'NP')
+('Conan', '->', u'NP')
+('Guy', '->', u'NP')
+('Christmas', '->', u'NP')
+('Ohio', '->', u'NP')
+('Clarence', '->', u'NP')
+('Pretty', '->', u'NP')
+('BG', '->', u'NP')
+('Christmas', '->', u'NP')
+('Halloween', '->', u'NP')
+('Sydney', '->', u'NP')
+('Ralph', '->', u'NP')
+('Canada', '->', u'NP')
+('Valentine', '->', u'NP')
+('Halloween', '->', u'NP')
+('Bradley', '->', u'NP')
+('Mario', '->', u'NP')
+('Cap', '->', u'NP')
+('Dawn', '->', u'NP')
+('Halloween', '->', u'NP')
+('Christmas', '->', u'NP')
+('Black', '->', u'NP')
+('Self', '->', u'NP')
+('U', '->', u'NP')
+('Gross', '->', u'NP')
+('Baltimore', '->', u'NP')
+('Hiawatha', '->', u'NP')
+('January', '->', u'NP')
+('Pretty', '->', u'NP')
+('Christmas', '->', u'NP')
+('Christmas', '->', u'NP')
+('E', '->', u'NP')
+('Wood', '->', u'NP')
+('Christmas', '->', u'NP')
+('F', '->', u'NP')
+('Friend', '->', u'NP')
+('Poe', '->', u'NP')
+('Montreal', '->', u'NP')
+('Learned', '->', u'NP')
+('Younger', '->', u'NP')
+('Pretty', '->', u'NP')
+('November', '->', u'NP')
+('Kentucky', '->', u'NP')
+('Christmas', '->', u'NP')
+('Canada', '->', u'NP')
+('Ralph', '->', u'NP')
+('Key', '->', u'NP')
+('May', '->', u'NP')
+('Rome', '->', u'NP')
+('Fish', '->', u'NP')
+('Friend', '->', u'NP')
+('Norway', '->', u'NP')
+('Abraham', '->', u'NP')
+('Sydney', '->', u'NP')
+('Cap', '->', u'NP')
+('Christmas', '->', u'NP')
+('Met', '->', u'NP')
+59 
+
+10929

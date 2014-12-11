@@ -1,0 +1,11 @@
+InstrumentPorn.csv
+0
+Sentiment(classification='pos', p_pos=0.67799613402061831, p_neg=0.32200386597938141)
+
+
+1
+Sentiment(classification='neg', p_pos=0.45774756141870954, p_neg=0.54225243858129046)
+
+
+
+

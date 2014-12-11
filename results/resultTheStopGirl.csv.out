@@ -1,0 +1,11 @@
+TheStopGirl.csv
+0
+Sentiment(classification='pos', p_pos=0.82304537977649761, p_neg=0.17695462022350217)
+
+
+1
+Sentiment(classification='neg', p_pos=0.4153730532148408, p_neg=0.58462694678515803)
+
+
+
+

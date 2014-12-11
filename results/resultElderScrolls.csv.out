@@ -1,0 +1,65 @@
+ElderScrolls.csv
+0
+Sentiment(classification='pos', p_pos=0.59468827367053456, p_neg=0.40531172632946544)
+
+
+1
+Sentiment(classification='pos', p_pos=0.77359514364498849, p_neg=0.2264048563550129)
+
+
+
+
+0.3 0.1 0.315858291342 0.684141708658
+0
+Well thats it, The Elder Scrolls series is officially dead
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Morgan', '->', u'NP')
+('Freeman', '->', u'NP')
+('Loving', '->', u'NP')
+('Cool', '->', u'NP')
+('Korea', '->', u'NP')
+('Beta', '->', u'NP')
+('Jesus', '->', u'NP')
+('Plane', '->', u'NP')
+('Soule', '->', u'NP')
+('Corpus', '->', u'NP')
+('Christi', '->', u'NP')
+('Roland', '->', u'NP')
+('Jeff', '->', u'NP')
+('Baker', '->', u'NP')
+('Beta', '->', u'NP')
+('May', '->', u'NP')
+('November', '->', u'NP')
+('Jupiter', '->', u'NP')
+('Dominic', '->', u'NP')
+('Babel', '->', u'NP')
+('Fish', '->', u'NP')
+('Clyde', '->', u'NP')
+('Cicero', '->', u'NP')
+('Cicero', '->', u'NP')
+('Halloween', '->', u'NP')
+('Matt', '->', u'NP')
+('Dawn', '->', u'NP')
+('Worth', '->', u'NP')
+('Mac', '->', u'NP')
+('Mac', '->', u'NP')
+('Marcus', '->', u'NP')
+('Greg', '->', u'NP')
+('September', '->', u'NP')
+('Marcus', '->', u'NP')
+('N', '->', u'NP')
+('Martin', '->', u'NP')
+('Marcus', '->', u'NP')
+('Cliff', '->', u'NP')
+('Mac', '->', u'NP')
+('Marcus', '->', u'NP')
+('Learned', '->', u'NP')
+('Sam', '->', u'NP')
+('Stephen', '->', u'NP')
+('Alpha', '->', u'NP')
+('Beta', '->', u'NP')
+('Wolf', '->', u'NP')
+('N', '->', u'NP')
+47 
+
+6627

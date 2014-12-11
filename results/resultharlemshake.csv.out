@@ -1,0 +1,11 @@
+harlemshake.csv
+0
+Sentiment(classification='pos', p_pos=0.57236842105263119, p_neg=0.42763157894736792)
+
+
+1
+Sentiment(classification='neg', p_pos=0.33673469387755139, p_neg=0.66326530612244849)
+
+
+
+

@@ -1,0 +1,53 @@
+Enhancement.csv
+0
+Sentiment(classification='pos', p_pos=0.5697278911564625, p_neg=0.43027210884353723)
+
+
+1
+Sentiment(classification='neg', p_pos=0.47092145531718593, p_neg=0.52907854468281368)
+
+
+
+
+0.0 1.0 0.479675326763 0.520324673237
+0
+I downvoted myself twice drunk somehow. Now I have -2 in light-red next to my own name. Can I fix it?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Easter', '->', u'NP')
+('April', '->', u'NP')
+('Easter', '->', u'NP')
+('Easter', '->', u'NP')
+('L', '->', u'NP')
+('God', '->', u'NP')
+('Don', '->', u'NP')
+('Child', '->', u'NP')
+('Pretty', '->', u'NP')
+('Stack', '->', u'NP')
+('Green', '->', u'NP')
+('Don', '->', u'NP')
+('App', '->', u'NP')
+('May', '->', u'NP')
+('Don', '->', u'NP')
+('God', '->', u'NP')
+('Mark', '->', u'NP')
+('AMA', '->', u'NP')
+('Child', '->', u'NP')
+('Christmas', '->', u'NP')
+('Christmas', '->', u'NP')
+('Gore', '->', u'NP')
+('Don', '->', u'NP')
+('Don', '->', u'NP')
+('Pretty', '->', u'NP')
+('PM', '->', u'NP')
+('Gee', '->', u'NP')
+('Don', '->', u'NP')
+('L', '->', u'NP')
+('Skip', '->', u'NP')
+('Don', '->', u'NP')
+('Don', '->', u'NP')
+('Downs', '->', u'NP')
+('AMA', '->', u'NP')
+('Max', '->', u'NP')
+35 
+
+16063

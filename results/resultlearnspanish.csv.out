@@ -1,0 +1,24 @@
+learnspanish.csv
+0
+Sentiment(classification='pos', p_pos=0.99480187628982941, p_neg=0.0051981237101704396)
+
+
+1
+Sentiment(classification='pos', p_pos=0.64348079161816041, p_neg=0.35651920838183904)
+
+
+
+
+0.133333333333 0.266666666667 0.180858666046 0.819141333954
+0
+I'm making a learn-spanish-group on skype. Both learners and native speakers are welcome to join!
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Los', '->', u'NP')
+('Simpson', '->', u'NP')
+('Andersen', '->', u'NP')
+('Grimm', '->', u'NP')
+('Jason', '->', u'NP')
+('App', '->', u'NP')
+6 
+
+446

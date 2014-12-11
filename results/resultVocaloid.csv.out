@@ -1,0 +1,11 @@
+Vocaloid.csv
+0
+Sentiment(classification='neg', p_pos=0.43103448275862094, p_neg=0.568965517241379)
+
+
+1
+Sentiment(classification='pos', p_pos=0.55574738938975399, p_neg=0.44425261061024557)
+
+
+
+

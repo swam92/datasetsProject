@@ -1,0 +1,80 @@
+AskAcademia.csv
+0
+Sentiment(classification='neg', p_pos=0.47531403633030556, p_neg=0.524685963669694)
+
+
+1
+Sentiment(classification='pos', p_pos=0.8816123643358551, p_neg=0.11838763566414515)
+
+
+
+
+0.375 0.6 0.321536799667 0.678463200333
+0
+Should I take on a large teaching load or take a big pay cut ($7,000) to not teach at all? I'm ABD.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('AMA', '->', u'NP')
+('AMA', '->', u'NP')
+('AMA', '->', u'NP')
+('AMA', '->', u'NP')
+('January', '->', u'NP')
+('K', '->', u'NP')
+('Manhattan', '->', u'NP')
+('Europe', '->', u'NP')
+('Stack', '->', u'NP')
+('Forbes', '->', u'NP')
+('Tyson', '->', u'NP')
+('Fulbright', '->', u'NP')
+('Doc', '->', u'NP')
+('E', '->', u'NP')
+('S', '->', u'NP')
+('S', '->', u'NP')
+('Harvard', '->', u'NP')
+('F', '->', u'NP')
+('America', '->', u'NP')
+('Robert', '->', u'NP')
+('Boston', '->', u'NP')
+('Harvard', '->', u'NP')
+('Princeton', '->', u'NP')
+('Bible', '->', u'NP')
+('U', '->', u'NP')
+('S', '->', u'NP')
+('Fields', '->', u'NP')
+('AMA', '->', u'NP')
+('Oxford', '->', u'NP')
+('U', '->', u'NP')
+('Fulbright', '->', u'NP')
+('S', '->', u'NP')
+('Job', '->', u'NP')
+('May', '->', u'NP')
+('Moscow', '->', u'NP')
+('Russia', '->', u'NP')
+('E', '->', u'NP')
+('Low', '->', u'NP')
+('Tech', '->', u'NP')
+('Job', '->', u'NP')
+('Europe', '->', u'NP')
+('U', '->', u'NP')
+('S', '->', u'NP')
+('Asia', '->', u'NP')
+('Don', '->', u'NP')
+('Europe', '->', u'NP')
+('Tech', '->', u'NP')
+('Europe', '->', u'NP')
+('Asia', '->', u'NP')
+('Broad', '->', u'NP')
+('Harvard', '->', u'NP')
+('Yale', '->', u'NP')
+('Bill', '->', u'NP')
+('Bonnie', '->', u'NP')
+('Smith', '->', u'NP')
+('Bill', '->', u'NP')
+('Bonnie', '->', u'NP')
+('Smith', '->', u'NP')
+('U', '->', u'NP')
+('S', '->', u'NP')
+('U', '->', u'NP')
+('K', '->', u'NP')
+62 
+
+14747

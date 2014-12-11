@@ -1,0 +1,11 @@
+singularity.csv
+0
+Sentiment(classification='neg', p_pos=0.24715951882667822, p_neg=0.75284048117332247)
+
+
+1
+Sentiment(classification='neg', p_pos=0.48253041499674093, p_neg=0.51746958500325901)
+
+
+
+

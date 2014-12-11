@@ -1,0 +1,11 @@
+mylittlehuman.csv
+0
+Sentiment(classification='pos', p_pos=0.58733388001033926, p_neg=0.41266611998966041)
+
+
+1
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+
+

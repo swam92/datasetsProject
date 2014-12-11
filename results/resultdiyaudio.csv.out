@@ -1,0 +1,45 @@
+diyaudio.csv
+0
+Sentiment(classification='pos', p_pos=0.50922839132016018, p_neg=0.49077160867983943)
+
+
+1
+Sentiment(classification='neg', p_pos=0.21260457460504262, p_neg=0.78739542539495688)
+
+
+
+
+0.4 0.4 0.639083517037 0.360916482963
+0
+Needing 6-ohm woofers, not finding them, what to do?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Rainy', '->', u'NP')
+('K', '->', u'NP')
+('T', '->', u'NP')
+('Rev', '->', u'NP')
+('Nelson', '->', u'NP')
+('Midwest', '->', u'NP')
+('Rod', '->', u'NP')
+('RCA', '->', u'NP')
+('T', '->', u'NP')
+('RCA', '->', u'NP')
+('Morel', '->', u'NP')
+('Norman', '->', u'NP')
+('Broad', '->', u'NP')
+('Mite', '->', u'NP')
+('B', '->', u'NP')
+('Plate', '->', u'NP')
+('Low', '->', u'NP')
+('Cool', '->', u'NP')
+('K', '->', u'NP')
+('T', '->', u'NP')
+('U', '->', u'NP')
+('S', '->', u'NP')
+('BG', '->', u'NP')
+('T', '->', u'NP')
+('Fisher', '->', u'NP')
+('Cable', '->', u'NP')
+('RCA', '->', u'NP')
+27 
+
+4752

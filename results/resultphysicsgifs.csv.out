@@ -1,0 +1,12 @@
+physicsgifs.csv
+0
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+1
+Sentiment(classification='pos', p_pos=0.64797931253880747, p_neg=0.3520206874611928)
+
+
+
+
+-0.0333333333333 0.416666666667 0.426010343731 0.573989656269

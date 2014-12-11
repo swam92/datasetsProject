@@ -1,0 +1,78 @@
+gamingsuggestions.csv
+0
+Sentiment(classification='neg', p_pos=0.47860320105137549, p_neg=0.52139679894862456)
+
+
+1
+Sentiment(classification='pos', p_pos=0.61611045955387855, p_neg=0.38388954044612084)
+
+
+
+
+0.15 0.5 0.452643169697 0.547356830303
+0
+I Am Looking For a Group of People to Play With
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Gran', '->', u'NP')
+('T', '->', u'NP')
+('Japan', '->', u'NP')
+('Rush', '->', u'NP')
+('Egypt', '->', u'NP')
+('Vegas', '->', u'NP')
+('Pretty', '->', u'NP')
+('Vegas', '->', u'NP')
+('Metro', '->', u'NP')
+('Black', '->', u'NP')
+('Isaac', '->', u'NP')
+('Sims', '->', u'NP')
+('Mario', '->', u'NP')
+('Layton', '->', u'NP')
+('Dawn', '->', u'NP')
+('Shooter', '->', u'NP')
+('Max', '->', u'NP')
+('Payne', '->', u'NP')
+('Vegas', '->', u'NP')
+('Hard', '->', u'NP')
+('Hunter', '->', u'NP')
+('Persia', '->', u'NP')
+('Isaac', '->', u'NP')
+('Persia', '->', u'NP')
+('U', '->', u'NP')
+('Tony', '->', u'NP')
+('Hawk', '->', u'NP')
+('Hunter', '->', u'NP')
+('Sims', '->', u'NP')
+('T', '->', u'NP')
+('Stubbs', '->', u'NP')
+('Hunter', '->', u'NP')
+('Hunter', '->', u'NP')
+('Saturn', '->', u'NP')
+('L', '->', u'NP')
+('Caesar', '->', u'NP')
+('Vegas', '->', u'NP')
+('Sims', '->', u'NP')
+('S', '->', u'NP')
+('Christmas', '->', u'NP')
+('Rome', '->', u'NP')
+('Shooter', '->', u'NP')
+('Alice', '->', u'NP')
+('Disneyland', '->', u'NP')
+('Rome', '->', u'NP')
+('Cannon', '->', u'NP')
+('Caesar', '->', u'NP')
+('Metro', '->', u'NP')
+('Mac', '->', u'NP')
+('Savage', '->', u'NP')
+('Rome', '->', u'NP')
+('Sims', '->', u'NP')
+('Alice', '->', u'NP')
+('Alice', '->', u'NP')
+('Hack', '->', u'NP')
+('Shooter', '->', u'NP')
+('Van', '->', u'NP')
+('Don', '->', u'NP')
+('Isaac', '->', u'NP')
+('Phoenix', '->', u'NP')
+60 
+
+12370

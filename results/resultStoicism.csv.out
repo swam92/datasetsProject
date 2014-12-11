@@ -1,0 +1,11 @@
+Stoicism.csv
+0
+Sentiment(classification='pos', p_pos=0.94543225012767584, p_neg=0.054567749872324003)
+
+
+1
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+
+

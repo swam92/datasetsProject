@@ -1,0 +1,11 @@
+eyes.csv
+0
+Sentiment(classification='pos', p_pos=0.83903686717234049, p_neg=0.16096313282765895)
+
+
+1
+Sentiment(classification='neg', p_pos=0.31751191033828774, p_neg=0.68248808966171226)
+
+
+
+

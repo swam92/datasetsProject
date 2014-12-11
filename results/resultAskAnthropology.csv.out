@@ -1,0 +1,83 @@
+AskAnthropology.csv
+0
+Sentiment(classification='neg', p_pos=0.40225708842238883, p_neg=0.59774291157761161)
+
+
+1
+Sentiment(classification='pos', p_pos=0.80131400051029067, p_neg=0.198685999489708)
+
+
+
+
+0.0714285714286 0.232142857143 0.398214455534 0.601785544466
+0
+Can you identify this skull? Is it a bear?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('AMA', '->', u'NP')
+('Australian', '->', u'NP')
+('AMA', '->', u'NP')
+('Dawn', '->', u'NP')
+('Christopher', '->', u'NP')
+('Ryan', '->', u'NP')
+('America', '->', u'NP')
+('AMA', '->', u'NP')
+('Guinea', '->', u'NP')
+('Brazil', '->', u'NP')
+('Neanderthal', '->', u'NP')
+('Europe', '->', u'NP')
+('Asia', '->', u'NP')
+('India', '->', u'NP')
+('Asia', '->', u'NP')
+('Africa', '->', u'NP')
+('AMA', '->', u'NP')
+('July', '->', u'NP')
+('Ireland', '->', u'NP')
+('Dunbar', '->', u'NP')
+('Kant', '->', u'NP')
+('Korea', '->', u'NP')
+('Europe', '->', u'NP')
+('Asia', '->', u'NP')
+('Mel', '->', u'NP')
+('Gibson', '->', u'NP')
+('Africa', '->', u'NP')
+('Islam', '->', u'NP')
+('Robert', '->', u'NP')
+('Wright', '->', u'NP')
+('God', '->', u'NP')
+('Japan', '->', u'NP')
+('Europe', '->', u'NP')
+('Peter', '->', u'NP')
+('AMA', '->', u'NP')
+('AMA', '->', u'NP')
+('Paul', '->', u'NP')
+('China', '->', u'NP')
+('Europe', '->', u'NP')
+('David', '->', u'NP')
+('Julian', '->', u'NP')
+('America', '->', u'NP')
+('AMA', '->', u'NP')
+('August', '->', u'NP')
+('Faith', '->', u'NP')
+('America', '->', u'NP')
+('Han', '->', u'NP')
+('Han', '->', u'NP')
+('Europe', '->', u'NP')
+('America', '->', u'NP')
+('Europe', '->', u'NP')
+('Savage', '->', u'NP')
+('Africa', '->', u'NP')
+('Mary', '->', u'NP')
+('Douglas', '->', u'NP')
+('Morgan', '->', u'NP')
+('Niger', '->', u'NP')
+('Congo', '->', u'NP')
+('Africa', '->', u'NP')
+('Hiawatha', '->', u'NP')
+('Russia', '->', u'NP')
+('Canada', '->', u'NP')
+('Australian', '->', u'NP')
+('India', '->', u'NP')
+('Neanderthal', '->', u'NP')
+65 
+
+5305

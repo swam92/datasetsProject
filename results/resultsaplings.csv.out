@@ -1,0 +1,65 @@
+saplings.csv
+0
+Sentiment(classification='pos', p_pos=0.62781496872715925, p_neg=0.37218503127283925)
+
+
+1
+Sentiment(classification='neg', p_pos=0.4098539371370139, p_neg=0.59014606286298665)
+
+
+
+
+0.2 0.4 0.481165547068 0.518834452932
+0
+First Smoke and can I get some tips?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Self', '->', u'NP')
+('England', '->', u'NP')
+('Dan', '->', u'NP')
+('May', '->', u'NP')
+('Pittsburgh', '->', u'NP')
+('Toronto', '->', u'NP')
+('Don', '->', u'NP')
+('California', '->', u'NP')
+('Don', '->', u'NP')
+('Cambodia', '->', u'NP')
+('Hard', '->', u'NP')
+('Low', '->', u'NP')
+('Heard', '->', u'NP')
+('Julius', '->', u'NP')
+('Ziggy', '->', u'NP')
+('Amsterdam', '->', u'NP')
+('Toronto', '->', u'NP')
+('Maryland', '->', u'NP')
+('Michigan', '->', u'NP')
+('Don', '->', u'NP')
+('Green', '->', u'NP')
+('S', '->', u'NP')
+('Florence', '->', u'NP')
+('Mary', '->', u'NP')
+('Jane', '->', u'NP')
+('Chicago', '->', u'NP')
+('Amsterdam', '->', u'NP')
+('AMA', '->', u'NP')
+('California', '->', u'NP')
+('Christmas', '->', u'NP')
+('Christmas', '->', u'NP')
+('Don', '->', u'NP')
+('Ray', '->', u'NP')
+('Pretty', '->', u'NP')
+('Pick', '->', u'NP')
+('California', '->', u'NP')
+('May', '->', u'NP')
+('Learned', '->', u'NP')
+('Lex', '->', u'NP')
+('Cool', '->', u'NP')
+('Petersburg', '->', u'NP')
+('Russia', '->', u'NP')
+('Amsterdam', '->', u'NP')
+('Amsterdam', '->', u'NP')
+('Sellers', '->', u'NP')
+('Spain', '->', u'NP')
+('Skip', '->', u'NP')
+47 
+
+12713

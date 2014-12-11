@@ -1,0 +1,57 @@
+confidence.csv
+0
+Sentiment(classification='pos', p_pos=0.64328754617929984, p_neg=0.3567124538207011)
+
+
+1
+Sentiment(classification='pos', p_pos=0.97335878386089736, p_neg=0.026641216139100851)
+
+
+
+
+0.458333333333 0.658333333333 0.19167683498 0.80832316502
+0
+DVD "FULL CONFIDENCE" works fast ! by Veronica
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Tony', '->', u'NP')
+('Stark', '->', u'NP')
+('Low', '->', u'NP')
+('Self', '->', u'NP')
+('Don', '->', u'NP')
+('Don', '->', u'NP')
+('Self', '->', u'NP')
+('Self', '->', u'NP')
+('Wise', '->', u'NP')
+('Self', '->', u'NP')
+('Guy', '->', u'NP')
+('Low', '->', u'NP')
+('Amy', '->', u'NP')
+('Harvard', '->', u'NP')
+('Friend', '->', u'NP')
+('Don', '->', u'NP')
+('Burns', '->', u'NP')
+('Self', '->', u'NP')
+('Rowley', '->', u'NP')
+('Louisiana', '->', u'NP')
+('Self', '->', u'NP')
+('Amy', '->', u'NP')
+('Self', '->', u'NP')
+('Self', '->', u'NP')
+('Cool', '->', u'NP')
+('Self', '->', u'NP')
+('Job', '->', u'NP')
+('F', '->', u'NP')
+('Self', '->', u'NP')
+('Pam', '->', u'NP')
+('Schmidt', '->', u'NP')
+('Self', '->', u'NP')
+('Amy', '->', u'NP')
+('Pretty', '->', u'NP')
+('India', '->', u'NP')
+('Self', '->', u'NP')
+('Michael', '->', u'NP')
+('Self', '->', u'NP')
+('Self', '->', u'NP')
+39 
+
+2786

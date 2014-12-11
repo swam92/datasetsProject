@@ -1,0 +1,59 @@
+PrimeFreebies.csv
+0
+Sentiment(classification='pos', p_pos=0.75145279341647198, p_neg=0.24854720658352866)
+
+
+1
+Sentiment(classification='pos', p_pos=0.53234198790329379, p_neg=0.46765801209670738)
+
+
+
+
+0.35 0.575 0.35810260934 0.64189739066
+0
+Fantasy Novel: Leah and the Jackhammer - Free for prime members
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Sweden', '->', u'NP')
+('Amazon', '->', u'NP')
+('Amazon', '->', u'NP')
+('Amazon', '->', u'NP')
+('Warner', '->', u'NP')
+('Case', '->', u'NP')
+('February', '->', u'NP')
+('June', '->', u'NP')
+('Page', '->', u'NP')
+('Page', '->', u'NP')
+('Amazon', '->', u'NP')
+('February', '->', u'NP')
+('Chase', '->', u'NP')
+('Amazon', '->', u'NP')
+('Ed', '->', u'NP')
+('Amazon', '->', u'NP')
+('Job', '->', u'NP')
+('Job', '->', u'NP')
+('Job', '->', u'NP')
+('Amazon', '->', u'NP')
+('Bob', '->', u'NP')
+('Amazon', '->', u'NP')
+('Donna', '->', u'NP')
+('Black', '->', u'NP')
+('Amazon', '->', u'NP')
+('Job', '->', u'NP')
+('Job', '->', u'NP')
+('Job', '->', u'NP')
+('Amazon', '->', u'NP')
+('Hollywood', '->', u'NP')
+('Hartman', '->', u'NP')
+('Peter', '->', u'NP')
+('Brian', '->', u'NP')
+('Short', '->', u'NP')
+('Amazon', '->', u'NP')
+('August', '->', u'NP')
+('Whitney', '->', u'NP')
+('Houston', '->', u'NP')
+('Cook', '->', u'NP')
+('November', '->', u'NP')
+('Amazon', '->', u'NP')
+41 
+
+962

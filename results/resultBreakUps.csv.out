@@ -1,0 +1,83 @@
+BreakUps.csv
+0
+Sentiment(classification='pos', p_pos=0.80481765596783172, p_neg=0.19518234403216678)
+
+
+1
+Sentiment(classification='neg', p_pos=0.47988070356679252, p_neg=0.52011929643320742)
+
+
+
+
+0.466666666667 0.833333333333 0.357650820233 0.642349179767
+0
+An email I just can't send...
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Homer', '->', u'NP')
+('Simpson', '->', u'NP')
+('John', '->', u'NP')
+('Green', '->', u'NP')
+('Valentine', '->', u'NP')
+('Don', '->', u'NP')
+('Miss', '->', u'NP')
+('Thomas', '->', u'NP')
+('Don', '->', u'NP')
+('Don', '->', u'NP')
+('Rose', '->', u'NP')
+('Don', '->', u'NP')
+('Self', '->', u'NP')
+('May', '->', u'NP')
+('Don', '->', u'NP')
+('Juan', '->', u'NP')
+('Luis', '->', u'NP')
+('John', '->', u'NP')
+('Pablo', '->', u'NP')
+('PM', '->', u'NP')
+('F', '->', u'NP')
+('John', '->', u'NP')
+('Johnny', '->', u'NP')
+('T', '->', u'NP')
+('Don', '->', u'NP')
+('Don', '->', u'NP')
+('F', '->', u'NP')
+('Don', '->', u'NP')
+('Self', '->', u'NP')
+('Don', '->', u'NP')
+('Rafael', '->', u'NP')
+('Andy', '->', u'NP')
+('Sarah', '->', u'NP')
+('Marshall', '->', u'NP')
+('Europe', '->', u'NP')
+('PM', '->', u'NP')
+('Self', '->', u'NP')
+('Don', '->', u'NP')
+('K', '->', u'NP')
+('Florence', '->', u'NP')
+('BAM', '->', u'NP')
+('Sean', '->', u'NP')
+('Don', '->', u'NP')
+('Christmas', '->', u'NP')
+('Harvard', '->', u'NP')
+('F', '->', u'NP')
+('Taylor', '->', u'NP')
+('Swift', '->', u'NP')
+('F', '->', u'NP')
+('Miss', '->', u'NP')
+('Don', '->', u'NP')
+('F', '->', u'NP')
+('Don', '->', u'NP')
+('F', '->', u'NP')
+('N', '->', u'NP')
+('Tao', '->', u'NP')
+('Iraq', '->', u'NP')
+('Africa', '->', u'NP')
+('Allen', '->', u'NP')
+('Christmas', '->', u'NP')
+('Adam', '->', u'NP')
+('Don', '->', u'NP')
+('Russia', '->', u'NP')
+('F', '->', u'NP')
+('F', '->', u'NP')
+65 
+
+13164

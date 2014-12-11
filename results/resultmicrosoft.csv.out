@@ -1,0 +1,11 @@
+microsoft.csv
+0
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+1
+Sentiment(classification='pos', p_pos=0.58991543189344131, p_neg=0.41008456810655791)
+
+
+
+

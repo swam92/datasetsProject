@@ -1,0 +1,69 @@
+OkCupid.csv
+0
+Sentiment(classification='pos', p_pos=0.84111658442751447, p_neg=0.15888341557248756)
+
+
+1
+Sentiment(classification='neg', p_pos=0.3936494634726988, p_neg=0.60635053652730075)
+
+
+
+
+0.0 0.6 0.38261697605 0.61738302395
+0
+Just got my "MyBestFace" report back.  Don't know whether to laugh or cry
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Don', '->', u'NP')
+('Guy', '->', u'NP')
+('Chris', '->', u'NP')
+('Hansen', '->', u'NP')
+('Fish', '->', u'NP')
+('Met', '->', u'NP')
+('God', '->', u'NP')
+('AMA', '->', u'NP')
+('Arkansas', '->', u'NP')
+('Don', '->', u'NP')
+('Chicago', '->', u'NP')
+('Don', '->', u'NP')
+('Dick', '->', u'NP')
+('Friend', '->', u'NP')
+('Friend', '->', u'NP')
+('S', '->', u'NP')
+('Guy', '->', u'NP')
+('Worth', '->', u'NP')
+('Christianity', '->', u'NP')
+('Baltimore', '->', u'NP')
+('Friend', '->', u'NP')
+('George', '->', u'NP')
+('Shakespeare', '->', u'NP')
+('Valentine', '->', u'NP')
+('Don', '->', u'NP')
+('Chance', '->', u'NP')
+('Harry', '->', u'NP')
+('Guy', '->', u'NP')
+('F', '->', u'NP')
+('Greg', '->', u'NP')
+('Che', '->', u'NP')
+('Winston', '->', u'NP')
+('September', '->', u'NP')
+('Paris', '->', u'NP')
+('Pretty', '->', u'NP')
+('Rob', '->', u'NP')
+('Hector', '->', u'NP')
+('Guy', '->', u'NP')
+('June', '->', u'NP')
+('Elvis', '->', u'NP')
+('April', '->', u'NP')
+('Craig', '->', u'NP')
+('Valentine', '->', u'NP')
+('Don', '->', u'NP')
+('Guy', '->', u'NP')
+('John', '->', u'NP')
+('January', '->', u'NP')
+('Short', '->', u'NP')
+('Guy', '->', u'NP')
+('Kong', '->', u'NP')
+('Don', '->', u'NP')
+51 
+
+11902

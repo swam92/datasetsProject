@@ -1,0 +1,78 @@
+mspaintbattles.csv
+0
+Sentiment(classification='pos', p_pos=0.62646722533728105, p_neg=0.37353277466271861)
+
+
+1
+Sentiment(classification='neg', p_pos=0.071335833766802914, p_neg=0.92866416623319814)
+
+
+
+
+-0.75 0.8 0.651098470448 0.348901529552
+0
+Lets see what we can do with this one
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Edward', '->', u'NP')
+('Jesus', '->', u'NP')
+('Bill', '->', u'NP')
+('Granny', '->', u'NP')
+('Cam', '->', u'NP')
+('Newton', '->', u'NP')
+('Cole', '->', u'NP')
+('Denver', '->', u'NP')
+('Picasso', '->', u'NP')
+('Papa', '->', u'NP')
+('John', '->', u'NP')
+('Aaron', '->', u'NP')
+('Rodgers', '->', u'NP')
+('February', '->', u'NP')
+('Baker', '->', u'NP')
+('Burger', '->', u'NP')
+('Nixon', '->', u'NP')
+('N', '->', u'NP')
+('Guy', '->', u'NP')
+('Hammer', '->', u'NP')
+('Dave', '->', u'NP')
+('Rob', '->', u'NP')
+('Lowe', '->', u'NP')
+('U', '->', u'NP')
+('S', '->', u'NP')
+('Hercules', '->', u'NP')
+('Swim', '->', u'NP')
+('Jimmy', '->', u'NP')
+('Black', '->', u'NP')
+('August', '->', u'NP')
+('Black', '->', u'NP')
+('Titan', '->', u'NP')
+('Randy', '->', u'NP')
+('Savage', '->', u'NP')
+('Bean', '->', u'NP')
+('Mac', '->', u'NP')
+('Guy', '->', u'NP')
+('Cleveland', '->', u'NP')
+('Henry', '->', u'NP')
+('Hoover', '->', u'NP')
+('December', '->', u'NP')
+('Ed', '->', u'NP')
+('Jan', '->', u'NP')
+('Toronto', '->', u'NP')
+('Ron', '->', u'NP')
+('Jan', '->', u'NP')
+('Jesus', '->', u'NP')
+('Europe', '->', u'NP')
+('Jan', '->', u'NP')
+('Jack', '->', u'NP')
+('Black', '->', u'NP')
+('Courtney', '->', u'NP')
+('Jimmy', '->', u'NP')
+('Wales', '->', u'NP')
+('Pablo', '->', u'NP')
+('Mars', '->', u'NP')
+('Betty', '->', u'NP')
+('T', '->', u'NP')
+('Rex', '->', u'NP')
+('Tom', '->', u'NP')
+60 
+
+3051

@@ -1,0 +1,56 @@
+emogirls.csv
+0
+Sentiment(classification='pos', p_pos=0.6293936731107207, p_neg=0.37060632688927903)
+
+
+1
+Sentiment(classification='pos', p_pos=0.53591876263992932, p_neg=0.46408123736007045)
+
+
+
+
+0.2 0.5 0.417343782125 0.582656217875
+0
+My poem
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Jane', '->', u'NP')
+('Doe', '->', u'NP')
+('Mel', '->', u'NP')
+('Gomez', '->', u'NP')
+('Christy', '->', u'NP')
+('Bunny', '->', u'NP')
+('Green', '->', u'NP')
+('Emma', '->', u'NP')
+('Mel', '->', u'NP')
+('Pretty', '->', u'NP')
+('Brown', '->', u'NP')
+('Babe', '->', u'NP')
+('Hebrew', '->', u'NP')
+('Black', '->', u'NP')
+('Ford', '->', u'NP')
+('Miss', '->', u'NP')
+('Black', '->', u'NP')
+('Minnie', '->', u'NP')
+('Kitty', '->', u'NP')
+('Hannah', '->', u'NP')
+('Kitty', '->', u'NP')
+('Joan', '->', u'NP')
+('Wilson', '->', u'NP')
+('Black', '->', u'NP')
+('Liz', '->', u'NP')
+('Marie', '->', u'NP')
+('Pretty', '->', u'NP')
+('Ira', '->', u'NP')
+('Andrea', '->', u'NP')
+('Casey', '->', u'NP')
+('Brown', '->', u'NP')
+('Phoenix', '->', u'NP')
+('Julie', '->', u'NP')
+('Elizabeth', '->', u'NP')
+('Diana', '->', u'NP')
+('Frankie', '->', u'NP')
+('Via', '->', u'NP')
+('Black', '->', u'NP')
+38 
+
+737

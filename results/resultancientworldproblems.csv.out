@@ -1,0 +1,11 @@
+ancientworldproblems.csv
+0
+Sentiment(classification='pos', p_pos=0.73166452252405334, p_neg=0.26833547747594849)
+
+
+1
+Sentiment(classification='neg', p_pos=0.48680738786279687, p_neg=0.51319261213720324)
+
+
+
+

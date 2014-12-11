@@ -1,0 +1,11 @@
+coupons.csv
+0
+Sentiment(classification='neg', p_pos=0.2574691611258908, p_neg=0.74253083887410931)
+
+
+1
+Sentiment(classification='pos', p_pos=0.98826833395303082, p_neg=0.011731666046966885)
+
+
+
+

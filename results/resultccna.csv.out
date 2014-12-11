@@ -1,0 +1,77 @@
+ccna.csv
+0
+Sentiment(classification='neg', p_pos=0.42572975333047425, p_neg=0.57427024666952586)
+
+
+1
+Sentiment(classification='neg', p_pos=0.31799762097002571, p_neg=0.68200237902997407)
+
+
+
+
+0.266666666667 0.7 0.62813631285 0.37186368715
+0
+A question about the practice exams from the Odom book (DVD)
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Walker', '->', u'NP')
+('Walker', '->', u'NP')
+('June', '->', u'NP')
+('Don', '->', u'NP')
+('Sept', '->', u'NP')
+('Speed', '->', u'NP')
+('Sept', '->', u'NP')
+('Chris', '->', u'NP')
+('Bryant', '->', u'NP')
+('Buddy', '->', u'NP')
+('Seattle', '->', u'NP')
+('Sept', '->', u'NP')
+('BAM', '->', u'NP')
+('AMA', '->', u'NP')
+('Cheat', '->', u'NP')
+('Sheets', '->', u'NP')
+('Job', '->', u'NP')
+('Job', '->', u'NP')
+('Keith', '->', u'NP')
+('Barker', '->', u'NP')
+('Chicago', '->', u'NP')
+('899', '->', u'NP')
+('July', '->', u'NP')
+('Amazon', '->', u'NP')
+('Worth', '->', u'NP')
+('Sept', '->', u'NP')
+('Odom', '->', u'NP')
+('Odom', '->', u'NP')
+('E', '->', u'NP')
+('Sims', '->', u'NP')
+('Chicago', '->', u'NP')
+('Case', '->', u'NP')
+('Boston', '->', u'NP')
+('Wendell', '->', u'NP')
+('Odom', '->', u'NP')
+('Odom', '->', u'NP')
+('January', '->', u'NP')
+('January', '->', u'NP')
+('Rip', '->', u'NP')
+('Wallace', '->', u'NP')
+('August', '->', u'NP')
+('E', '->', u'NP')
+('Job', '->', u'NP')
+('Todd', '->', u'NP')
+('S', '->', u'NP')
+('Job', '->', u'NP')
+('Hard', '->', u'NP')
+('Mac', '->', u'NP')
+('September', '->', u'NP')
+('March', '->', u'NP')
+('AMA', '->', u'NP')
+('Bryant', '->', u'NP')
+('Todd', '->', u'NP')
+('December', '->', u'NP')
+('B', '->', u'NP')
+('December', '->', u'NP')
+('September', '->', u'NP')
+('Chicago', '->', u'NP')
+('Odom', '->', u'NP')
+59 
+
+10729

@@ -1,0 +1,57 @@
+fitgirls.csv
+0
+Sentiment(classification='neg', p_pos=0.34864799072013303, p_neg=0.65135200927986692)
+
+
+1
+Sentiment(classification='neg', p_pos=0.14888757312187936, p_neg=0.85111242687811905)
+
+
+
+
+0.204166666667 0.570833333333 0.751232218079 0.248767781921
+0
+?18 GAME?WARNING: Once you are inside... your buddies will not be seeing a lot of you! [SFW]
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Kate', '->', u'NP')
+('Kate', '->', u'NP')
+('Sullivan', '->', u'NP')
+('Venus', '->', u'NP')
+('Alice', '->', u'NP')
+('Eve', '->', u'NP')
+('Jessica', '->', u'NP')
+('Black', '->', u'NP')
+('Self', '->', u'NP')
+('Courtney', '->', u'NP')
+('Self', '->', u'NP')
+('Courtney', '->', u'NP')
+('Charm', '->', u'NP')
+('Jen', '->', u'NP')
+('Brazil', '->', u'NP')
+('Davis', '->', u'NP')
+('Bella', '->', u'NP')
+('Baker', '->', u'NP')
+('Underwood', '->', u'NP')
+('Black', '->', u'NP')
+('Marsh', '->', u'NP')
+('Catherine', '->', u'NP')
+('Holland', '->', u'NP')
+('Pole', '->', u'NP')
+('Rider', '->', u'NP')
+('Green', '->', u'NP')
+('Kitty', '->', u'NP')
+('Kate', '->', u'NP')
+('Julie', '->', u'NP')
+('Peterson', '->', u'NP')
+('Lauren', '->', u'NP')
+('Camille', '->', u'NP')
+('Alison', '->', u'NP')
+('Alex', '->', u'NP')
+('Morgan', '->', u'NP')
+('Kelly', '->', u'NP')
+('Kelly', '->', u'NP')
+('Dana', '->', u'NP')
+('Jessica', '->', u'NP')
+39 
+
+1166

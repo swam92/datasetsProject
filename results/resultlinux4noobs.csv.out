@@ -1,0 +1,69 @@
+linux4noobs.csv
+0
+Sentiment(classification='pos', p_pos=0.93714038341659289, p_neg=0.062859616583407718)
+
+
+1
+Sentiment(classification='pos', p_pos=0.59848929902955461, p_neg=0.40151070097044517)
+
+
+
+
+0.25 0.333333333333 0.232185158777 0.767814841223
+0
+What inexpensive computer is best for tinkering?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Don', '->', u'NP')
+('Hard', '->', u'NP')
+('Arch', '->', u'NP')
+('Don', '->', u'NP')
+('Los', '->', u'NP')
+('Angeles', '->', u'NP')
+('PM', '->', u'NP')
+('Mac', '->', u'NP')
+('Cheat', '->', u'NP')
+('Arch', '->', u'NP')
+('Hard', '->', u'NP')
+('Pi', '->', u'NP')
+('Pi', '->', u'NP')
+('Don', '->', u'NP')
+('S', '->', u'NP')
+('Arch', '->', u'NP')
+('Arch', '->', u'NP')
+('Tech', '->', u'NP')
+('Del', '->', u'NP')
+('Don', '->', u'NP')
+('Mac', '->', u'NP')
+('Java', '->', u'NP')
+('Arch', '->', u'NP')
+('Arch', '->', u'NP')
+('S', '->', u'NP')
+('Arch', '->', u'NP')
+('Hard', '->', u'NP')
+('Arch', '->', u'NP')
+('Pi', '->', u'NP')
+('Nautilus', '->', u'NP')
+('Nautilus', '->', u'NP')
+('Arch', '->', u'NP')
+('Arch', '->', u'NP')
+('Arch', '->', u'NP')
+('B', '->', u'NP')
+('B', '->', u'NP')
+('Arch', '->', u'NP')
+('Gloria', '->', u'NP')
+('Nautilus', '->', u'NP')
+('Lock', '->', u'NP')
+('Mac', '->', u'NP')
+('October', '->', u'NP')
+('Nautilus', '->', u'NP')
+('June', '->', u'NP')
+('Cool', '->', u'NP')
+('Linus', '->', u'NP')
+('Mobile', '->', u'NP')
+('Hard', '->', u'NP')
+('Arch', '->', u'NP')
+('Arch', '->', u'NP')
+('Pi', '->', u'NP')
+51 
+
+14283

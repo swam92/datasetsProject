@@ -1,0 +1,70 @@
+fasting.csv
+0
+Sentiment(classification='pos', p_pos=0.89234337867240743, p_neg=0.10765662132759153)
+
+
+1
+Sentiment(classification='pos', p_pos=0.95224895397489429, p_neg=0.047751046025104701)
+
+
+
+
+0.2 0.6 0.0777038336763 0.922296166324
+0
+"when you fast, your body compensates by slowing down your metabolism to conserve energy, something left over from our caveman days... and you're not burning fat when you fast, you're burning lean muscle. Then, when the fast is over, you develop what's called “rebound appetite”"
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('AMA', '->', u'NP')
+('Sydney', '->', u'NP')
+('Harper', '->', u'NP')
+('U', '->', u'NP')
+('S', '->', u'NP')
+('Forbes', '->', u'NP')
+('Andrew', '->', u'NP')
+('Weil', '->', u'NP')
+('England', '->', u'NP')
+('Mark', '->', u'NP')
+('Washington', '->', u'NP')
+('Michael', '->', u'NP')
+('Self', '->', u'NP')
+('America', '->', u'NP')
+('Illinois', '->', u'NP')
+('Chicago', '->', u'NP')
+('Harper', '->', u'NP')
+('Yakima', '->', u'NP')
+('May', '->', u'NP')
+('Mediterranean', '->', u'NP')
+('AMA', '->', u'NP')
+('Dizzy', '->', u'NP')
+('AMA', '->', u'NP')
+('AMA', '->', u'NP')
+('AMA', '->', u'NP')
+('May', '->', u'NP')
+('Low', '->', u'NP')
+('Dennis', '->', u'NP')
+('Winter', '->', u'NP')
+('Penny', '->', u'NP')
+('July', '->', u'NP')
+('Utah', '->', u'NP')
+('Mormon', '->', u'NP')
+('God', '->', u'NP')
+('God', '->', u'NP')
+('Buddy', '->', u'NP')
+('Anthony', '->', u'NP')
+('Daniel', '->', u'NP')
+('Buddy', '->', u'NP')
+('App', '->', u'NP')
+('Britain', '->', u'NP')
+('Daniel', '->', u'NP')
+('Steve', '->', u'NP')
+('T', '->', u'NP')
+('Jakarta', '->', u'NP')
+('Faith', '->', u'NP')
+('Joe', '->', u'NP')
+('Learned', '->', u'NP')
+('May', '->', u'NP')
+('Self', '->', u'NP')
+('Friend', '->', u'NP')
+('May', '->', u'NP')
+52 
+
+9155

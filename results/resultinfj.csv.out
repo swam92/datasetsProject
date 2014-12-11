@@ -1,0 +1,75 @@
+infj.csv
+0
+Sentiment(classification='pos', p_pos=0.52618842556475565, p_neg=0.47381157443524435)
+
+
+1
+Sentiment(classification='pos', p_pos=0.92756372452395652, p_neg=0.072436275476043879)
+
+
+
+
+0.566666666667 0.65 0.273123924956 0.726876075044
+0
+Anyone else caught in the winter storm in central/midwest US?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Plath', '->', u'NP')
+('Winter', '->', u'NP')
+('Hard', '->', u'NP')
+('Fe', '->', u'NP')
+('Belle', '->', u'NP')
+('Short', '->', u'NP')
+('Susan', '->', u'NP')
+('Cain', '->', u'NP')
+('Don', '->', u'NP')
+('Friend', '->', u'NP')
+('Bible', '->', u'NP')
+('Fe', '->', u'NP')
+('Fortune', '->', u'NP')
+('God', '->', u'NP')
+('Fe', '->', u'NP')
+('Aristotle', '->', u'NP')
+('Plato', '->', u'NP')
+('Tom', '->', u'NP')
+('Myers', '->', u'NP')
+('Briggs', '->', u'NP')
+('Winter', '->', u'NP')
+('Self', '->', u'NP')
+('Boston', '->', u'NP')
+('Seattle', '->', u'NP')
+('Myers', '->', u'NP')
+('Briggs', '->', u'NP')
+('Myers', '->', u'NP')
+('Briggs', '->', u'NP')
+('Democrat', '->', u'NP')
+('Republican', '->', u'NP')
+('Marilyn', '->', u'NP')
+('Hollywood', '->', u'NP')
+('Hard', '->', u'NP')
+('Fe', '->', u'NP')
+('Self', '->', u'NP')
+('Jan', '->', u'NP')
+('Brown', '->', u'NP')
+('S', '->', u'NP')
+('Washington', '->', u'NP')
+('Andrew', '->', u'NP')
+('Carey', '->', u'NP')
+('Mulligan', '->', u'NP')
+('Don', '->', u'NP')
+('Winter', '->', u'NP')
+('T', '->', u'NP')
+('F', '->', u'NP')
+('Louis', '->', u'NP')
+('AMA', '->', u'NP')
+('Heard', '->', u'NP')
+('Self', '->', u'NP')
+('Fe', '->', u'NP')
+('Ti', '->', u'NP')
+('Job', '->', u'NP')
+('Jesus', '->', u'NP')
+('Pi', '->', u'NP')
+('Fe', '->', u'NP')
+('Short', '->', u'NP')
+57 
+
+11683

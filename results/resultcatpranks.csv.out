@@ -1,0 +1,42 @@
+catpranks.csv
+0
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+1
+Sentiment(classification='neg', p_pos=0.32057029733105497, p_neg=0.67942970266894431)
+
+
+
+
+1.0 0.3 0.589714851334 0.410285148666
+0
+Cat scared by Reading Rainbow theme song
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Mario', '->', u'NP')
+('Kitty', '->', u'NP')
+('Hoover', '->', u'NP')
+('Ham', '->', u'NP')
+('Christmas', '->', u'NP')
+('Kitty', '->', u'NP')
+('Sunny', '->', u'NP')
+('Philadelphia', '->', u'NP')
+('Crow', '->', u'NP')
+('Kitty', '->', u'NP')
+('Raccoon', '->', u'NP')
+('Ham', '->', u'NP')
+('Dove', '->', u'NP')
+('Dove', '->', u'NP')
+('Mario', '->', u'NP')
+('Congress', '->', u'NP')
+('Coke', '->', u'NP')
+('Guy', '->', u'NP')
+('God', '->', u'NP')
+('Kitty', '->', u'NP')
+('Cool', '->', u'NP')
+('Russia', '->', u'NP')
+('Mario', '->', u'NP')
+('Kitty', '->', u'NP')
+24 
+
+1577

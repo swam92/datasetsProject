@@ -1,0 +1,11 @@
+ParticlePhysics.csv
+0
+Sentiment(classification='neg', p_pos=0.2864391143911435, p_neg=0.71356088560885633)
+
+
+1
+Sentiment(classification='pos', p_pos=0.57236842105263119, p_neg=0.42763157894736792)
+
+
+
+

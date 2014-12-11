@@ -1,0 +1,11 @@
+preppers.csv
+0
+Sentiment(classification='neg', p_pos=0.42076886294957994, p_neg=0.5792311370504204)
+
+
+1
+Sentiment(classification='pos', p_pos=0.62942989214175626, p_neg=0.37057010785824335)
+
+
+
+

@@ -1,0 +1,82 @@
+fffffffuuuuuuuuuuuu.csv
+0
+Sentiment(classification='pos', p_pos=0.64294165976152617, p_neg=0.35705834023847249)
+
+
+1
+Sentiment(classification='neg', p_pos=0.44857882616412004, p_neg=0.55142117383587996)
+
+
+
+
+0.318181818182 0.527272727273 0.454239757037 0.545760242963
+0
+I'm a caregiver for disabled people.. it was a natural response
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Fred', '->', u'NP')
+('Nicholas', '->', u'NP')
+('Christmas', '->', u'NP')
+('Dave', '->', u'NP')
+('Low', '->', u'NP')
+('Christmas', '->', u'NP')
+('Bohemian', '->', u'NP')
+('Bill', '->', u'NP')
+('London', '->', u'NP')
+('Christmas', '->', u'NP')
+('November', '->', u'NP')
+('Melvin', '->', u'NP')
+('Job', '->', u'NP')
+('Tech', '->', u'NP')
+('California', '->', u'NP')
+('Younger', '->', u'NP')
+('Christmas', '->', u'NP')
+('Green', '->', u'NP')
+('Frank', '->', u'NP')
+('T', '->', u'NP')
+('Mario', '->', u'NP')
+('Iraq', '->', u'NP')
+('Patrick', '->', u'NP')
+('Midwest', '->', u'NP')
+('America', '->', u'NP')
+('Pretty', '->', u'NP')
+('Winter', '->', u'NP')
+('Christmas', '->', u'NP')
+('Hard', '->', u'NP')
+('Europe', '->', u'NP')
+('Bruce', '->', u'NP')
+('Willis', '->', u'NP')
+('Guy', '->', u'NP')
+('Hawaii', '->', u'NP')
+('Korea', '->', u'NP')
+('Self', '->', u'NP')
+('Guy', '->', u'NP')
+('Black', '->', u'NP')
+('Sweden', '->', u'NP')
+('U', '->', u'NP')
+('Cam', '->', u'NP')
+('Tech', '->', u'NP')
+('Don', '->', u'NP')
+('Don', '->', u'NP')
+('Ed', '->', u'NP')
+('Brace', '->', u'NP')
+('U', '->', u'NP')
+('May', '->', u'NP')
+('Australia', '->', u'NP')
+('Watson', '->', u'NP')
+('America', '->', u'NP')
+('Winter', '->', u'NP')
+('Plane', '->', u'NP')
+('Christmas', '->', u'NP')
+('Moss', '->', u'NP')
+('Green', '->', u'NP')
+('Christmas', '->', u'NP')
+('Tech', '->', u'NP')
+('Che', '->', u'NP')
+('Guevara', '->', u'NP')
+('Bird', '->', u'NP')
+('April', '->', u'NP')
+('Buddy', '->', u'NP')
+('Gay', '->', u'NP')
+64 
+
+6727

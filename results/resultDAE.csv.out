@@ -1,0 +1,80 @@
+DAE.csv
+0
+Sentiment(classification='neg', p_pos=0.46753831314406907, p_neg=0.53246168685593187)
+
+
+1
+Sentiment(classification='neg', p_pos=0.21200239620027955, p_neg=0.78799760379972272)
+
+
+
+
+-0.2 0.85 0.660229645328 0.339770354672
+0
+DAE Hate the fake laughing sitcoms use?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('G', '->', u'NP')
+('Pat', '->', u'NP')
+('ABC', '->', u'NP')
+('Chuck', '->', u'NP')
+('Norris', '->', u'NP')
+('April', '->', u'NP')
+('G', '->', u'NP')
+('AMA', '->', u'NP')
+('Europe', '->', u'NP')
+('U', '->', u'NP')
+('S', '->', u'NP')
+('Jon', '->', u'NP')
+('Stewart', '->', u'NP')
+('Adam', '->', u'NP')
+('Jim', '->', u'NP')
+('Black', '->', u'NP')
+('America', '->', u'NP')
+('Jimmy', '->', u'NP')
+('Wales', '->', u'NP')
+('Steve', '->', u'NP')
+('Emma', '->', u'NP')
+('Watson', '->', u'NP')
+('Korea', '->', u'NP')
+('Bruce', '->', u'NP')
+('Wayne', '->', u'NP')
+('App', '->', u'NP')
+('Gun', '->', u'NP')
+('Page', '->', u'NP')
+('April', '->', u'NP')
+('Ray', '->', u'NP')
+('Burger', '->', u'NP')
+('Cap', '->', u'NP')
+('Guy', '->', u'NP')
+('Greg', '->', u'NP')
+('Mars', '->', u'NP')
+('Harry', '->', u'NP')
+('Potter', '->', u'NP')
+('Ray', '->', u'NP')
+('William', '->', u'NP')
+('Johnson', '->', u'NP')
+('America', '->', u'NP')
+('Israel', '->', u'NP')
+('Younger', '->', u'NP')
+('America', '->', u'NP')
+('Jim', '->', u'NP')
+('Coke', '->', u'NP')
+('July', '->', u'NP')
+('Santa', '->', u'NP')
+('Florida', '->', u'NP')
+('Scott', '->', u'NP')
+('Mario', '->', u'NP')
+('Champ', '->', u'NP')
+('Hard', '->', u'NP')
+('AMA', '->', u'NP')
+('Brooks', '->', u'NP')
+('Rebecca', '->', u'NP')
+('Black', '->', u'NP')
+('Faith', '->', u'NP')
+('T', '->', u'NP')
+('Coke', '->', u'NP')
+('Mike', '->', u'NP')
+('Worrell', '->', u'NP')
+62 
+
+16621

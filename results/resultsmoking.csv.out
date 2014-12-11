@@ -1,0 +1,11 @@
+smoking.csv
+0
+Sentiment(classification='neg', p_pos=0.33035714285714324, p_neg=0.66964285714285665)
+
+
+1
+Sentiment(classification='pos', p_pos=0.83847065797273279, p_neg=0.16152934202726724)
+
+
+
+

@@ -1,0 +1,65 @@
+infp.csv
+0
+Sentiment(classification='neg', p_pos=0.40186084419446821, p_neg=0.59813915580553179)
+
+
+1
+Sentiment(classification='pos', p_pos=0.79993739611413361, p_neg=0.20006260388586661)
+
+
+
+
+0.146875 0.471875 0.399100879846 0.600899120154
+0
+Don't you think you've all gone too far in defining yourself as an acronym?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Calvin', '->', u'NP')
+('Oscar', '->', u'NP')
+('Wilde', '->', u'NP')
+('Don', '->', u'NP')
+('Don', '->', u'NP')
+('Don', '->', u'NP')
+('Frank', '->', u'NP')
+('Andrew', '->', u'NP')
+('Carey', '->', u'NP')
+('Mulligan', '->', u'NP')
+('Disneyland', '->', u'NP')
+('Jon', '->', u'NP')
+('Snow', '->', u'NP')
+('Myers', '->', u'NP')
+('Briggs', '->', u'NP')
+('Stephen', '->', u'NP')
+('Nick', '->', u'NP')
+('Drake', '->', u'NP')
+('Dexter', '->', u'NP')
+('T', '->', u'NP')
+('S', '->', u'NP')
+('Eliot', '->', u'NP')
+('Alfred', '->', u'NP')
+('Don', '->', u'NP')
+('F', '->', u'NP')
+('Kurt', '->', u'NP')
+('Walter', '->', u'NP')
+('Fe', '->', u'NP')
+('England', '->', u'NP')
+('AMA', '->', u'NP')
+('Portland', '->', u'NP')
+('Austin', '->', u'NP')
+('Dexter', '->', u'NP')
+('Myers', '->', u'NP')
+('Briggs', '->', u'NP')
+('S', '->', u'NP')
+('Toronto', '->', u'NP')
+('Myers', '->', u'NP')
+('Briggs', '->', u'NP')
+('Heard', '->', u'NP')
+('Mormon', '->', u'NP')
+('Jesus', '->', u'NP')
+('God', '->', u'NP')
+('AMA', '->', u'NP')
+('God', '->', u'NP')
+('Thom', '->', u'NP')
+('Don', '->', u'NP')
+47 
+
+8194

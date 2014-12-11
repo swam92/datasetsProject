@@ -1,0 +1,49 @@
+45thworldproblems.csv
+0
+Sentiment(classification='neg', p_pos=0.38912656961884728, p_neg=0.61087343038115371)
+
+
+1
+Sentiment(classification='neg', p_pos=0.17949304617924855, p_neg=0.82050695382074978)
+
+
+
+
+0.1 0.2 0.715690192101 0.284309807899
+0
+Well well.. What an interesting sub
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Rose', '->', u'NP')
+('T', '->', u'NP')
+('N', '->', u'NP')
+('Eve', '->', u'NP')
+('Marsh', '->', u'NP')
+('S', '->', u'NP')
+('Lock', '->', u'NP')
+('Burns', '->', u'NP')
+('L', '->', u'NP')
+('Eden', '->', u'NP')
+('L', '->', u'NP')
+('T', '->', u'NP')
+('Sol', '->', u'NP')
+('W', '->', u'NP')
+('L', '->', u'NP')
+('S', '->', u'NP')
+('Bracken', '->', u'NP')
+('E', '->', u'NP')
+('E', '->', u'NP')
+('E', '->', u'NP')
+('S', '->', u'NP')
+('E', '->', u'NP')
+('E', '->', u'NP')
+('E', '->', u'NP')
+('E', '->', u'NP')
+('S', '->', u'NP')
+('L', '->', u'NP')
+('B', '->', u'NP')
+('N', '->', u'NP')
+('T', '->', u'NP')
+('Hunt', '->', u'NP')
+31 
+
+4938

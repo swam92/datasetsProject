@@ -1,0 +1,11 @@
+aves.csv
+0
+Sentiment(classification='pos', p_pos=0.69756081689345717, p_neg=0.30243918310654289)
+
+
+1
+Sentiment(classification='pos', p_pos=0.5025148704802902, p_neg=0.49748512951970897)
+
+
+
+

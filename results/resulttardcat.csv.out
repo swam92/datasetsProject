@@ -1,0 +1,11 @@
+tardcat.csv
+0
+Sentiment(classification='pos', p_pos=0.52734374999999967, p_neg=0.47265625000000006)
+
+
+1
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+
+

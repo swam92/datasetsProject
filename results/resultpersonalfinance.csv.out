@@ -1,0 +1,11 @@
+personalfinance.csv
+0
+Sentiment(classification='neg', p_pos=0.39909720963729517, p_neg=0.60090279036270522)
+
+
+1
+Sentiment(classification='pos', p_pos=0.73354610460110026, p_neg=0.26645389539889935)
+
+
+
+

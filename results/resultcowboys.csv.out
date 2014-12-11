@@ -1,0 +1,11 @@
+cowboys.csv
+0
+Sentiment(classification='neg', p_pos=0.35606060606060613, p_neg=0.64393939393939392)
+
+
+1
+Sentiment(classification='pos', p_pos=0.8224408968343776, p_neg=0.17755910316562207)
+
+
+
+

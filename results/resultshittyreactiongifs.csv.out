@@ -1,0 +1,75 @@
+shittyreactiongifs.csv
+0
+Sentiment(classification='neg', p_pos=0.42996323403470366, p_neg=0.57003676596529596)
+
+
+1
+Sentiment(classification='neg', p_pos=0.086973125016912831, p_neg=0.91302687498308599)
+
+
+
+
+0.0515151515152 0.227272727273 0.741531820474 0.258468179526
+0
+When I go jellyfishing
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Jesus', '->', u'NP')
+('Christmas', '->', u'NP')
+('Thai', '->', u'NP')
+('Michael', '->', u'NP')
+('Jackson', '->', u'NP')
+('Texas', '->', u'NP')
+('Uno', '->', u'NP')
+('Englishman', '->', u'NP')
+('Paris', '->', u'NP')
+('George', '->', u'NP')
+('Bush', '->', u'NP')
+('Reich', '->', u'NP')
+('Benjamin', '->', u'NP')
+('Miranda', '->', u'NP')
+('Christmas', '->', u'NP')
+('Stark', '->', u'NP')
+('Halloween', '->', u'NP')
+('America', '->', u'NP')
+('Black', '->', u'NP')
+('Hitler', '->', u'NP')
+('Santa', '->', u'NP')
+('Mormon', '->', u'NP')
+('Xavier', '->', u'NP')
+('Moses', '->', u'NP')
+('Korea', '->', u'NP')
+('Christmas', '->', u'NP')
+('Moses', '->', u'NP')
+('Jehovah', '->', u'NP')
+('Steve', '->', u'NP')
+('F', '->', u'NP')
+('Louisiana', '->', u'NP')
+('Easter', '->', u'NP')
+('Stevie', '->', u'NP')
+('God', '->', u'NP')
+('Nick', '->', u'NP')
+('Willis', '->', u'NP')
+('Cliff', '->', u'NP')
+('Pitt', '->', u'NP')
+('Michael', '->', u'NP')
+('Phelps', '->', u'NP')
+('America', '->', u'NP')
+('Christ', '->', u'NP')
+('Black', '->', u'NP')
+('Ken', '->', u'NP')
+('Poseidon', '->', u'NP')
+('Judy', '->', u'NP')
+('Slaughter', '->', u'NP')
+('Christ', '->', u'NP')
+('Green', '->', u'NP')
+('Bird', '->', u'NP')
+('T', '->', u'NP')
+('Anne', '->', u'NP')
+('Frank', '->', u'NP')
+('Andy', '->', u'NP')
+('Murray', '->', u'NP')
+('Oscar', '->', u'NP')
+('Perez', '->', u'NP')
+57 
+
+11255

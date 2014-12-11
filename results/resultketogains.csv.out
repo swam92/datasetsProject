@@ -1,0 +1,77 @@
+ketogains.csv
+0
+Sentiment(classification='pos', p_pos=0.51358942182315637, p_neg=0.48641057817684352)
+
+
+1
+Sentiment(classification='neg', p_pos=0.32357218620652384, p_neg=0.67642781379347594)
+
+
+
+
+0.309523809524 0.517857142857 0.581419195985 0.418580804015
+0
+Personalized intermittent fasting question
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('March', '->', u'NP')
+('Cheat', '->', u'NP')
+('Cheat', '->', u'NP')
+('Doc', '->', u'NP')
+('Low', '->', u'NP')
+('Steve', '->', u'NP')
+('Alan', '->', u'NP')
+('Arnold', '->', u'NP')
+('Greg', '->', u'NP')
+('Ellis', '->', u'NP')
+('Kelly', '->', u'NP')
+('Fletcher', '->', u'NP')
+('Tim', '->', u'NP')
+('Ferris', '->', u'NP')
+('Mar', '->', u'NP')
+('George', '->', u'NP')
+('Doug', '->', u'NP')
+('Low', '->', u'NP')
+('Peter', '->', u'NP')
+('Arnold', '->', u'NP')
+('Low', '->', u'NP')
+('Andy', '->', u'NP')
+('Morgan', '->', u'NP')
+('Easter', '->', u'NP')
+('June', '->', u'NP')
+('Low', '->', u'NP')
+('Nate', '->', u'NP')
+('Dave', '->', u'NP')
+('138', '->', u'NP')
+('Don', '->', u'NP')
+('F', '->', u'NP')
+('Low', '->', u'NP')
+('May', '->', u'NP')
+('Low', '->', u'NP')
+('Jerry', '->', u'NP')
+('Ward', '->', u'NP')
+('Texas', '->', u'NP')
+('June', '->', u'NP')
+('Michigan', '->', u'NP')
+('June', '->', u'NP')
+('Walker', '->', u'NP')
+('December', '->', u'NP')
+('October', '->', u'NP')
+('November', '->', u'NP')
+('Tim', '->', u'NP')
+('Ferris', '->', u'NP')
+('Brandon', '->', u'NP')
+('Marshall', '->', u'NP')
+('Chicago', '->', u'NP')
+('F', '->', u'NP')
+('Spartan', '->', u'NP')
+('Anderson', '->', u'NP')
+('L', '->', u'NP')
+('Thai', '->', u'NP')
+('Max', '->', u'NP')
+('Alpha', '->', u'NP')
+('Guy', '->', u'NP')
+('Stack', '->', u'NP')
+('Australia', '->', u'NP')
+59 
+
+11539

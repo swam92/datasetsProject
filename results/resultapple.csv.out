@@ -1,0 +1,11 @@
+apple.csv
+0
+Sentiment(classification='pos', p_pos=0.57206809114906121, p_neg=0.4279319088509394)
+
+
+1
+Sentiment(classification='pos', p_pos=0.85617152856208734, p_neg=0.14382847143791219)
+
+
+
+

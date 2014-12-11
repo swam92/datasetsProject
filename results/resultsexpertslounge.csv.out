@@ -1,0 +1,45 @@
+sexpertslounge.csv
+0
+Sentiment(classification='pos', p_pos=0.89515300851109592, p_neg=0.1048469914889036)
+
+
+1
+Sentiment(classification='pos', p_pos=0.56708955370934933, p_neg=0.43291044629064995)
+
+
+
+
+0.55 0.5 0.26887871889 0.73112128111
+0
+Opinion: Parental Choice and Circumcision
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('F', '->', u'NP')
+('Low', '->', u'NP')
+('Dawn', '->', u'NP')
+('F', '->', u'NP')
+('Butt', '->', u'NP')
+('B', '->', u'NP')
+('Don', '->', u'NP')
+('Low', '->', u'NP')
+('Kinsey', '->', u'NP')
+('Tristan', '->', u'NP')
+('G', '->', u'NP')
+('Showers', '->', u'NP')
+('Fox', '->', u'NP')
+('Bacon', '->', u'NP')
+('Canada', '->', u'NP')
+('Mary', '->', u'NP')
+('Roach', '->', u'NP')
+('Page', '->', u'NP')
+('Guy', '->', u'NP')
+('Hard', '->', u'NP')
+('Tristan', '->', u'NP')
+('Miss', '->', u'NP')
+('Icelandic', '->', u'NP')
+('Low', '->', u'NP')
+('Gay', '->', u'NP')
+('Guy', '->', u'NP')
+('Gross', '->', u'NP')
+27 
+
+4438

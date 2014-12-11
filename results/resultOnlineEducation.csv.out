@@ -1,0 +1,63 @@
+OnlineEducation.csv
+0
+Sentiment(classification='pos', p_pos=0.93015194215992414, p_neg=0.069848057840075362)
+
+
+1
+Sentiment(classification='pos', p_pos=0.9988054844519626, p_neg=0.0011945155480355216)
+
+
+
+
+0.228787878788 0.501515151515 0.0355212866941 0.964478713306
+0
+Chronicle survey of 103 MOOC professors. 3/18/2013
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('AMA', '->', u'NP')
+('Minnesota', '->', u'NP')
+('Steve', '->', u'NP')
+('Huffman', '->', u'NP')
+('Georgia', '->', u'NP')
+('Tech', '->', u'NP')
+('Khan', '->', u'NP')
+('Harvard', '->', u'NP')
+('T', '->', u'NP')
+('January', '->', u'NP')
+('Harvard', '->', u'NP')
+('Yale', '->', u'NP')
+('Harvard', '->', u'NP')
+('March', '->', u'NP')
+('Harvard', '->', u'NP')
+('Harvard', '->', u'NP')
+('Pearson', '->', u'NP')
+('July', '->', u'NP')
+('Daphne', '->', u'NP')
+('June', '->', u'NP')
+('August', '->', u'NP')
+('Peter', '->', u'NP')
+('Khan', '->', u'NP')
+('Harvard', '->', u'NP')
+('March', '->', u'NP')
+('Peter', '->', u'NP')
+('Santa', '->', u'NP')
+('Fe', '->', u'NP')
+('Wonderland', '->', u'NP')
+('Hazard', '->', u'NP')
+('Jan', '->', u'NP')
+('Khan', '->', u'NP')
+('Chicago', '->', u'NP')
+('Steve', '->', u'NP')
+('Huffman', '->', u'NP')
+('Khan', '->', u'NP')
+('Khan', '->', u'NP')
+('April', '->', u'NP')
+('Jan', '->', u'NP')
+('Caltech', '->', u'NP')
+('Rush', '->', u'NP')
+('May', '->', u'NP')
+('Princeton', '->', u'NP')
+('Michigan', '->', u'NP')
+('Pennsylvania', '->', u'NP')
+45 
+
+1660

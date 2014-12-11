@@ -1,0 +1,11 @@
+scifi.csv
+0
+Sentiment(classification='pos', p_pos=0.65752887810963268, p_neg=0.3424711218903671)
+
+
+1
+Sentiment(classification='pos', p_pos=0.50733498258246668, p_neg=0.49266501741753366)
+
+
+
+

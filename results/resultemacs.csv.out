@@ -1,0 +1,11 @@
+emacs.csv
+0
+Sentiment(classification='pos', p_pos=0.56334018996532986, p_neg=0.43665981003466953)
+
+
+1
+Sentiment(classification='neg', p_pos=0.35185185185185164, p_neg=0.64814814814814825)
+
+
+
+

@@ -1,0 +1,11 @@
+cigars.csv
+0
+Sentiment(classification='pos', p_pos=0.54870490667105276, p_neg=0.45129509332894796)
+
+
+1
+Sentiment(classification='neg', p_pos=0.3859314640856415, p_neg=0.61406853591435728)
+
+
+
+

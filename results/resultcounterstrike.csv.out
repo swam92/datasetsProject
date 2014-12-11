@@ -1,0 +1,11 @@
+counterstrike.csv
+0
+Sentiment(classification='pos', p_pos=0.99249425218763099, p_neg=0.0075057478123708712)
+
+
+1
+Sentiment(classification='neg', p_pos=0.2517813320278689, p_neg=0.74821866797213066)
+
+
+
+

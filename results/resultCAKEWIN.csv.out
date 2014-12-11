@@ -1,0 +1,11 @@
+CAKEWIN.csv
+0
+Sentiment(classification='neg', p_pos=0.3749999999999995, p_neg=0.62499999999999978)
+
+
+1
+Sentiment(classification='pos', p_pos=0.90852087872001241, p_neg=0.091479121279988015)
+
+
+
+

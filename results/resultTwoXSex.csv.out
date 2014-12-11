@@ -1,0 +1,57 @@
+TwoXSex.csv
+0
+Sentiment(classification='neg', p_pos=0.34239130434782611, p_neg=0.65760869565217384)
+
+
+1
+Sentiment(classification='pos', p_pos=0.5387676021904948, p_neg=0.46123239780950515)
+
+
+
+
+0.5 1.0 0.559420546731 0.440579453269
+0
+How do I have sex WITHOUT him enjoying it?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Case', '->', u'NP')
+('Lot', '->', u'NP')
+('Hard', '->', u'NP')
+('Self', '->', u'NP')
+('B', '->', u'NP')
+('B', '->', u'NP')
+('China', '->', u'NP')
+('G', '->', u'NP')
+('LD', '->', u'NP')
+('Steele', '->', u'NP')
+('Grey', '->', u'NP')
+('Christmas', '->', u'NP')
+('Sell', '->', u'NP')
+('Sean', '->', u'NP')
+('Jameson', '->', u'NP')
+('F', '->', u'NP')
+('Halloween', '->', u'NP')
+('F', '->', u'NP')
+('Canada', '->', u'NP')
+('Sandra', '->', u'NP')
+('G', '->', u'NP')
+('Sober', '->', u'NP')
+('AMA', '->', u'NP')
+('Ben', '->', u'NP')
+('Victoria', '->', u'NP')
+('Ed', '->', u'NP')
+('Australia', '->', u'NP')
+('Victoria', '->', u'NP')
+('Lo', '->', u'NP')
+('Pretty', '->', u'NP')
+('Low', '->', u'NP')
+('Las', '->', u'NP')
+('Vegas', '->', u'NP')
+('Self', '->', u'NP')
+('Ed', '->', u'NP')
+('G', '->', u'NP')
+('Frederick', '->', u'NP')
+('Hollywood', '->', u'NP')
+('Worth', '->', u'NP')
+39 
+
+10713

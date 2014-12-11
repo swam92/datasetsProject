@@ -1,0 +1,46 @@
+algorithms.csv
+0
+Sentiment(classification='neg', p_pos=0.31571562207670745, p_neg=0.68428437792329333)
+
+
+1
+Sentiment(classification='pos', p_pos=0.90411947034038964, p_neg=0.09588052965960997)
+
+
+
+
+0.0 0.5 0.390082453791 0.609917546209
+0
+Buggy recursive call.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Mario', '->', u'NP')
+('Bloom', '->', u'NP')
+('Princeton', '->', u'NP')
+('September', '->', u'NP')
+('Self', '->', u'NP')
+('Bird', '->', u'NP')
+('Hungarian', '->', u'NP')
+('Ford', '->', u'NP')
+('Claude', '->', u'NP')
+('Hard', '->', u'NP')
+('Hard', '->', u'NP')
+('Alpha', '->', u'NP')
+('N', '->', u'NP')
+('Conway', '->', u'NP')
+('Tower', '->', u'NP')
+('N', '->', u'NP')
+('Morris', '->', u'NP')
+('Pratt', '->', u'NP')
+('Simplex', '->', u'NP')
+('Omega', '->', u'NP')
+('Richard', '->', u'NP')
+('Carmichael', '->', u'NP')
+('London', '->', u'NP')
+('B', '->', u'NP')
+('B', '->', u'NP')
+('Ritz', '->', u'NP')
+('B', '->', u'NP')
+('Huffman', '->', u'NP')
+28 
+
+3732

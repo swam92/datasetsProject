@@ -1,0 +1,11 @@
+bodymods.csv
+0
+Sentiment(classification='pos', p_pos=0.535526903326635, p_neg=0.46447309667336445)
+
+
+1
+Sentiment(classification='neg', p_pos=0.32352941176470579, p_neg=0.67647058823529393)
+
+
+
+

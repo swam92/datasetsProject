@@ -1,0 +1,11 @@
+mead.csv
+0
+Sentiment(classification='pos', p_pos=0.70481644325158577, p_neg=0.29518355674841396)
+
+
+1
+Sentiment(classification='pos', p_pos=0.5009016205736182, p_neg=0.4990983794263813)
+
+
+
+

@@ -1,0 +1,12 @@
+nerdcubed.csv
+0
+Sentiment(classification='neg', p_pos=0.49301379383823796, p_neg=0.50698620616176182)
+
+
+1
+Sentiment(classification='neg', p_pos=0.39854502362903482, p_neg=0.60145497637096512)
+
+
+
+
+0.3 0.1 0.554220591266 0.445779408734

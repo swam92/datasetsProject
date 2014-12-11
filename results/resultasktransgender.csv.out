@@ -1,0 +1,71 @@
+asktransgender.csv
+0
+Sentiment(classification='neg', p_pos=0.48494921474336128, p_neg=0.51505078525663872)
+
+
+1
+Sentiment(classification='neg', p_pos=0.27179585352279845, p_neg=0.72820414647720255)
+
+
+
+
+-0.31328125 0.825 0.621627465867 0.378372534133
+0
+Got a letter from Selective Service (ftm), not sure what to do...
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Don', '->', u'NP')
+('Fish', '->', u'NP')
+('July', '->', u'NP')
+('Australian', '->', u'NP')
+('Don', '->', u'NP')
+('T', '->', u'NP')
+('T', '->', u'NP')
+('Miss', '->', u'NP')
+('God', '->', u'NP')
+('Don', '->', u'NP')
+('T', '->', u'NP')
+('AMA', '->', u'NP')
+('Bowers', '->', u'NP')
+('Mormon', '->', u'NP')
+('Natalie', '->', u'NP')
+('Reed', '->', u'NP')
+('Houston', '->', u'NP')
+('Don', '->', u'NP')
+('Learned', '->', u'NP')
+('Julia', '->', u'NP')
+('July', '->', u'NP')
+('August', '->', u'NP')
+('Minnesota', '->', u'NP')
+('Met', '->', u'NP')
+('T', '->', u'NP')
+('Austin', '->', u'NP')
+('Met', '->', u'NP')
+('E', '->', u'NP')
+('Christmas', '->', u'NP')
+('T', '->', u'NP')
+('Gay', '->', u'NP')
+('Pretty', '->', u'NP')
+('Meltzer', '->', u'NP')
+('May', '->', u'NP')
+('T', '->', u'NP')
+('F', '->', u'NP')
+('Miss', '->', u'NP')
+('Tennessee', '->', u'NP')
+('Andrea', '->', u'NP')
+('Jones', '->', u'NP')
+('Younger', '->', u'NP')
+('Christmas', '->', u'NP')
+('Pee', '->', u'NP')
+('Friend', '->', u'NP')
+('Thailand', '->', u'NP')
+('Gay', '->', u'NP')
+('Natalie', '->', u'NP')
+('Reed', '->', u'NP')
+('AMA', '->', u'NP')
+('Halloween', '->', u'NP')
+('Manning', '->', u'NP')
+('Self', '->', u'NP')
+('Louisiana', '->', u'NP')
+53 
+
+13314

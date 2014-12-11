@@ -1,0 +1,11 @@
+redpandas.csv
+0
+Sentiment(classification='neg', p_pos=0.13896680691912144, p_neg=0.86103319308087889)
+
+
+1
+Sentiment(classification='pos', p_pos=0.60227062949972232, p_neg=0.39772937050027635)
+
+
+
+

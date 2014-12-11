@@ -1,0 +1,58 @@
+Subliminal.csv
+0
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+1
+Sentiment(classification='pos', p_pos=0.55166051660516613, p_neg=0.44833948339483404)
+
+
+
+
+0.25 0.5 0.474169741697 0.525830258303
+0
+A Shattered Iphone. [Pic]
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Christianity', '->', u'NP')
+('Ed', '->', u'NP')
+('Eddy', '->', u'NP')
+('Child', '->', u'NP')
+('Penny', '->', u'NP')
+('Hitler', '->', u'NP')
+('Mickey', '->', u'NP')
+('Ray', '->', u'NP')
+('Campbell', '->', u'NP')
+('Don', '->', u'NP')
+('App', '->', u'NP')
+('Pi', '->', u'NP')
+('Fox', '->', u'NP')
+('Dodge', '->', u'NP')
+('Pretty', '->', u'NP')
+('Snow', '->', u'NP')
+('Al', '->', u'NP')
+('Larry', '->', u'NP')
+('Miller', '->', u'NP')
+('April', '->', u'NP')
+('Pillsbury', '->', u'NP')
+('Brazil', '->', u'NP')
+('Rolls', '->', u'NP')
+('Low', '->', u'NP')
+('Job', '->', u'NP')
+('Brown', '->', u'NP')
+('Ben', '->', u'NP')
+('Michael', '->', u'NP')
+('Americana', '->', u'NP')
+('Israel', '->', u'NP')
+('London', '->', u'NP')
+('Tokyo', '->', u'NP')
+('Jesus', '->', u'NP')
+('Dawn', '->', u'NP')
+('Judas', '->', u'NP')
+('Harry', '->', u'NP')
+('Potter', '->', u'NP')
+('Kaplan', '->', u'NP')
+('Wood', '->', u'NP')
+('Chips', '->', u'NP')
+40 
+
+2216

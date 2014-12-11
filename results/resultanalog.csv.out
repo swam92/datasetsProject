@@ -1,0 +1,11 @@
+analog.csv
+0
+Sentiment(classification='pos', p_pos=0.68956953642384156, p_neg=0.31043046357615861)
+
+
+1
+Sentiment(classification='neg', p_pos=0.49587772244817796, p_neg=0.50412227755182093)
+
+
+
+

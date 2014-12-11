@@ -1,0 +1,59 @@
+Hammocks.csv
+0
+Sentiment(classification='pos', p_pos=0.79454111026208651, p_neg=0.20545888973791371)
+
+
+1
+Sentiment(classification='pos', p_pos=0.63470848578778327, p_neg=0.3652915142122159)
+
+
+
+
+0.05 0.325 0.285375201975 0.714624798025
+0
+Tested my HH Expedition Classic a few weeks ago. Going on a 2- day Boy Scout camping on Friday!
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Australia', '->', u'NP')
+('Kitty', '->', u'NP')
+('Norway', '->', u'NP')
+('Riverboat', '->', u'NP')
+('Clark', '->', u'NP')
+('San', '->', u'NP')
+('Sonora', '->', u'NP')
+('Yosemite', '->', u'NP')
+('Yosemite', '->', u'NP')
+('Stack', '->', u'NP')
+('Christmas', '->', u'NP')
+('Trinity', '->', u'NP')
+('Asia', '->', u'NP')
+('Key', '->', u'NP')
+('Mary', '->', u'NP')
+('Yosemite', '->', u'NP')
+('Amazon', '->', u'NP')
+('Philadelphia', '->', u'NP')
+('Hitch', '->', u'NP')
+('March', '->', u'NP')
+('San', '->', u'NP')
+('Francisco', '->', u'NP')
+('Alabama', '->', u'NP')
+('Hawaii', '->', u'NP')
+('Tokyo', '->', u'NP')
+('Louis', '->', u'NP')
+('Atlas', '->', u'NP')
+('Michigan', '->', u'NP')
+('Midwest', '->', u'NP')
+('February', '->', u'NP')
+('Don', '->', u'NP')
+('Stack', '->', u'NP')
+('Utah', '->', u'NP')
+('Mobile', '->', u'NP')
+('Pleasant', '->', u'NP')
+('Jennie', '->', u'NP')
+('Idaho', '->', u'NP')
+('Arizona', '->', u'NP')
+('Texas', '->', u'NP')
+('Buddy', '->', u'NP')
+('California', '->', u'NP')
+41 
+
+2896

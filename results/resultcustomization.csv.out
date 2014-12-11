@@ -1,0 +1,11 @@
+customization.csv
+0
+Sentiment(classification='pos', p_pos=0.63569488456315038, p_neg=0.36430511543684935)
+
+
+1
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+
+

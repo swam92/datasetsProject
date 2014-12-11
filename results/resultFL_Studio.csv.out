@@ -1,0 +1,78 @@
+FL_Studio.csv
+0
+Sentiment(classification='pos', p_pos=0.67004876267079749, p_neg=0.32995123732920212)
+
+
+1
+Sentiment(classification='neg', p_pos=0.36871258745552465, p_neg=0.63128741254447507)
+
+
+
+
+0.136363636364 0.454545454545 0.480619324937 0.519380675063
+0
+Mixing is very hard, but it feels like im starting to get the hang of it.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Alpha', '->', u'NP')
+('Easter', '->', u'NP')
+('Tech', '->', u'NP')
+('July', '->', u'NP')
+('Edison', '->', u'NP')
+('Edison', '->', u'NP')
+('Christmas', '->', u'NP')
+('AMA', '->', u'NP')
+('Nelson', '->', u'NP')
+('Gross', '->', u'NP')
+('October', '->', u'NP')
+('Keys', '->', u'NP')
+('AMA', '->', u'NP')
+('Mobile', '->', u'NP')
+('S', '->', u'NP')
+('Alpha', '->', u'NP')
+('Pretty', '->', u'NP')
+('Edison', '->', u'NP')
+('Reese', '->', u'NP')
+('Mobile', '->', u'NP')
+('AMA', '->', u'NP')
+('Spencer', '->', u'NP')
+('Bible', '->', u'NP')
+('Robin', '->', u'NP')
+('S', '->', u'NP')
+('Jaguar', '->', u'NP')
+('October', '->', u'NP')
+('Mac', '->', u'NP')
+('G', '->', u'NP')
+('Mobile', '->', u'NP')
+('Jenkins', '->', u'NP')
+('Edison', '->', u'NP')
+('Midi', '->', u'NP')
+('Midi', '->', u'NP')
+('Kong', '->', u'NP')
+('Mobile', '->', u'NP')
+('Eve', '->', u'NP')
+('August', '->', u'NP')
+('Mario', '->', u'NP')
+('Clayton', '->', u'NP')
+('L', '->', u'NP')
+('Mac', '->', u'NP')
+('September', '->', u'NP')
+('Beta', '->', u'NP')
+('W', '->', u'NP')
+('Perry', '->', u'NP')
+('Porter', '->', u'NP')
+('Robinson', '->', u'NP')
+('Child', '->', u'NP')
+('Snow', '->', u'NP')
+('App', '->', u'NP')
+('Don', '->', u'NP')
+('Calvin', '->', u'NP')
+('Harris', '->', u'NP')
+('Don', '->', u'NP')
+('Heard', '->', u'NP')
+('Nile', '->', u'NP')
+('Rodgers', '->', u'NP')
+('Edison', '->', u'NP')
+('Detroit', '->', u'NP')
+60 
+
+14882

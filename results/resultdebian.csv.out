@@ -1,0 +1,11 @@
+debian.csv
+0
+Sentiment(classification='pos', p_pos=0.81070496083550958, p_neg=0.18929503916449064)
+
+
+1
+Sentiment(classification='neg', p_pos=0.25275938189845448, p_neg=0.74724061810154541)
+
+
+
+

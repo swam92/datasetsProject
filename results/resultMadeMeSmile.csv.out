@@ -1,0 +1,11 @@
+MadeMeSmile.csv
+0
+Sentiment(classification='pos', p_pos=0.61111111111111083, p_neg=0.38888888888888884)
+
+
+1
+Sentiment(classification='neg', p_pos=0.21500534471968838, p_neg=0.78499465528031154)
+
+
+
+

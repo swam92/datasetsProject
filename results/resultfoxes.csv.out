@@ -1,0 +1,11 @@
+foxes.csv
+0
+Sentiment(classification='neg', p_pos=0.47330891894001426, p_neg=0.52669108105998785)
+
+
+1
+Sentiment(classification='pos', p_pos=0.50424189501223549, p_neg=0.49575810498776496)
+
+
+
+

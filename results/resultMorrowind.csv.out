@@ -1,0 +1,81 @@
+Morrowind.csv
+0
+Sentiment(classification='pos', p_pos=0.53787878787878785, p_neg=0.4621212121212121)
+
+
+1
+Sentiment(classification='pos', p_pos=0.82739267335517142, p_neg=0.17260732664482914)
+
+
+
+
+0.0166666666667 0.316666666667 0.317364269383 0.682635730617
+0
+How does Morrowind compare to, say, Arena and Daggerfall?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Tel', '->', u'NP')
+('Goodwill', '->', u'NP')
+('N', '->', u'NP')
+('N', '->', u'NP')
+('Child', '->', u'NP')
+('AMA', '->', u'NP')
+('N', '->', u'NP')
+('T', '->', u'NP')
+('September', '->', u'NP')
+('Olivia', '->', u'NP')
+('Wilde', '->', u'NP')
+('Valentine', '->', u'NP')
+('Easter', '->', u'NP')
+('Forbes', '->', u'NP')
+('Caius', '->', u'NP')
+('Guy', '->', u'NP')
+('Plaza', '->', u'NP')
+('Easter', '->', u'NP')
+('Tower', '->', u'NP')
+('Stephen', '->', u'NP')
+('Dali', '->', u'NP')
+('Loving', '->', u'NP')
+('Don', '->', u'NP')
+('California', '->', u'NP')
+('Chris', '->', u'NP')
+('Tom', '->', u'NP')
+('Dubois', '->', u'NP')
+('N', '->', u'NP')
+('Cliff', '->', u'NP')
+('Russell', '->', u'NP')
+('Russell', '->', u'NP')
+('Michael', '->', u'NP')
+('Amazon', '->', u'NP')
+('Player', '->', u'NP')
+('Tong', '->', u'NP')
+('Waters', '->', u'NP')
+('Corpus', '->', u'NP')
+('AMA', '->', u'NP')
+('G', '->', u'NP')
+('Bryant', '->', u'NP')
+('Breton', '->', u'NP')
+('April', '->', u'NP')
+('Swim', '->', u'NP')
+('N', '->', u'NP')
+('Tel', '->', u'NP')
+('Cliff', '->', u'NP')
+('June', '->', u'NP')
+('Tong', '->', u'NP')
+('Dawn', '->', u'NP')
+('Harlem', '->', u'NP')
+('Tower', '->', u'NP')
+('Pretty', '->', u'NP')
+('Tel', '->', u'NP')
+('Wolf', '->', u'NP')
+('Arch', '->', u'NP')
+('N', '->', u'NP')
+('Barrow', '->', u'NP')
+('Pick', '->', u'NP')
+('Si', '->', u'NP')
+('Tech', '->', u'NP')
+('Pretty', '->', u'NP')
+('N', '->', u'NP')
+('Tech', '->', u'NP')
+63 
+
+11841

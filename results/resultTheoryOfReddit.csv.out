@@ -1,0 +1,77 @@
+TheoryOfReddit.csv
+0
+Sentiment(classification='pos', p_pos=0.91304485967767179, p_neg=0.086955140322331523)
+
+
+1
+Sentiment(classification='neg', p_pos=0.066944393290836054, p_neg=0.9330556067091611)
+
+
+
+
+0.0791666666667 0.397708333333 0.510005373516 0.489994626484
+0
+How would things be different if Reddit allowed native crossposting?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('AMA', '->', u'NP')
+('September', '->', u'NP')
+('Learned', '->', u'NP')
+('AMA', '->', u'NP')
+('Page', '->', u'NP')
+('Mac', '->', u'NP')
+('Steve', '->', u'NP')
+('Job', '->', u'NP')
+('Jan', '->', u'NP')
+('Mobile', '->', u'NP')
+('March', '->', u'NP')
+('September', '->', u'NP')
+('April', '->', u'NP')
+('Muhammad', '->', u'NP')
+('Neil', '->', u'NP')
+('Tyson', '->', u'NP')
+('AMA', '->', u'NP')
+('AMA', '->', u'NP')
+('William', '->', u'NP')
+('AMA', '->', u'NP')
+('Self', '->', u'NP')
+('Tyson', '->', u'NP')
+('AMA', '->', u'NP')
+('July', '->', u'NP')
+('S', '->', u'NP')
+('March', '->', u'NP')
+('Learned', '->', u'NP')
+('Steve', '->', u'NP')
+('Huffman', '->', u'NP')
+('Alexis', '->', u'NP')
+('July', '->', u'NP')
+('AMA', '->', u'NP')
+('Christianity', '->', u'NP')
+('Robert', '->', u'NP')
+('Penny', '->', u'NP')
+('AMA', '->', u'NP')
+('Don', '->', u'NP')
+('Ron', '->', u'NP')
+('Paul', '->', u'NP')
+('September', '->', u'NP')
+('AMA', '->', u'NP')
+('Low', '->', u'NP')
+('Anderson', '->', u'NP')
+('Cooper', '->', u'NP')
+('AMA', '->', u'NP')
+('Don', '->', u'NP')
+('April', '->', u'NP')
+('Paul', '->', u'NP')
+('Graham', '->', u'NP')
+('Schopenhauer', '->', u'NP')
+('December', '->', u'NP')
+('Gresham', '->', u'NP')
+('Paul', '->', u'NP')
+('Graham', '->', u'NP')
+('AMA', '->', u'NP')
+('March', '->', u'NP')
+('London', '->', u'NP')
+('Don', '->', u'NP')
+('Shorter', '->', u'NP')
+59 
+
+16816

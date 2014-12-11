@@ -1,0 +1,11 @@
+TheGirlSurvivalGuide.csv
+0
+Sentiment(classification='pos', p_pos=0.78286949800189687, p_neg=0.21713050199810366)
+
+
+1
+Sentiment(classification='neg', p_pos=0.28588605329763855, p_neg=0.7141139467023625)
+
+
+
+

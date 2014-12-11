@@ -1,0 +1,11 @@
+wii.csv
+0
+Sentiment(classification='neg', p_pos=0.4795464863985911, p_neg=0.52045351360140923)
+
+
+1
+Sentiment(classification='pos', p_pos=0.52257351653840844, p_neg=0.47742648346159144)
+
+
+
+

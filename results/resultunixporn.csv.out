@@ -1,0 +1,11 @@
+unixporn.csv
+0
+Sentiment(classification='pos', p_pos=0.54085872576177252, p_neg=0.45914127423822676)
+
+
+1
+Sentiment(classification='neg', p_pos=0.48076923076923112, p_neg=0.51923076923076927)
+
+
+
+

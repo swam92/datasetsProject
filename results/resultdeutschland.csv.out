@@ -1,0 +1,11 @@
+deutschland.csv
+0
+Sentiment(classification='pos', p_pos=0.63304093567251463, p_neg=0.36695906432748548)
+
+
+1
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+
+

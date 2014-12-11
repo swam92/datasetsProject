@@ -1,0 +1,56 @@
+analogygifs.csv
+0
+Sentiment(classification='neg', p_pos=0.13828119821821602, p_neg=0.86171880178178362)
+
+
+1
+Sentiment(classification='pos', p_pos=0.55746238450878927, p_neg=0.44253761549121123)
+
+
+
+
+-0.5 1.0 0.652128208636 0.347871791364
+0
+My reaction to every mildly interesting front page post.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('April', '->', u'NP')
+('Zimmerman', '->', u'NP')
+('Lucas', '->', u'NP')
+('July', '->', u'NP')
+('Isaac', '->', u'NP')
+('Christmas', '->', u'NP')
+('Australian', '->', u'NP')
+('Homer', '->', u'NP')
+('Simpson', '->', u'NP')
+('F', '->', u'NP')
+('U', '->', u'NP')
+('Korea', '->', u'NP')
+('Marvin', '->', u'NP')
+('Burger', '->', u'NP')
+('Britain', '->', u'NP')
+('California', '->', u'NP')
+('Robin', '->', u'NP')
+('Williams', '->', u'NP')
+('AMA', '->', u'NP')
+('Cool', '->', u'NP')
+('Black', '->', u'NP')
+('Korea', '->', u'NP')
+('John', '->', u'NP')
+('Green', '->', u'NP')
+('God', '->', u'NP')
+('Guy', '->', u'NP')
+('Midwest', '->', u'NP')
+('Stewart', '->', u'NP')
+('America', '->', u'NP')
+('Mario', '->', u'NP')
+('U', '->', u'NP')
+('Chris', '->', u'NP')
+('Hansen', '->', u'NP')
+('AMA', '->', u'NP')
+('Moore', '->', u'NP')
+('F', '->', u'NP')
+('F', '->', u'NP')
+('Korea', '->', u'NP')
+38 
+
+8114

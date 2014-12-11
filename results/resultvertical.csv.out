@@ -1,0 +1,11 @@
+vertical.csv
+0
+Sentiment(classification='neg', p_pos=0.375, p_neg=0.62499999999999978)
+
+
+1
+Sentiment(classification='pos', p_pos=0.51047326206492771, p_neg=0.48952673793507245)
+
+
+
+

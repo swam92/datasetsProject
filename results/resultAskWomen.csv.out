@@ -1,0 +1,46 @@
+AskWomen.csv
+0
+Sentiment(classification='neg', p_pos=0.42218074580556009, p_neg=0.57781925419444025)
+
+
+1
+Sentiment(classification='pos', p_pos=0.73414517772101251, p_neg=0.26585482227898793)
+
+
+
+
+0.0 0.314285714286 0.421837038237 0.578162961763
+0
+Do you sometimes mindlessly touch your boobs?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Don', '->', u'NP')
+('Job', '->', u'NP')
+('Texas', '->', u'NP')
+('Davis', '->', u'NP')
+('Louis', '->', u'NP')
+('Jennifer', '->', u'NP')
+('Lawrence', '->', u'NP')
+('April', '->', u'NP')
+('Guy', '->', u'NP')
+('Valentine', '->', u'NP')
+('E', '->', u'NP')
+('Black', '->', u'NP')
+('Marilyn', '->', u'NP')
+('Monroe', '->', u'NP')
+('U', '->', u'NP')
+('S', '->', u'NP')
+('B', '->', u'NP')
+('S', '->', u'NP')
+('God', '->', u'NP')
+('God', '->', u'NP')
+('Guy', '->', u'NP')
+('Guy', '->', u'NP')
+('Grey', '->', u'NP')
+('Ross', '->', u'NP')
+('Worth', '->', u'NP')
+('Anne', '->', u'NP')
+('Frank', '->', u'NP')
+('Cook', '->', u'NP')
+28 
+
+18722

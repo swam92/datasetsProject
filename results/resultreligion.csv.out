@@ -1,0 +1,11 @@
+religion.csv
+0
+Sentiment(classification='neg', p_pos=0.47274089486882859, p_neg=0.52725910513117125)
+
+
+1
+Sentiment(classification='pos', p_pos=0.72916666666666663, p_neg=0.27083333333333309)
+
+
+
+

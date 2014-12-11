@@ -1,0 +1,71 @@
+dwarffortress.csv
+0
+Sentiment(classification='pos', p_pos=0.73782120573486853, p_neg=0.26217879426513124)
+
+
+1
+Sentiment(classification='pos', p_pos=0.87092729576933015, p_neg=0.12907270423066897)
+
+
+
+
+-0.25 0.65 0.195625749248 0.804374250752
+0
+Honey Badger don't care.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('AMA', '->', u'NP')
+('March', '->', u'NP')
+('Don', '->', u'NP')
+('Orestes', '->', u'NP')
+('February', '->', u'NP')
+('Tower', '->', u'NP')
+('Friend', '->', u'NP')
+('Hamlet', '->', u'NP')
+('Tim', '->', u'NP')
+('God', '->', u'NP')
+('Hamlet', '->', u'NP')
+('Randall', '->', u'NP')
+('AMA', '->', u'NP')
+('Tower', '->', u'NP')
+('March', '->', u'NP')
+('Page', '->', u'NP')
+('David', '->', u'NP')
+('Achilles', '->', u'NP')
+('Breeding', '->', u'NP')
+('Mac', '->', u'NP')
+('Adams', '->', u'NP')
+('Mason', '->', u'NP')
+('July', '->', u'NP')
+('Page', '->', u'NP')
+('Pretty', '->', u'NP')
+('Ron', '->', u'NP')
+('April', '->', u'NP')
+('Titan', '->', u'NP')
+('Cool', '->', u'NP')
+('Valentine', '->', u'NP')
+('Brew', '->', u'NP')
+('August', '->', u'NP')
+('December', '->', u'NP')
+('Adams', '->', u'NP')
+('Serene', '->', u'NP')
+('Slim', '->', u'NP')
+('Jesus', '->', u'NP')
+('God', '->', u'NP')
+('Christmas', '->', u'NP')
+('November', '->', u'NP')
+('Halloween', '->', u'NP')
+('Adams', '->', u'NP')
+('Alexander', '->', u'NP')
+('Semenov', '->', u'NP')
+('Michelangelo', '->', u'NP')
+('Adams', '->', u'NP')
+('Reilly', '->', u'NP')
+('Hammer', '->', u'NP')
+('Case', '->', u'NP')
+('Page', '->', u'NP')
+('Adams', '->', u'NP')
+('Alpha', '->', u'NP')
+('Black', '->', u'NP')
+53 
+
+11943

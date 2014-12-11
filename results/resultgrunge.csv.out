@@ -1,0 +1,11 @@
+grunge.csv
+0
+Sentiment(classification='pos', p_pos=0.97306006055236605, p_neg=0.026939939447634492)
+
+
+1
+Sentiment(classification='pos', p_pos=0.85364920551214785, p_neg=0.14635079448785215)
+
+
+
+

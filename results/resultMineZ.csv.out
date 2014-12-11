@@ -1,0 +1,83 @@
+MineZ.csv
+0
+Sentiment(classification='pos', p_pos=0.68749999999999956, p_neg=0.31249999999999989)
+
+
+1
+Sentiment(classification='neg', p_pos=0.36957480096296375, p_neg=0.63042519903703753)
+
+
+
+
+0.5 0.625 0.471462599519 0.528537400481
+0
+Got the Achievement Though...
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('T', '->', u'NP')
+('Heard', '->', u'NP')
+('Wolf', '->', u'NP')
+('AMA', '->', u'NP')
+('Al', '->', u'NP')
+('May', '->', u'NP')
+('Portsmouth', '->', u'NP')
+('Prometheus', '->', u'NP')
+('Player', '->', u'NP')
+('T', '->', u'NP')
+('Player', '->', u'NP')
+('Dodge', '->', u'NP')
+('Fish', '->', u'NP')
+('ABC', '->', u'NP')
+('Player', '->', u'NP')
+('AMA', '->', u'NP')
+('Hard', '->', u'NP')
+('Portsmouth', '->', u'NP')
+('Mike', '->', u'NP')
+('Redstone', '->', u'NP')
+('Molotov', '->', u'NP')
+('Alpha', '->', u'NP')
+('London', '->', u'NP')
+('Lot', '->', u'NP')
+('Portsmouth', '->', u'NP')
+('Al', '->', u'NP')
+('God', '->', u'NP')
+('Don', '->', u'NP')
+('Beta', '->', u'NP')
+('Brace', '->', u'NP')
+('God', '->', u'NP')
+('Cool', '->', u'NP')
+('Portsmouth', '->', u'NP')
+('Don', '->', u'NP')
+('Tower', '->', u'NP')
+('Player', '->', u'NP')
+('Christmas', '->', u'NP')
+('Al', '->', u'NP')
+('Santa', '->', u'NP')
+('Don', '->', u'NP')
+('Australian', '->', u'NP')
+('Florida', '->', u'NP')
+('Jesus', '->', u'NP')
+('Self', '->', u'NP')
+('Tower', '->', u'NP')
+('Pole', '->', u'NP')
+('Hunter', '->', u'NP')
+('Al', '->', u'NP')
+('Green', '->', u'NP')
+('Learned', '->', u'NP')
+('Chandler', '->', u'NP')
+('Riggs', '->', u'NP')
+('Carl', '->', u'NP')
+('Bugs', '->', u'NP')
+('Al', '->', u'NP')
+('Bugs', '->', u'NP')
+('Al', '->', u'NP')
+('God', '->', u'NP')
+('Player', '->', u'NP')
+('Beta', '->', u'NP')
+('May', '->', u'NP')
+('Rae', '->', u'NP')
+('Beta', '->', u'NP')
+('Saunders', '->', u'NP')
+('Hunt', '->', u'NP')
+65 
+
+9038

@@ -1,0 +1,11 @@
+FearMe.csv
+0
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+1
+Sentiment(classification='pos', p_pos=0.81814689700043597, p_neg=0.18185310299956303)
+
+
+
+

@@ -1,0 +1,42 @@
+css.csv
+0
+Sentiment(classification='pos', p_pos=0.60420499080220758, p_neg=0.39579500919779259)
+
+
+1
+Sentiment(classification='neg', p_pos=0.4655672543542389, p_neg=0.53443274564576171)
+
+
+
+
+-0.05 0.1 0.465113877422 0.534886122578
+0
+Best source for a complete noob?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Cool', '->', u'NP')
+('Lisa', '->', u'NP')
+('Cheat', '->', u'NP')
+('Zen', '->', u'NP')
+('Homer', '->', u'NP')
+('Simpson', '->', u'NP')
+('Butt', '->', u'NP')
+('Paul', '->', u'NP')
+('Metro', '->', u'NP')
+('Mac', '->', u'NP')
+('Don', '->', u'NP')
+('Page', '->', u'NP')
+('Chris', '->', u'NP')
+('Mac', '->', u'NP')
+('Craig', '->', u'NP')
+('Page', '->', u'NP')
+('Cap', '->', u'NP')
+('Harry', '->', u'NP')
+('Roberts', '->', u'NP')
+('Chris', '->', u'NP')
+('Page', '->', u'NP')
+('Conway', '->', u'NP')
+('Bugs', '->', u'NP')
+('Paul', '->', u'NP')
+24 
+
+5296

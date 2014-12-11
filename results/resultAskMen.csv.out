@@ -1,0 +1,39 @@
+AskMen.csv
+0
+Sentiment(classification='neg', p_pos=0.47830585797895647, p_neg=0.52169414202104347)
+
+
+1
+Sentiment(classification='neg', p_pos=0.48067100513801259, p_neg=0.51932899486198791)
+
+
+
+
+-0.8 0.9 0.520511568442 0.479488431558
+0
+Alright my fellow bachelors, enough of this dating is hopelessly hard. What's your special somethin' somethin' that the right girl just hasn't seen in you yet?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('F', '->', u'NP')
+('F', '->', u'NP')
+('Gay', '->', u'NP')
+('Cosmo', '->', u'NP')
+('Guy', '->', u'NP')
+('Gay', '->', u'NP')
+('Gross', '->', u'NP')
+('S', '->', u'NP')
+('May', '->', u'NP')
+('Cosmo', '->', u'NP')
+('S', '->', u'NP')
+('Black', '->', u'NP')
+('Guy', '->', u'NP')
+('Don', '->', u'NP')
+('Gay', '->', u'NP')
+('Gay', '->', u'NP')
+('James', '->', u'NP')
+('James', '->', u'NP')
+('Christmas', '->', u'NP')
+('Low', '->', u'NP')
+('Guy', '->', u'NP')
+21 
+
+16765

@@ -1,0 +1,56 @@
+linuxquestions.csv
+0
+Sentiment(classification='neg', p_pos=0.2951322341605791, p_neg=0.7048677658394199)
+
+
+1
+Sentiment(classification='pos', p_pos=0.58498529579530112, p_neg=0.41501470420470066)
+
+
+
+
+-0.4 0.9 0.559941235022 0.440058764978
+0
+Just scored a free netbook. What should I do with it?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Mac', '->', u'NP')
+('China', '->', u'NP')
+('Mac', '->', u'NP')
+('Arch', '->', u'NP')
+('Arch', '->', u'NP')
+('Pi', '->', u'NP')
+('Arch', '->', u'NP')
+('Amazon', '->', u'NP')
+('E', '->', u'NP')
+('Arch', '->', u'NP')
+('Mac', '->', u'NP')
+('Pi', '->', u'NP')
+('Pi', '->', u'NP')
+('Snow', '->', u'NP')
+('Arch', '->', u'NP')
+('Nautilus', '->', u'NP')
+('Jack', '->', u'NP')
+('G', '->', u'NP')
+('Hard', '->', u'NP')
+('Java', '->', u'NP')
+('Kali', '->', u'NP')
+('Hard', '->', u'NP')
+('Arch', '->', u'NP')
+('Mesa', '->', u'NP')
+('Pen', '->', u'NP')
+('Player', '->', u'NP')
+('Hard', '->', u'NP')
+('Arch', '->', u'NP')
+('Canada', '->', u'NP')
+('Keys', '->', u'NP')
+('Hard', '->', u'NP')
+('Flick', '->', u'NP')
+('Arch', '->', u'NP')
+('Speed', '->', u'NP')
+('N', '->', u'NP')
+('T', '->', u'NP')
+('Arch', '->', u'NP')
+('Linus', '->', u'NP')
+38 
+
+12876

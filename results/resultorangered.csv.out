@@ -1,0 +1,81 @@
+orangered.csv
+0
+Sentiment(classification='pos', p_pos=0.82874939626023725, p_neg=0.17125060373976345)
+
+
+1
+Sentiment(classification='pos', p_pos=0.65022746588011771, p_neg=0.34977253411988207)
+
+
+
+
+-0.227777777778 0.344444444444 0.26051156893 0.73948843107
+0
+Even though your posts are bad, I'll still upvote them you magnificent orangered bastards
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('PM', '->', u'NP')
+('Brian', '->', u'NP')
+('May', '->', u'NP')
+('Jennifer', '->', u'NP')
+('Lawrence', '->', u'NP')
+('Bacon', '->', u'NP')
+('Mac', '->', u'NP')
+('S', '->', u'NP')
+('Yin', '->', u'NP')
+('Yang', '->', u'NP')
+('Don', '->', u'NP')
+('God', '->', u'NP')
+('Miranda', '->', u'NP')
+('Kerr', '->', u'NP')
+('April', '->', u'NP')
+('April', '->', u'NP')
+('Walt', '->', u'NP')
+('Jesse', '->', u'NP')
+('Tom', '->', u'NP')
+('Cruise', '->', u'NP')
+('Anna', '->', u'NP')
+('Marsh', '->', u'NP')
+('Kate', '->', u'NP')
+('Upton', '->', u'NP')
+('Winston', '->', u'NP')
+('Churchill', '->', u'NP')
+('Don', '->', u'NP')
+('William', '->', u'NP')
+('Papa', '->', u'NP')
+('John', '->', u'NP')
+('Hitler', '->', u'NP')
+('Pretty', '->', u'NP')
+('AMA', '->', u'NP')
+('S', '->', u'NP')
+('Tom', '->', u'NP')
+('Cruise', '->', u'NP')
+('Europe', '->', u'NP')
+('Mark', '->', u'NP')
+('Rothko', '->', u'NP')
+('S', '->', u'NP')
+('Ken', '->', u'NP')
+('Conan', '->', u'NP')
+('May', '->', u'NP')
+('T', '->', u'NP')
+('Hendricks', '->', u'NP')
+('B', '->', u'NP')
+('K', '->', u'NP')
+('Horace', '->', u'NP')
+('Mann', '->', u'NP')
+('S', '->', u'NP')
+('April', '->', u'NP')
+('S', '->', u'NP')
+('Homer', '->', u'NP')
+('April', '->', u'NP')
+('T', '->', u'NP')
+('Persia', '->', u'NP')
+('Edward', '->', u'NP')
+('Brian', '->', u'NP')
+('Abraham', '->', u'NP')
+('Lincoln', '->', u'NP')
+('U', '->', u'NP')
+('Don', '->', u'NP')
+('Hawaii', '->', u'NP')
+63 
+
+9215

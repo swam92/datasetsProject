@@ -1,0 +1,11 @@
+Warhammer.csv
+0
+Sentiment(classification='pos', p_pos=0.93560606060606022, p_neg=0.064393939393939267)
+
+
+1
+Sentiment(classification='neg', p_pos=0.21894826008231819, p_neg=0.78105173991768218)
+
+
+
+

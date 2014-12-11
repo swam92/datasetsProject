@@ -1,0 +1,48 @@
+truezelda.csv
+0
+Sentiment(classification='neg', p_pos=0.19384832018023831, p_neg=0.80615167981976099)
+
+
+1
+Sentiment(classification='pos', p_pos=0.88825813586750013, p_neg=0.11174186413250202)
+
+
+
+
+0.123472222222 0.412777777778 0.458946771976 0.541053228024
+0
+I don't even own a Zelda game anymore, but I am the Hero of Time.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Cap', '->', u'NP')
+('U', '->', u'NP')
+('Fish', '->', u'NP')
+('U', '->', u'NP')
+('U', '->', u'NP')
+('U', '->', u'NP')
+('U', '->', u'NP')
+('U', '->', u'NP')
+('Wolf', '->', u'NP')
+('Maurice', '->', u'NP')
+('U', '->', u'NP')
+('U', '->', u'NP')
+('U', '->', u'NP')
+('Fish', '->', u'NP')
+('Armour', '->', u'NP')
+('Europe', '->', u'NP')
+('September', '->', u'NP')
+('America', '->', u'NP')
+('U', '->', u'NP')
+('San', '->', u'NP')
+('Francisco', '->', u'NP')
+('June', '->', u'NP')
+('March', '->', u'NP')
+('Texas', '->', u'NP')
+('Lock', '->', u'NP')
+('U', '->', u'NP')
+('Cap', '->', u'NP')
+('Child', '->', u'NP')
+('U', '->', u'NP')
+('U', '->', u'NP')
+30 
+
+5138

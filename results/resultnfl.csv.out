@@ -1,0 +1,11 @@
+nfl.csv
+0
+Sentiment(classification='neg', p_pos=0.29074715858139466, p_neg=0.70925284141860634)
+
+
+1
+Sentiment(classification='pos', p_pos=0.57659574468085106, p_neg=0.42340425531914888)
+
+
+
+

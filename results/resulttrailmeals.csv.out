@@ -1,0 +1,58 @@
+trailmeals.csv
+0
+Sentiment(classification='neg', p_pos=0.10501549369735681, p_neg=0.89498450630264315)
+
+
+1
+Sentiment(classification='neg', p_pos=0.42692536459370251, p_neg=0.57307463540629733)
+
+
+
+
+-0.25 0.5 0.734029570854 0.265970429146
+0
+[Dinner] Five Pound Fajitas --
+
+Grab some dehydrated veggies, a little salsa, and some beef jerky for this tasty campfire meal.
+
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Bacon', '->', u'NP')
+('Zion', '->', u'NP')
+('Morgan', '->', u'NP')
+('Rice', '->', u'NP')
+('Buddy', '->', u'NP')
+('Bacon', '->', u'NP')
+('Thai', '->', u'NP')
+('America', '->', u'NP')
+('Rice', '->', u'NP')
+('Turkey', '->', u'NP')
+('Cook', '->', u'NP')
+('Anne', '->', u'NP')
+('Bill', '->', u'NP')
+('Salmon', '->', u'NP')
+('Black', '->', u'NP')
+('Bean', '->', u'NP')
+('Curry', '->', u'NP')
+('Rice', '->', u'NP')
+('Curry', '->', u'NP')
+('Fish', '->', u'NP')
+('Bacon', '->', u'NP')
+('Winter', '->', u'NP')
+('Canada', '->', u'NP')
+('Mediterranean', '->', u'NP')
+('Mac', '->', u'NP')
+('Joe', '->', u'NP')
+('Cook', '->', u'NP')
+('Olive', '->', u'NP')
+('Cook', '->', u'NP')
+('Bacon', '->', u'NP')
+('Chips', '->', u'NP')
+('Alton', '->', u'NP')
+('Brown', '->', u'NP')
+('Curry', '->', u'NP')
+('Texas', '->', u'NP')
+('Fish', '->', u'NP')
+('S', '->', u'NP')
+37 
+
+2983

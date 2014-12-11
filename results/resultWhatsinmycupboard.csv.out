@@ -1,0 +1,53 @@
+Whatsinmycupboard.csv
+0
+Sentiment(classification='pos', p_pos=0.92746148619531554, p_neg=0.072538513804683846)
+
+
+1
+Sentiment(classification='pos', p_pos=0.52403133137440916, p_neg=0.4759686686255889)
+
+
+
+
+-0.483333333333 0.433333333333 0.274253591215 0.725746408785
+0
+All I have in my cupboard is a little indian
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('AMA', '->', u'NP')
+('Ham', '->', u'NP')
+('Valentine', '->', u'NP')
+('Mandarin', '->', u'NP')
+('China', '->', u'NP')
+('Bacon', '->', u'NP')
+('George', '->', u'NP')
+('Brown', '->', u'NP')
+('Turkey', '->', u'NP')
+('Turkey', '->', u'NP')
+('Ben', '->', u'NP')
+('Green', '->', u'NP')
+('Turkey', '->', u'NP')
+('Rice', '->', u'NP')
+('Thai', '->', u'NP')
+('Friend', '->', u'NP')
+('Black', '->', u'NP')
+('England', '->', u'NP')
+('Brown', '->', u'NP')
+('Black', '->', u'NP')
+('Don', '->', u'NP')
+('Easter', '->', u'NP')
+('Brussels', '->', u'NP')
+('Turkey', '->', u'NP')
+('Green', '->', u'NP')
+('Rice', '->', u'NP')
+('Caesar', '->', u'NP')
+('Black', '->', u'NP')
+('Bean', '->', u'NP')
+('Green', '->', u'NP')
+('Cook', '->', u'NP')
+('Pretty', '->', u'NP')
+('Rice', '->', u'NP')
+('Snow', '->', u'NP')
+('Chuck', '->', u'NP')
+35 
+
+5291

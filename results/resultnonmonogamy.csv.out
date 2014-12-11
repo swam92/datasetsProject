@@ -1,0 +1,50 @@
+nonmonogamy.csv
+0
+Sentiment(classification='neg', p_pos=0.42319573802660193, p_neg=0.57680426197339707)
+
+
+1
+Sentiment(classification='pos', p_pos=0.66011661079325157, p_neg=0.33988338920674843)
+
+
+
+
+0.25 0.333333333333 0.45834382559 0.54165617441
+0
+I am a married man looking to start a discreet affair with a married woman - advice please
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Dan', '->', u'NP')
+('Savage', '->', u'NP')
+('Green', '->', u'NP')
+('F', '->', u'NP')
+('Dan', '->', u'NP')
+('Savage', '->', u'NP')
+('F', '->', u'NP')
+('Esther', '->', u'NP')
+('F', '->', u'NP')
+('F', '->', u'NP')
+('Alan', '->', u'NP')
+('Chance', '->', u'NP')
+('Rocky', '->', u'NP')
+('F', '->', u'NP')
+('Worth', '->', u'NP')
+('Canada', '->', u'NP')
+('Atlanta', '->', u'NP')
+('May', '->', u'NP')
+('Atlanta', '->', u'NP')
+('March', '->', u'NP')
+('Ottawa', '->', u'NP')
+('Garcia', '->', u'NP')
+('Aggie', '->', u'NP')
+('Loving', '->', u'NP')
+('Philadelphia', '->', u'NP')
+('Gay', '->', u'NP')
+('Rush', '->', u'NP')
+('Sandra', '->', u'NP')
+('Vegas', '->', u'NP')
+('Matisse', '->', u'NP')
+('Charlotte', '->', u'NP')
+('Short', '->', u'NP')
+32 
+
+6110

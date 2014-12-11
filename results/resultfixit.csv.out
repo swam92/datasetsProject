@@ -1,0 +1,59 @@
+fixit.csv
+0
+Sentiment(classification='pos', p_pos=0.74267127438951519, p_neg=0.25732872561048498)
+
+
+1
+Sentiment(classification='neg', p_pos=0.0087044078185770854, p_neg=0.99129559218142582)
+
+
+
+
+0.466666666667 0.833333333333 0.624312158896 0.375687841104
+0
+Toilet is loose and won't tighten when I turn knob on floor. Pic within
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Friend', '->', u'NP')
+('Don', '->', u'NP')
+('Westinghouse', '->', u'NP')
+('S', '->', u'NP')
+('Blackberry', '->', u'NP')
+('Black', '->', u'NP')
+('Buddy', '->', u'NP')
+('Jerry', '->', u'NP')
+('Blum', '->', u'NP')
+('Gun', '->', u'NP')
+('Smith', '->', u'NP')
+('Wood', '->', u'NP')
+('Key', '->', u'NP')
+('Cable', '->', u'NP')
+('Jack', '->', u'NP')
+('Chuck', '->', u'NP')
+('Chevy', '->', u'NP')
+('Ford', '->', u'NP')
+('T', '->', u'NP')
+('Spark', '->', u'NP')
+('Ford', '->', u'NP')
+('F', '->', u'NP')
+('Speed', '->', u'NP')
+('Low', '->', u'NP')
+('Christmas', '->', u'NP')
+('Brown', '->', u'NP')
+('T', '->', u'NP')
+('Roebuck', '->', u'NP')
+('Ford', '->', u'NP')
+('Plexiglas', '->', u'NP')
+('Bryant', '->', u'NP')
+('Low', '->', u'NP')
+('Fisher', '->', u'NP')
+('B', '->', u'NP')
+('Short', '->', u'NP')
+('Chevy', '->', u'NP')
+('Japan', '->', u'NP')
+('RCA', '->', u'NP')
+('Self', '->', u'NP')
+('Bryant', '->', u'NP')
+('Weber', '->', u'NP')
+41 
+
+13442

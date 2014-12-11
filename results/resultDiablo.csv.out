@@ -1,0 +1,11 @@
+Diablo.csv
+0
+Sentiment(classification='pos', p_pos=0.75785947833406675, p_neg=0.24214052166593275)
+
+
+1
+Sentiment(classification='neg', p_pos=0.17481836053035368, p_neg=0.82518163946964551)
+
+
+
+

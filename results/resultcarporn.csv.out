@@ -1,0 +1,11 @@
+carporn.csv
+0
+Sentiment(classification='pos', p_pos=0.87890625000000133, p_neg=0.12109375000000012)
+
+
+1
+Sentiment(classification='neg', p_pos=0.20454545454545464, p_neg=0.7954545454545463)
+
+
+
+

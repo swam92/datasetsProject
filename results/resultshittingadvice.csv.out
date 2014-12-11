@@ -1,0 +1,61 @@
+shittingadvice.csv
+0
+Sentiment(classification='pos', p_pos=0.65372670807453404, p_neg=0.34627329192546602)
+
+
+1
+Sentiment(classification='pos', p_pos=0.59044801091511767, p_neg=0.40955198908488261)
+
+
+
+
+0.35 0.65 0.377912640505 0.622087359495
+0
+Bear Grylls ain't got shit.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('AMA', '->', u'NP')
+('Sean', '->', u'NP')
+('T', '->', u'NP')
+('Illinois', '->', u'NP')
+('Butt', '->', u'NP')
+('T', '->', u'NP')
+('Self', '->', u'NP')
+('AMA', '->', u'NP')
+('AMA', '->', u'NP')
+('Eddie', '->', u'NP')
+('Murphy', '->', u'NP')
+('Japan', '->', u'NP')
+('Stall', '->', u'NP')
+('Korea', '->', u'NP')
+('Bristol', '->', u'NP')
+('T', '->', u'NP')
+('Morris', '->', u'NP')
+('Slater', '->', u'NP')
+('AMA', '->', u'NP')
+('L', '->', u'NP')
+('Thai', '->', u'NP')
+('AMA', '->', u'NP')
+('Butt', '->', u'NP')
+('Worth', '->', u'NP')
+('App', '->', u'NP')
+('Don', '->', u'NP')
+('Gross', '->', u'NP')
+('AMA', '->', u'NP')
+('Hard', '->', u'NP')
+('Player', '->', u'NP')
+('Bristol', '->', u'NP')
+('America', '->', u'NP')
+('AMA', '->', u'NP')
+('August', '->', u'NP')
+('Black', '->', u'NP')
+('AMA', '->', u'NP')
+('AMA', '->', u'NP')
+('Europe', '->', u'NP')
+('Don', '->', u'NP')
+('Cap', '->', u'NP')
+('China', '->', u'NP')
+('Don', '->', u'NP')
+('Green', '->', u'NP')
+43 
+
+9397

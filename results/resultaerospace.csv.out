@@ -1,0 +1,11 @@
+aerospace.csv
+0
+Sentiment(classification='pos', p_pos=0.77076969267615536, p_neg=0.22923030732384495)
+
+
+1
+Sentiment(classification='neg', p_pos=0.42504389596169745, p_neg=0.57495610403830244)
+
+
+
+

@@ -1,0 +1,11 @@
+ifyoulikeblank.csv
+0
+Sentiment(classification='pos', p_pos=0.72915699792910393, p_neg=0.27084300207089557)
+
+
+1
+Sentiment(classification='neg', p_pos=0.4037679562602326, p_neg=0.59623204373976602)
+
+
+
+

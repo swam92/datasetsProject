@@ -1,0 +1,11 @@
+acne.csv
+0
+Sentiment(classification='pos', p_pos=0.74467755221360521, p_neg=0.25532244778639446)
+
+
+1
+Sentiment(classification='pos', p_pos=0.9225313904820952, p_neg=0.077468609517904172)
+
+
+
+

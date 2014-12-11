@@ -1,0 +1,11 @@
+spaceflight.csv
+0
+Sentiment(classification='pos', p_pos=0.58333333333333326, p_neg=0.41666666666666702)
+
+
+1
+Sentiment(classification='neg', p_pos=0.36908528987408223, p_neg=0.63091471012591793)
+
+
+
+

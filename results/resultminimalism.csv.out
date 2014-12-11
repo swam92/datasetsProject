@@ -1,0 +1,11 @@
+minimalism.csv
+0
+Sentiment(classification='pos', p_pos=0.5393734038739183, p_neg=0.4606265961260807)
+
+
+1
+Sentiment(classification='pos', p_pos=0.85960883471668803, p_neg=0.14039116528331125)
+
+
+
+

@@ -1,0 +1,11 @@
+Advice.csv
+0
+Sentiment(classification='neg', p_pos=0.29443567352610883, p_neg=0.70556432647389122)
+
+
+1
+Sentiment(classification='neg', p_pos=0.24999999999999969, p_neg=0.75)
+
+
+
+

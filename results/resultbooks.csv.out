@@ -1,0 +1,11 @@
+books.csv
+0
+Sentiment(classification='pos', p_pos=0.80583829302230159, p_neg=0.19416170697769905)
+
+
+1
+Sentiment(classification='pos', p_pos=0.91959714505968138, p_neg=0.080402854940317084)
+
+
+
+

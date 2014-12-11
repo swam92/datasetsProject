@@ -1,0 +1,12 @@
+pokemon.csv
+0
+Sentiment(classification='pos', p_pos=0.61448656791363288, p_neg=0.38551343208636679)
+
+
+1
+Sentiment(classification='neg', p_pos=0.40163934426229525, p_neg=0.59836065573770492)
+
+
+
+
+-0.4 0.7 0.491937043912 0.508062956088

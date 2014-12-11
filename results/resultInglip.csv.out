@@ -1,0 +1,81 @@
+Inglip.csv
+0
+Sentiment(classification='pos', p_pos=0.70833333333333326, p_neg=0.29166666666666663)
+
+
+1
+Sentiment(classification='neg', p_pos=0.31751512152593842, p_neg=0.68248487847406092)
+
+
+
+
+0.375 0.75 0.48707577257 0.51292422743
+0
+Inches Count
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Faith', '->', u'NP')
+('Friend', '->', u'NP')
+('April', '->', u'NP')
+('Kitty', '->', u'NP')
+('Rebecca', '->', u'NP')
+('Ken', '->', u'NP')
+('Jennings', '->', u'NP')
+('Robin', '->', u'NP')
+('N', '->', u'NP')
+('Waldo', '->', u'NP')
+('Nixon', '->', u'NP')
+('Tech', '->', u'NP')
+('Manhattan', '->', u'NP')
+('Gordon', '->', u'NP')
+('Freeman', '->', u'NP')
+('Don', '->', u'NP')
+('England', '->', u'NP')
+('Hack', '->', u'NP')
+('Faith', '->', u'NP')
+('Page', '->', u'NP')
+('N', '->', u'NP')
+('G', '->', u'NP')
+('L', '->', u'NP')
+('T', '->', u'NP')
+('N', '->', u'NP')
+('Stan', '->', u'NP')
+('Andrews', '->', u'NP')
+('Monty', '->', u'NP')
+('Faith', '->', u'NP')
+('Maurice', '->', u'NP')
+('Job', '->', u'NP')
+('B', '->', u'NP')
+('Steve', '->', u'NP')
+('Los', '->', u'NP')
+('Green', '->', u'NP')
+('Bake', '->', u'NP')
+('God', '->', u'NP')
+('Gay', '->', u'NP')
+('Da', '->', u'NP')
+('Almighty', '->', u'NP')
+('May', '->', u'NP')
+('Conan', '->', u'NP')
+('God', '->', u'NP')
+('Don', '->', u'NP')
+('Lot', '->', u'NP')
+('Jesus', '->', u'NP')
+('S', '->', u'NP')
+('Layton', '->', u'NP')
+('Styles', '->', u'NP')
+('Don', '->', u'NP')
+('Chase', '->', u'NP')
+('Chile', '->', u'NP')
+('S', '->', u'NP')
+('Don', '->', u'NP')
+('Stern', '->', u'NP')
+('Spain', '->', u'NP')
+('E', '->', u'NP')
+('Toronto', '->', u'NP')
+('Le', '->', u'NP')
+('London', '->', u'NP')
+('Gospel', '->', u'NP')
+('Woodcock', '->', u'NP')
+('God', '->', u'NP')
+63 
+
+6498

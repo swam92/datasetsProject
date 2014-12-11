@@ -1,0 +1,11 @@
+windows.csv
+0
+Sentiment(classification='neg', p_pos=0.21835443037974683, p_neg=0.78164556962025267)
+
+
+1
+Sentiment(classification='pos', p_pos=0.72645752634944494, p_neg=0.27354247365055512)
+
+
+
+

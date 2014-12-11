@@ -1,0 +1,77 @@
+LeagueOfGiving.csv
+0
+Sentiment(classification='neg', p_pos=0.37322013589356556, p_neg=0.62677986410643516)
+
+
+1
+Sentiment(classification='neg', p_pos=0.34110481722391428, p_neg=0.65889518277608428)
+
+
+
+
+0.0 0.4 0.642837523441 0.357162476559
+0
+[GIVEAWAY] Tristana Riot girl (used EUNE)
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Pick', '->', u'NP')
+('Christmas', '->', u'NP')
+('Pick', '->', u'NP')
+('B', '->', u'NP')
+('W', '->', u'NP')
+('Electra', '->', u'NP')
+('K', '->', u'NP')
+('Lee', '->', u'NP')
+('K', '->', u'NP')
+('Lee', '->', u'NP')
+('Brazil', '->', u'NP')
+('W', '->', u'NP')
+('K', '->', u'NP')
+('Korea', '->', u'NP')
+('Easter', '->', u'NP')
+('February', '->', u'NP')
+('Lee', '->', u'NP')
+('January', '->', u'NP')
+('Christmas', '->', u'NP')
+('Dallas', '->', u'NP')
+('Christmas', '->', u'NP')
+('Keys', '->', u'NP')
+('Buddha', '->', u'NP')
+('W', '->', u'NP')
+('June', '->', u'NP')
+('Page', '->', u'NP')
+('April', '->', u'NP')
+('March', '->', u'NP')
+('S', '->', u'NP')
+('Guy', '->', u'NP')
+('W', '->', u'NP')
+('Via', '->', u'NP')
+('April', '->', u'NP')
+('April', '->', u'NP')
+('Gunnar', '->', u'NP')
+('W', '->', u'NP')
+('N', '->', u'NP')
+('Lee', '->', u'NP')
+('Beta', '->', u'NP')
+('Belle', '->', u'NP')
+('Worth', '->', u'NP')
+('Keys', '->', u'NP')
+('September', '->', u'NP')
+('May', '->', u'NP')
+('Champ', '->', u'NP')
+('F', '->', u'NP')
+('Gunnar', '->', u'NP')
+('Keys', '->', u'NP')
+('PM', '->', u'NP')
+('F', '->', u'NP')
+('Cash', '->', u'NP')
+('August', '->', u'NP')
+('Friend', '->', u'NP')
+('June', '->', u'NP')
+('Belgium', '->', u'NP')
+('Annie', '->', u'NP')
+('Paris', '->', u'NP')
+('Cool', '->', u'NP')
+('F', '->', u'NP')
+59 
+
+11198

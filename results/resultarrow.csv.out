@@ -1,0 +1,11 @@
+arrow.csv
+0
+Sentiment(classification='pos', p_pos=0.74009321367334346, p_neg=0.25990678632665659)
+
+
+1
+Sentiment(classification='neg', p_pos=0.48127282249734554, p_neg=0.51872717750265485)
+
+
+
+

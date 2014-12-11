@@ -1,0 +1,11 @@
+MMORPG.csv
+0
+Sentiment(classification='pos', p_pos=0.52890271044319348, p_neg=0.47109728955680696)
+
+
+1
+Sentiment(classification='neg', p_pos=0.38105548432140901, p_neg=0.61894451567859199)
+
+
+
+

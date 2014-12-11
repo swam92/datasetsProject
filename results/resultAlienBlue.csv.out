@@ -1,0 +1,65 @@
+AlienBlue.csv
+0
+Sentiment(classification='pos', p_pos=0.69659482976859921, p_neg=0.30340517023140018)
+
+
+1
+Sentiment(classification='neg', p_pos=0.37744077063264736, p_neg=0.62255922936735297)
+
+
+
+
+0.05 0.416666666667 0.462982199799 0.537017800201
+0
+Is it me or does the cross out ( ~ blah blah ~ ) not work?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('App', '->', u'NP')
+('App', '->', u'NP')
+('Jason', '->', u'NP')
+('App', '->', u'NP')
+('Mac', '->', u'NP')
+('Pi', '->', u'NP')
+('July', '->', u'NP')
+('Christmas', '->', u'NP')
+('Christmas', '->', u'NP')
+('Mac', '->', u'NP')
+('App', '->', u'NP')
+('God', '->', u'NP')
+('App', '->', u'NP')
+('Dan', '->', u'NP')
+('Harmon', '->', u'NP')
+('App', '->', u'NP')
+('Black', '->', u'NP')
+('Pretty', '->', u'NP')
+('Don', '->', u'NP')
+('App', '->', u'NP')
+('Mobile', '->', u'NP')
+('Worth', '->', u'NP')
+('Holmes', '->', u'NP')
+('App', '->', u'NP')
+('Guy', '->', u'NP')
+('Alexis', '->', u'NP')
+('F', '->', u'NP')
+('Mac', '->', u'NP')
+('Black', '->', u'NP')
+('Mac', '->', u'NP')
+('App', '->', u'NP')
+('Pocket', '->', u'NP')
+('App', '->', u'NP')
+('App', '->', u'NP')
+('PM', '->', u'NP')
+('PM', '->', u'NP')
+('Korea', '->', u'NP')
+('Gore', '->', u'NP')
+('T', '->', u'NP')
+('Don', '->', u'NP')
+('Yank', '->', u'NP')
+('Bugs', '->', u'NP')
+('Lock', '->', u'NP')
+('January', '->', u'NP')
+('App', '->', u'NP')
+('Jason', '->', u'NP')
+('App', '->', u'NP')
+47 
+
+14201

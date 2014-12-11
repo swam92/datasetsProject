@@ -1,0 +1,11 @@
+ShouldIbuythisgame.csv
+0
+Sentiment(classification='neg', p_pos=0.42009161400126693, p_neg=0.57990838599873296)
+
+
+1
+Sentiment(classification='pos', p_pos=0.59251205541590213, p_neg=0.40748794458409765)
+
+
+
+

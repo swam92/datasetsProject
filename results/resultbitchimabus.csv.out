@@ -1,0 +1,82 @@
+bitchimabus.csv
+0
+Sentiment(classification='neg', p_pos=0.34187437345020505, p_neg=0.6581256265497949)
+
+
+1
+Sentiment(classification='neg', p_pos=0.29805795407281477, p_neg=0.70194204592718479)
+
+
+
+
+-0.6 0.8 0.680033836238 0.319966163762
+0
+Flooding? Bitch, I'm bus 62!
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('U', '->', u'NP')
+('Metro', '->', u'NP')
+('Glasgow', '->', u'NP')
+('Don', '->', u'NP')
+('Hitler', '->', u'NP')
+('France', '->', u'NP')
+('Plane', '->', u'NP')
+('Montreal', '->', u'NP')
+('Brazil', '->', u'NP')
+('Guatemala', '->', u'NP')
+('T', '->', u'NP')
+('Boston', '->', u'NP')
+('John', '->', u'NP')
+('Connor', '->', u'NP')
+('Tokyo', '->', u'NP')
+('Kitty', '->', u'NP')
+('Cool', '->', u'NP')
+('Pretty', '->', u'NP')
+('Hungarian', '->', u'NP')
+('Filipino', '->', u'NP')
+('Greyhound', '->', u'NP')
+('London', '->', u'NP')
+('Thomas', '->', u'NP')
+('Boston', '->', u'NP')
+('Pretty', '->', u'NP')
+('Germany', '->', u'NP')
+('Elvis', '->', u'NP')
+('Cool', '->', u'NP')
+('Don', '->', u'NP')
+('Cool', '->', u'NP')
+('Don', '->', u'NP')
+('Chicago', '->', u'NP')
+('Joseph', '->', u'NP')
+('Don', '->', u'NP')
+('Lot', '->', u'NP')
+('Amsterdam', '->', u'NP')
+('Portland', '->', u'NP')
+('London', '->', u'NP')
+('Dallas', '->', u'NP')
+('Kremlin', '->', u'NP')
+('F', '->', u'NP')
+('Halloween', '->', u'NP')
+('Miss', '->', u'NP')
+('F', '->', u'NP')
+('Don', '->', u'NP')
+('Kitty', '->', u'NP')
+('Cadillac', '->', u'NP')
+('Rod', '->', u'NP')
+('Texas', '->', u'NP')
+('T', '->', u'NP')
+('Brisbane', '->', u'NP')
+('Pretty', '->', u'NP')
+('Arctic', '->', u'NP')
+('Christmas', '->', u'NP')
+('Austin', '->', u'NP')
+('Patrick', '->', u'NP')
+('Mario', '->', u'NP')
+('Jerome', '->', u'NP')
+('Jack', '->', u'NP')
+('Nicklaus', '->', u'NP')
+('Nick', '->', u'NP')
+('India', '->', u'NP')
+('Boston', '->', u'NP')
+('Devonshire', '->', u'NP')
+64 
+
+9544

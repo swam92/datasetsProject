@@ -1,0 +1,11 @@
+reddevils.csv
+0
+Sentiment(classification='pos', p_pos=0.67768900222703232, p_neg=0.3223109977729664)
+
+
+1
+Sentiment(classification='neg', p_pos=0.12499999999999985, p_neg=0.87499999999999978)
+
+
+
+

@@ -1,0 +1,44 @@
+transtimelines.csv
+0
+Sentiment(classification='neg', p_pos=0.49213406292749656, p_neg=0.50786593707250338)
+
+
+1
+Sentiment(classification='neg', p_pos=0.43279164825603084, p_neg=0.56720835174396877)
+
+
+
+
+0.0 0.1 0.537537144408 0.462462855592
+0
+Don't have enough pics for a timeline? Check out AmIASexyQueer!
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('T', '->', u'NP')
+('T', '->', u'NP')
+('T', '->', u'NP')
+('T', '->', u'NP')
+('T', '->', u'NP')
+('Don', '->', u'NP')
+('T', '->', u'NP')
+('T', '->', u'NP')
+('B', '->', u'NP')
+('T', '->', u'NP')
+('T', '->', u'NP')
+('Alice', '->', u'NP')
+('August', '->', u'NP')
+('October', '->', u'NP')
+('E', '->', u'NP')
+('T', '->', u'NP')
+('T', '->', u'NP')
+('T', '->', u'NP')
+('W', '->', u'NP')
+('Jan', '->', u'NP')
+('B', '->', u'NP')
+('July', '->', u'NP')
+('T', '->', u'NP')
+('Maxine', '->', u'NP')
+('Payne', '->', u'NP')
+('Don', '->', u'NP')
+26 
+
+3925

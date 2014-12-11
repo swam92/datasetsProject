@@ -1,0 +1,12 @@
+psych.csv
+0
+Sentiment(classification='pos', p_pos=0.86908879262443972, p_neg=0.13091120737556)
+
+
+1
+Sentiment(classification='neg', p_pos=0.38960662687720093, p_neg=0.6103933731227994)
+
+
+
+
+0.73828125 0.35 0.370652290249 0.629347709751

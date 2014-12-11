@@ -1,0 +1,35 @@
+powerwashingporn.csv
+0
+Sentiment(classification='pos', p_pos=0.62108161921227856, p_neg=0.37891838078772305)
+
+
+1
+Sentiment(classification='pos', p_pos=0.91913001426951579, p_neg=0.080869985730483859)
+
+
+
+
+0.25 0.5125 0.229894183259 0.770105816741
+0
+Needed a warsh after 8+ years, Sweet, Sweet Contrast
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Seattle', '->', u'NP')
+('Napoleon', '->', u'NP')
+('Paris', '->', u'NP')
+('Ohio', '->', u'NP')
+('London', '->', u'NP')
+('Virginia', '->', u'NP')
+('Tech', '->', u'NP')
+('Seattle', '->', u'NP')
+('Kansas', '->', u'NP')
+('Halloween', '->', u'NP')
+('Virginia', '->', u'NP')
+('Tech', '->', u'NP')
+('Lane', '->', u'NP')
+('Arnold', '->', u'NP')
+('N', '->', u'NP')
+('Briggs', '->', u'NP')
+('Alexandria', '->', u'NP')
+17 
+
+1884

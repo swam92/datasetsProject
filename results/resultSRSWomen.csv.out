@@ -1,0 +1,11 @@
+SRSWomen.csv
+0
+Sentiment(classification='pos', p_pos=0.51930897315989688, p_neg=0.48069102684010306)
+
+
+1
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+
+

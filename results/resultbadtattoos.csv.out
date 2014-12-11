@@ -1,0 +1,11 @@
+badtattoos.csv
+0
+Sentiment(classification='neg', p_pos=0.37497285046247186, p_neg=0.62502714953752836)
+
+
+1
+Sentiment(classification='pos', p_pos=0.81986027944111761, p_neg=0.18013972055888222)
+
+
+
+

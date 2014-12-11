@@ -1,0 +1,81 @@
+gainit.csv
+0
+Sentiment(classification='pos', p_pos=0.72729223917818486, p_neg=0.27270776082181547)
+
+
+1
+Sentiment(classification='neg', p_pos=0.45894387996326313, p_neg=0.54105612003673764)
+
+
+
+
+0.0 0.1 0.406881940429 0.593118059571
+0
+[Progress] 10 weeks, 145-170lb
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Michaels', '->', u'NP')
+('August', '->', u'NP')
+('138', '->', u'NP')
+('Ancel', '->', u'NP')
+('Keys', '->', u'NP')
+('Minnesota', '->', u'NP')
+('Don', '->', u'NP')
+('Skinny', '->', u'NP')
+('Self', '->', u'NP')
+('AMA', '->', u'NP')
+('F', '->', u'NP')
+('Sandwich', '->', u'NP')
+('Skinny', '->', u'NP')
+('March', '->', u'NP')
+('July', '->', u'NP')
+('January', '->', u'NP')
+('Mark', '->', u'NP')
+('Skinny', '->', u'NP')
+('Olive', '->', u'NP')
+('July', '->', u'NP')
+('Christmas', '->', u'NP')
+('Henry', '->', u'NP')
+('Rollins', '->', u'NP')
+('Skinny', '->', u'NP')
+('March', '->', u'NP')
+('April', '->', u'NP')
+('September', '->', u'NP')
+('December', '->', u'NP')
+('T', '->', u'NP')
+('Don', '->', u'NP')
+('T', '->', u'NP')
+('Rex', '->', u'NP')
+('Nepal', '->', u'NP')
+('Hard', '->', u'NP')
+('May', '->', u'NP')
+('July', '->', u'NP')
+('December', '->', u'NP')
+('F', '->', u'NP')
+('Brown', '->', u'NP')
+('138', '->', u'NP')
+('Tim', '->', u'NP')
+('Skinny', '->', u'NP')
+('Jackson', '->', u'NP')
+('Pretty', '->', u'NP')
+('Taylor', '->', u'NP')
+('Lautner', '->', u'NP')
+('Skinny', '->', u'NP')
+('F', '->', u'NP')
+('July', '->', u'NP')
+('April', '->', u'NP')
+('June', '->', u'NP')
+('August', '->', u'NP')
+('AMA', '->', u'NP')
+('138', '->', u'NP')
+('Skinny', '->', u'NP')
+('Smith', '->', u'NP')
+('April', '->', u'NP')
+('Skinny', '->', u'NP')
+('Smith', '->', u'NP')
+('Dublin', '->', u'NP')
+('June', '->', u'NP')
+('Smith', '->', u'NP')
+('Skinny', '->', u'NP')
+63 
+
+12904

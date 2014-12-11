@@ -1,0 +1,11 @@
+peloton.csv
+0
+Sentiment(classification='neg', p_pos=0.054283628830465697, p_neg=0.94571637116953478)
+
+
+1
+Sentiment(classification='pos', p_pos=0.53043068620728895, p_neg=0.46956931379271039)
+
+
+
+

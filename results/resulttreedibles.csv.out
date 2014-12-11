@@ -1,0 +1,62 @@
+treedibles.csv
+0
+Sentiment(classification='pos', p_pos=0.70949489001095456, p_neg=0.29050510998904627)
+
+
+1
+Sentiment(classification='pos', p_pos=0.86497767423801231, p_neg=0.13502232576198728)
+
+
+
+
+0.0 0.428571428571 0.212763717876 0.787236282124
+0
+Thought I was listening to a song [8bylonlon]
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Russia', '->', u'NP')
+('Louis', '->', u'NP')
+('Mac', '->', u'NP')
+('Rice', '->', u'NP')
+('PM', '->', u'NP')
+('Green', '->', u'NP')
+('Rice', '->', u'NP')
+('Eve', '->', u'NP')
+('Miss', '->', u'NP')
+('Miss', '->', u'NP')
+('Bake', '->', u'NP')
+('Bacon', '->', u'NP')
+('Green', '->', u'NP')
+('Gram', '->', u'NP')
+('Washington', '->', u'NP')
+('T', '->', u'NP')
+('Miss', '->', u'NP')
+('B', '->', u'NP')
+('Green', '->', u'NP')
+('Green', '->', u'NP')
+('Bake', '->', u'NP')
+('Funk', '->', u'NP')
+('Ira', '->', u'NP')
+('Cohen', '->', u'NP')
+('De', '->', u'NP')
+('K', '->', u'NP')
+('Kitty', '->', u'NP')
+('Green', '->', u'NP')
+('Bake', '->', u'NP')
+('Bourbon', '->', u'NP')
+('Leary', '->', u'NP')
+('Low', '->', u'NP')
+('Miss', '->', u'NP')
+('Alice', '->', u'NP')
+('B', '->', u'NP')
+('Gertrude', '->', u'NP')
+('Stein', '->', u'NP')
+('Bud', '->', u'NP')
+('Green', '->', u'NP')
+('Morgan', '->', u'NP')
+('Rice', '->', u'NP')
+('Cook', '->', u'NP')
+('Green', '->', u'NP')
+('Green', '->', u'NP')
+44 
+
+6005

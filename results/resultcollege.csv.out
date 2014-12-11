@@ -1,0 +1,11 @@
+college.csv
+0
+Sentiment(classification='neg', p_pos=0.33438263861299894, p_neg=0.66561736138700112)
+
+
+1
+Sentiment(classification='pos', p_pos=0.71787942839607954, p_neg=0.2821205716039214)
+
+
+
+

@@ -1,0 +1,75 @@
+battlestations.csv
+0
+Sentiment(classification='pos', p_pos=0.50733472058963691, p_neg=0.49266527941036314)
+
+
+1
+Sentiment(classification='pos', p_pos=0.55357142857142827, p_neg=0.44642857142857145)
+
+
+
+
+0.5 0.5 0.469546925419 0.530453074581
+0
+After a good friend moved to america and gave me her TV, I decided I would update and re-arrange my Battle-station.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Tech', '->', u'NP')
+('E', '->', u'NP')
+('Alexander', '->', u'NP')
+('Titan', '->', u'NP')
+('Mac', '->', u'NP')
+('S', '->', u'NP')
+('S', '->', u'NP')
+('Cable', '->', u'NP')
+('Bauhaus', '->', u'NP')
+('Cable', '->', u'NP')
+('Titan', '->', u'NP')
+('Green', '->', u'NP')
+('Winter', '->', u'NP')
+('Black', '->', u'NP')
+('Mobile', '->', u'NP')
+('Bob', '->', u'NP')
+('Mac', '->', u'NP')
+('Australia', '->', u'NP')
+('T', '->', u'NP')
+('Mac', '->', u'NP')
+('Dwight', '->', u'NP')
+('Titan', '->', u'NP')
+('Green', '->', u'NP')
+('Black', '->', u'NP')
+('Poland', '->', u'NP')
+('De', '->', u'NP')
+('Norway', '->', u'NP')
+('Korea', '->', u'NP')
+('Green', '->', u'NP')
+('S', '->', u'NP')
+('Winter', '->', u'NP')
+('Pretty', '->', u'NP')
+('Green', '->', u'NP')
+('Winter', '->', u'NP')
+('B', '->', u'NP')
+('Crow', '->', u'NP')
+('Russia', '->', u'NP')
+('Hard', '->', u'NP')
+('Cable', '->', u'NP')
+('April', '->', u'NP')
+('Arleigh', '->', u'NP')
+('Burke', '->', u'NP')
+('Alison', '->', u'NP')
+('Christmas', '->', u'NP')
+('Titan', '->', u'NP')
+('Hans', '->', u'NP')
+('Christmas', '->', u'NP')
+('Black', '->', u'NP')
+('Eve', '->', u'NP')
+('Pretty', '->', u'NP')
+('Korea', '->', u'NP')
+('Dave', '->', u'NP')
+('Satan', '->', u'NP')
+('Christmas', '->', u'NP')
+('Dreadnought', '->', u'NP')
+('Titan', '->', u'NP')
+('Philly', '->', u'NP')
+57 
+
+9744

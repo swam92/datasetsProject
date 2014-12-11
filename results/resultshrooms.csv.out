@@ -1,0 +1,11 @@
+shrooms.csv
+0
+Sentiment(classification='pos', p_pos=0.61249999999999993, p_neg=0.38749999999999984)
+
+
+1
+Sentiment(classification='neg', p_pos=0.24999999999999969, p_neg=0.75)
+
+
+
+

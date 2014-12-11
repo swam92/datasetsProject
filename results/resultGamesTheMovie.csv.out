@@ -1,0 +1,77 @@
+GamesTheMovie.csv
+0
+Sentiment(classification='neg', p_pos=0.43749999999999989, p_neg=0.56249999999999989)
+
+
+1
+Sentiment(classification='pos', p_pos=0.71826859235610274, p_neg=0.28173140764389687)
+
+
+
+
+0.0 1.0 0.422115703822 0.577884296178
+0
+Silent Hill 4: The Room (1 hour 10 minutes)
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Drake', '->', u'NP')
+('Fortune', '->', u'NP')
+('Spartan', '->', u'NP')
+('Drake', '->', u'NP')
+('L', '->', u'NP')
+('John', '->', u'NP')
+('Shepard', '->', u'NP')
+('Thomas', '->', u'NP')
+('America', '->', u'NP')
+('Catherine', '->', u'NP')
+('Esther', '->', u'NP')
+('Drake', '->', u'NP')
+('Fortune', '->', u'NP')
+('Dante', '->', u'NP')
+('Black', '->', u'NP')
+('Walker', '->', u'NP')
+('Metro', '->', u'NP')
+('God', '->', u'NP')
+('Alan', '->', u'NP')
+('Hack', '->', u'NP')
+('Spartan', '->', u'NP')
+('San', '->', u'NP')
+('Gay', '->', u'NP')
+('Tony', '->', u'NP')
+('Fortune', '->', u'NP')
+('Cooper', '->', u'NP')
+('Walker', '->', u'NP')
+('Shepard', '->', u'NP')
+('Shorter', '->', u'NP')
+('Alice', '->', u'NP')
+('God', '->', u'NP')
+('Raccoon', '->', u'NP')
+('Abe', '->', u'NP')
+('Abe', '->', u'NP')
+('Tom', '->', u'NP')
+('Black', '->', u'NP')
+('Washington', '->', u'NP')
+('Abe', '->', u'NP')
+('Tom', '->', u'NP')
+('Pandora', '->', u'NP')
+('Catherine', '->', u'NP')
+('Don', '->', u'NP')
+('Max', '->', u'NP')
+('Payne', '->', u'NP')
+('Tom', '->', u'NP')
+('Wallace', '->', u'NP')
+('Hunter', '->', u'NP')
+('Mario', '->', u'NP')
+('Walker', '->', u'NP')
+('May', '->', u'NP')
+('Kentucky', '->', u'NP')
+('Alan', '->', u'NP')
+('Wallace', '->', u'NP')
+('Mars', '->', u'NP')
+('L', '->', u'NP')
+('God', '->', u'NP')
+('L', '->', u'NP')
+('Jordan', '->', u'NP')
+('Tom', '->', u'NP')
+59 
+
+2664

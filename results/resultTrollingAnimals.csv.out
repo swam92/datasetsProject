@@ -1,0 +1,73 @@
+TrollingAnimals.csv
+0
+Sentiment(classification='pos', p_pos=0.7226046390574743, p_neg=0.27739536094252543)
+
+
+1
+Sentiment(classification='pos', p_pos=0.72897978329424518, p_neg=0.27102021670575477)
+
+
+
+
+0.2 1.0 0.274207788824 0.725792211176
+0
+Leaves you wanting more (shortest vid EVER)
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Christmas', '->', u'NP')
+('U', '->', u'NP')
+('Missy', '->', u'NP')
+('Lil', '->', u'NP')
+('Buddy', '->', u'NP')
+('Gibbon', '->', u'NP')
+('Nina', '->', u'NP')
+('Kitty', '->', u'NP')
+('Russia', '->', u'NP')
+('Winston', '->', u'NP')
+('Easter', '->', u'NP')
+('Easter', '->', u'NP')
+('Bunny', '->', u'NP')
+('Waldo', '->', u'NP')
+('Bird', '->', u'NP')
+('Lemon', '->', u'NP')
+('Don', '->', u'NP')
+('Ball', '->', u'NP')
+('Kitty', '->', u'NP')
+('Katherine', '->', u'NP')
+('K', '->', u'NP')
+('Santa', '->', u'NP')
+('Christmas', '->', u'NP')
+('Patton', '->', u'NP')
+('Kitty', '->', u'NP')
+('Hector', '->', u'NP')
+('Kitty', '->', u'NP')
+('Jeff', '->', u'NP')
+('Lil', '->', u'NP')
+('August', '->', u'NP')
+('Mort', '->', u'NP')
+('Halloween', '->', u'NP')
+('Alan', '->', u'NP')
+('Bates', '->', u'NP')
+('Wisconsin', '->', u'NP')
+('Bird', '->', u'NP')
+('Don', '->', u'NP')
+('Kitty', '->', u'NP')
+('Kitty', '->', u'NP')
+('Hong', '->', u'NP')
+('Kong', '->', u'NP')
+('Otis', '->', u'NP')
+('N', '->', u'NP')
+('Andy', '->', u'NP')
+('Griffith', '->', u'NP')
+('Doberman', '->', u'NP')
+('Dale', '->', u'NP')
+('De', '->', u'NP')
+('Sadie', '->', u'NP')
+('Oliver', '->', u'NP')
+('Iowa', '->', u'NP')
+('Dick', '->', u'NP')
+('Sammy', '->', u'NP')
+('Hitler', '->', u'NP')
+('Tom', '->', u'NP')
+55 
+
+3985

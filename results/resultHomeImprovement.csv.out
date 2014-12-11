@@ -1,0 +1,59 @@
+HomeImprovement.csv
+0
+Sentiment(classification='pos', p_pos=0.9975417635431082, p_neg=0.0024582364568948426)
+
+
+1
+Sentiment(classification='neg', p_pos=0.45078424383392124, p_neg=0.54921575616607821)
+
+
+
+
+0.225 0.238888888889 0.275836996311 0.724163003689
+0
+I need an adapter for my round shower faucet.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Texas', '->', u'NP')
+('April', '->', u'NP')
+('Minnesota', '->', u'NP')
+('Mary', '->', u'NP')
+('Massachusetts', '->', u'NP')
+('May', '->', u'NP')
+('Bosch', '->', u'NP')
+('Sears', '->', u'NP')
+('Reno', '->', u'NP')
+('Lowe', '->', u'NP')
+('Rod', '->', u'NP')
+('Wood', '->', u'NP')
+('Arizona', '->', u'NP')
+('Wood', '->', u'NP')
+('Wood', '->', u'NP')
+('Edison', '->', u'NP')
+('Wood', '->', u'NP')
+('Italy', '->', u'NP')
+('T', '->', u'NP')
+('Black', '->', u'NP')
+('Ontario', '->', u'NP')
+('Canada', '->', u'NP')
+('AMA', '->', u'NP')
+('Ontario', '->', u'NP')
+('Wood', '->', u'NP')
+('San', '->', u'NP')
+('Francisco', '->', u'NP')
+('San', '->', u'NP')
+('Francisco', '->', u'NP')
+('Reno', '->', u'NP')
+('Bird', '->', u'NP')
+('Bosch', '->', u'NP')
+('Wood', '->', u'NP')
+('U', '->', u'NP')
+('Green', '->', u'NP')
+('Short', '->', u'NP')
+('T', '->', u'NP')
+('G', '->', u'NP')
+('Rust', '->', u'NP')
+('Rod', '->', u'NP')
+('Rocky', '->', u'NP')
+41 
+
+11664

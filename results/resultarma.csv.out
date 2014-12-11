@@ -1,0 +1,11 @@
+arma.csv
+0
+Sentiment(classification='pos', p_pos=0.66443529007895608, p_neg=0.33556470992104342)
+
+
+1
+Sentiment(classification='neg', p_pos=0.2072102560019107, p_neg=0.79278974399809032)
+
+
+
+

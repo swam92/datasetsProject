@@ -1,0 +1,53 @@
+fromscratch.csv
+0
+Sentiment(classification='pos', p_pos=0.74896007186472524, p_neg=0.25103992813527565)
+
+
+1
+Sentiment(classification='neg', p_pos=0.010197373492468605, p_neg=0.98980262650753259)
+
+
+
+
+0.196428571429 0.6 0.620421277321 0.379578722679
+0
+The opposite of "From Scratch." (X-post from /r/recipes)
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Vermont', '->', u'NP')
+('March', '->', u'NP')
+('Maine', '->', u'NP')
+('Alton', '->', u'NP')
+('Brown', '->', u'NP')
+('Learned', '->', u'NP')
+('Thai', '->', u'NP')
+('Chicago', '->', u'NP')
+('Rosemary', '->', u'NP')
+('Lemon', '->', u'NP')
+('Colorado', '->', u'NP')
+('Boulder', '->', u'NP')
+('Worth', '->', u'NP')
+('Amazon', '->', u'NP')
+('Lemon', '->', u'NP')
+('Frank', '->', u'NP')
+('Brown', '->', u'NP')
+('Key', '->', u'NP')
+('Kansas', '->', u'NP')
+('Worcestershire', '->', u'NP')
+('Rice', '->', u'NP')
+('Ray', '->', u'NP')
+('Salmon', '->', u'NP')
+('Cook', '->', u'NP')
+('Black', '->', u'NP')
+('Jimmy', '->', u'NP')
+('Colorado', '->', u'NP')
+('Rose', '->', u'NP')
+('Lot', '->', u'NP')
+('Hard', '->', u'NP')
+('Green', '->', u'NP')
+('Cook', '->', u'NP')
+('Arthur', '->', u'NP')
+('Rice', '->', u'NP')
+('Australian', '->', u'NP')
+35 
+
+3098

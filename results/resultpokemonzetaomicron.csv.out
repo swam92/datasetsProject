@@ -1,0 +1,43 @@
+pokemonzetaomicron.csv
+0
+Sentiment(classification='pos', p_pos=0.71828662725566106, p_neg=0.28171337274433988)
+
+
+1
+Sentiment(classification='pos', p_pos=0.51483401325710554, p_neg=0.48516598674289441)
+
+
+
+
+0.03125 0.497222222222 0.383439679744 0.616560320256
+0
+This was on the front page. Would be hilarious if this could somehow be implemented.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Mac', '->', u'NP')
+('Delta', '->', u'NP')
+('Avery', '->', u'NP')
+('Miranda', '->', u'NP')
+('Graham', '->', u'NP')
+('Joey', '->', u'NP')
+('AMA', '->', u'NP')
+('Jonathan', '->', u'NP')
+('October', '->', u'NP')
+('Delta', '->', u'NP')
+('Short', '->', u'NP')
+('Cool', '->', u'NP')
+('Mac', '->', u'NP')
+('Jake', '->', u'NP')
+('Tower', '->', u'NP')
+('Easter', '->', u'NP')
+('Mac', '->', u'NP')
+('Black', '->', u'NP')
+('Don', '->', u'NP')
+('Alpha', '->', u'NP')
+('Mobile', '->', u'NP')
+('Beta', '->', u'NP')
+('Don', '->', u'NP')
+('Sell', '->', u'NP')
+('Hack', '->', u'NP')
+25 
+
+2970

@@ -1,0 +1,11 @@
+KingOfTheHill.csv
+0
+Sentiment(classification='pos', p_pos=0.51852039992817045, p_neg=0.48147960007182961)
+
+
+1
+Sentiment(classification='neg', p_pos=0.35812201135750849, p_neg=0.64187798864249124)
+
+
+
+

@@ -1,0 +1,54 @@
+excel.csv
+0
+Sentiment(classification='pos', p_pos=0.87150039072383978, p_neg=0.12849960927616011)
+
+
+1
+Sentiment(classification='pos', p_pos=0.83838819766060102, p_neg=0.16161180233939892)
+
+
+
+
+0.8 1.0 0.145055705808 0.854944294192
+0
+VBA Creating Record/Data Edit Command on UserForm
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Harlem', '->', u'NP')
+('Mac', '->', u'NP')
+('Speed', '->', u'NP')
+('Europe', '->', u'NP')
+('Kenneth', '->', u'NP')
+('Carmen', '->', u'NP')
+('Worth', '->', u'NP')
+('Plane', '->', u'NP')
+('Harvard', '->', u'NP')
+('Guest', '->', u'NP')
+('Monty', '->', u'NP')
+('Easter', '->', u'NP')
+('Easter', '->', u'NP')
+('Easter', '->', u'NP')
+('Case', '->', u'NP')
+('Monte', '->', u'NP')
+('Carlo', '->', u'NP')
+('B', '->', u'NP')
+('Pick', '->', u'NP')
+('B', '->', u'NP')
+('B', '->', u'NP')
+('June', '->', u'NP')
+('Hard', '->', u'NP')
+('PM', '->', u'NP')
+('Page', '->', u'NP')
+('Mac', '->', u'NP')
+('E', '->', u'NP')
+('Worth', '->', u'NP')
+('Bing', '->', u'NP')
+('Mac', '->', u'NP')
+('Coke', '->', u'NP')
+('Coke', '->', u'NP')
+('Coke', '->', u'NP')
+('Case', '->', u'NP')
+('Mac', '->', u'NP')
+('F', '->', u'NP')
+36 
+
+12490

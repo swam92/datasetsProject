@@ -1,0 +1,11 @@
+wtfart.csv
+0
+Sentiment(classification='pos', p_pos=0.6179780445205646, p_neg=0.38202195547943557)
+
+
+1
+Sentiment(classification='neg', p_pos=0.49860647326966395, p_neg=0.50139352673033655)
+
+
+
+

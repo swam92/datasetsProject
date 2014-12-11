@@ -1,0 +1,54 @@
+whalebait.csv
+0
+Sentiment(classification='pos', p_pos=0.95638551724052134, p_neg=0.043614482759478788)
+
+
+1
+Sentiment(classification='pos', p_pos=0.68542296072507536, p_neg=0.3145770392749247)
+
+
+
+
+0.291666666667 0.591666666667 0.179095761017 0.820904238983
+0
+This is the biggest herd i've seen!
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Grey', '->', u'NP')
+('B', '->', u'NP')
+('F', '->', u'NP')
+('W', '->', u'NP')
+('W', '->', u'NP')
+('W', '->', u'NP')
+('F', '->', u'NP')
+('Hump', '->', u'NP')
+('W', '->', u'NP')
+('S', '->', u'NP')
+('W', '->', u'NP')
+('Don', '->', u'NP')
+('Australian', '->', u'NP')
+('Amsterdam', '->', u'NP')
+('Alaska', '->', u'NP')
+('Pretty', '->', u'NP')
+('W', '->', u'NP')
+('Bondi', '->', u'NP')
+('Bondi', '->', u'NP')
+('Wetter', '->', u'NP')
+('F', '->', u'NP')
+('Bondi', '->', u'NP')
+('W', '->', u'NP')
+('Alec', '->', u'NP')
+('Baldwin', '->', u'NP')
+('May', '->', u'NP')
+('Pretty', '->', u'NP')
+('Thailand', '->', u'NP')
+('Alaska', '->', u'NP')
+('Short', '->', u'NP')
+('Mike', '->', u'NP')
+('Santa', '->', u'NP')
+('Monica', '->', u'NP')
+('Florida', '->', u'NP')
+('F', '->', u'NP')
+('Massachusetts', '->', u'NP')
+36 
+
+3030

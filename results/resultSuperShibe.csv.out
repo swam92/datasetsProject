@@ -1,0 +1,37 @@
+SuperShibe.csv
+0
+Sentiment(classification='neg', p_pos=0.13403428712382826, p_neg=0.86596571287617219)
+
+
+1
+Sentiment(classification='neg', p_pos=0.1531822796986049, p_neg=0.84681772030139479)
+
+
+
+
+0.075 0.875 0.856391716589 0.143608283411
+0
+wow so kawaii
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('America', '->', u'NP')
+('Christianity', '->', u'NP')
+('Bob', '->', u'NP')
+('Squint', '->', u'NP')
+('Sims', '->', u'NP')
+('Zen', '->', u'NP')
+('Kroger', '->', u'NP')
+('Winter', '->', u'NP')
+('Hungary', '->', u'NP')
+('Myers', '->', u'NP')
+('Briggs', '->', u'NP')
+('Yuki', '->', u'NP')
+('Kurt', '->', u'NP')
+('N', '->', u'NP')
+('Grey', '->', u'NP')
+('Wolf', '->', u'NP')
+('Islam', '->', u'NP')
+('Gotham', '->', u'NP')
+('Gordon', '->', u'NP')
+19 
+
+3928

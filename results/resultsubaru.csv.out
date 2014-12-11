@@ -1,0 +1,11 @@
+subaru.csv
+0
+Sentiment(classification='neg', p_pos=0.46820646211941713, p_neg=0.53179353788058392)
+
+
+1
+Sentiment(classification='pos', p_pos=0.63964963623634619, p_neg=0.36035036376365381)
+
+
+
+

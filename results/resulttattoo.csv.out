@@ -1,0 +1,12 @@
+tattoo.csv
+0
+Sentiment(classification='pos', p_pos=0.59112401535101466, p_neg=0.40887598464898645)
+
+
+1
+Sentiment(classification='neg', p_pos=0.375, p_neg=0.62499999999999978)
+
+
+
+
+-0.7 0.666666666667 0.516937992324 0.483062007676

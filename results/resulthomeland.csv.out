@@ -1,0 +1,11 @@
+homeland.csv
+0
+Sentiment(classification='pos', p_pos=0.95158791634391804, p_neg=0.04841208365608049)
+
+
+1
+Sentiment(classification='neg', p_pos=0.45197739260176367, p_neg=0.54802260739823616)
+
+
+
+

@@ -1,0 +1,73 @@
+StreetFights.csv
+0
+Sentiment(classification='neg', p_pos=0.48451622622572471, p_neg=0.51548377377427612)
+
+
+1
+Sentiment(classification='pos', p_pos=0.68790705788704409, p_neg=0.31209294211295652)
+
+
+
+
+0.8 0.4 0.413788357944 0.586211642056
+0
+Want to see a good KNOCKOUT?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Guy', '->', u'NP')
+('Black', '->', u'NP')
+('Guy', '->', u'NP')
+('Gun', '->', u'NP')
+('David', '->', u'NP')
+('Brazil', '->', u'NP')
+('Rich', '->', u'NP')
+('Guy', '->', u'NP')
+('Pretty', '->', u'NP')
+('Trenton', '->', u'NP')
+('Pick', '->', u'NP')
+('Guy', '->', u'NP')
+('Phoenix', '->', u'NP')
+('Jones', '->', u'NP')
+('Hindu', '->', u'NP')
+('Guy', '->', u'NP')
+('Don', '->', u'NP')
+('Pick', '->', u'NP')
+('Sober', '->', u'NP')
+('B', '->', u'NP')
+('K', '->', u'NP')
+('Crane', '->', u'NP')
+('Guy', '->', u'NP')
+('Russia', '->', u'NP')
+('Athens', '->', u'NP')
+('Swift', '->', u'NP')
+('Liverpool', '->', u'NP')
+('San', '->', u'NP')
+('Diego', '->', u'NP')
+('Ray', '->', u'NP')
+('Jorge', '->', u'NP')
+('San', '->', u'NP')
+('Francisco', '->', u'NP')
+('Buzz', '->', u'NP')
+('Guy', '->', u'NP')
+('Lyon', '->', u'NP')
+('Brazil', '->', u'NP')
+('Alabama', '->', u'NP')
+('France', '->', u'NP')
+('Gun', '->', u'NP')
+('Sean', '->', u'NP')
+('Gannon', '->', u'NP')
+('Don', '->', u'NP')
+('Black', '->', u'NP')
+('Scarborough', '->', u'NP')
+('Bald', '->', u'NP')
+('Mike', '->', u'NP')
+('Lot', '->', u'NP')
+('Guy', '->', u'NP')
+('Russia', '->', u'NP')
+('Guy', '->', u'NP')
+('Don', '->', u'NP')
+('Boston', '->', u'NP')
+('Short', '->', u'NP')
+('Black', '->', u'NP')
+55 
+
+2728

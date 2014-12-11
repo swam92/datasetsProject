@@ -1,0 +1,11 @@
+nhl.csv
+0
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+1
+Sentiment(classification='neg', p_pos=0.40163934426229525, p_neg=0.59836065573770492)
+
+
+
+

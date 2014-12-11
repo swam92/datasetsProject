@@ -1,0 +1,11 @@
+antibaw.csv
+0
+Sentiment(classification='pos', p_pos=0.55505292540284479, p_neg=0.44494707459715505)
+
+
+1
+Sentiment(classification='neg', p_pos=0.28254437869822485, p_neg=0.71745562130177487)
+
+
+
+

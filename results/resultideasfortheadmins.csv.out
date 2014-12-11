@@ -1,0 +1,58 @@
+ideasfortheadmins.csv
+0
+Sentiment(classification='pos', p_pos=0.59993868792152083, p_neg=0.40006131207847917)
+
+
+1
+Sentiment(classification='pos', p_pos=0.67530749877371055, p_neg=0.3246925012262899)
+
+
+
+
+0.078125 0.53125 0.362376906652 0.637623093348
+0
+Have mail that you sent to a subreddit (i.e., "message the moderators") show up in your sent mail.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Don', '->', u'NP')
+('Green', '->', u'NP')
+('Neil', '->', u'NP')
+('Armstrong', '->', u'NP')
+('Page', '->', u'NP')
+('Self', '->', u'NP')
+('Boston', '->', u'NP')
+('April', '->', u'NP')
+('Mark', '->', u'NP')
+('Self', '->', u'NP')
+('PM', '->', u'NP')
+('Amazon', '->', u'NP')
+('Amazon', '->', u'NP')
+('April', '->', u'NP')
+('Pretty', '->', u'NP')
+('T', '->', u'NP')
+('April', '->', u'NP')
+('Sell', '->', u'NP')
+('April', '->', u'NP')
+('Boston', '->', u'NP')
+('April', '->', u'NP')
+('Don', '->', u'NP')
+('Max', '->', u'NP')
+('Amazon', '->', u'NP')
+('Don', '->', u'NP')
+('Page', '->', u'NP')
+('Amazon', '->', u'NP')
+('Page', '->', u'NP')
+('Case', '->', u'NP')
+('Slim', '->', u'NP')
+('December', '->', u'NP')
+('PM', '->', u'NP')
+('PM', '->', u'NP')
+('T', '->', u'NP')
+('PM', '->', u'NP')
+('Self', '->', u'NP')
+('Don', '->', u'NP')
+('Forbes', '->', u'NP')
+('PM', '->', u'NP')
+('Don', '->', u'NP')
+40 
+
+17170

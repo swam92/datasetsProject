@@ -1,0 +1,11 @@
+announcements.csv
+0
+Sentiment(classification='pos', p_pos=0.8105580583695009, p_neg=0.18944194163049935)
+
+
+1
+Sentiment(classification='neg', p_pos=0.46229616600934414, p_neg=0.53770383399065558)
+
+
+
+

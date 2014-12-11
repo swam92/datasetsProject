@@ -1,0 +1,11 @@
+roosterteeth.csv
+0
+Sentiment(classification='pos', p_pos=0.57627594731649534, p_neg=0.42372405268350471)
+
+
+1
+Sentiment(classification='neg', p_pos=0.46078431372549039, p_neg=0.53921568627450978)
+
+
+
+

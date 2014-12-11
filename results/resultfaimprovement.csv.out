@@ -1,0 +1,54 @@
+faimprovement.csv
+0
+Sentiment(classification='pos', p_pos=0.91576323810955462, p_neg=0.084236761890446252)
+
+
+1
+Sentiment(classification='neg', p_pos=0.32234231428278853, p_neg=0.67765768571721119)
+
+
+
+
+0.6 0.85 0.380947223804 0.619052776196
+0
+You want PRACTICAL ADVICE on how to stop being a ForeverAlone? Fine, here's how. In PRACTICAL TERMS.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('AMA', '->', u'NP')
+('Guy', '->', u'NP')
+('Guy', '->', u'NP')
+('Timothy', '->', u'NP')
+('Leary', '->', u'NP')
+('Don', '->', u'NP')
+('Met', '->', u'NP')
+('AMA', '->', u'NP')
+('Don', '->', u'NP')
+('Brown', '->', u'NP')
+('Quasimodo', '->', u'NP')
+('Charlie', '->', u'NP')
+('Sunny', '->', u'NP')
+('Guy', '->', u'NP')
+('Sutherland', '->', u'NP')
+('Ivan', '->', u'NP')
+('Joseph', '->', u'NP')
+('Self', '->', u'NP')
+('F', '->', u'NP')
+('AMA', '->', u'NP')
+('Don', '->', u'NP')
+('Chuck', '->', u'NP')
+('AMA', '->', u'NP')
+('Watson', '->', u'NP')
+('Pick', '->', u'NP')
+('Guy', '->', u'NP')
+('Friend', '->', u'NP')
+('Guy', '->', u'NP')
+('Virginia', '->', u'NP')
+('Matthew', '->', u'NP')
+('Sandra', '->', u'NP')
+('Friend', '->', u'NP')
+('Guy', '->', u'NP')
+('Guy', '->', u'NP')
+('Don', '->', u'NP')
+('Met', '->', u'NP')
+36 
+
+6045

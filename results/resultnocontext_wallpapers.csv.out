@@ -1,0 +1,69 @@
+nocontext_wallpapers.csv
+0
+Sentiment(classification='neg', p_pos=0.39411045426437191, p_neg=0.60588954573562848)
+
+
+1
+Sentiment(classification='neg', p_pos=0.3838848884389407, p_neg=0.61611511156105936)
+
+
+
+
+0.0729166666667 0.5 0.611002328648 0.388997671352
+0
+You heterosexual!
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Amazon', '->', u'NP')
+('Christmas', '->', u'NP')
+('London', '->', u'NP')
+('Rolls', '->', u'NP')
+('Steve', '->', u'NP')
+('Irwin', '->', u'NP')
+('Mommy', '->', u'NP')
+('Butt', '->', u'NP')
+('Butt', '->', u'NP')
+('Madagascar', '->', u'NP')
+('Gay', '->', u'NP')
+('Jesus', '->', u'NP')
+('Don', '->', u'NP')
+('God', '->', u'NP')
+('Gay', '->', u'NP')
+('Jimmy', '->', u'NP')
+('Crow', '->', u'NP')
+('Downs', '->', u'NP')
+('Dave', '->', u'NP')
+('Tarzan', '->', u'NP')
+('Dick', '->', u'NP')
+('Tarzan', '->', u'NP')
+('Anne', '->', u'NP')
+('Frank', '->', u'NP')
+('Beaver', '->', u'NP')
+('Pretty', '->', u'NP')
+('Sam', '->', u'NP')
+('Russell', '->', u'NP')
+('Madame', '->', u'NP')
+('Alabama', '->', u'NP')
+('Bird', '->', u'NP')
+('Hard', '->', u'NP')
+('Guy', '->', u'NP')
+('Tokyo', '->', u'NP')
+('Jesus', '->', u'NP')
+('Valentine', '->', u'NP')
+('Dick', '->', u'NP')
+('Key', '->', u'NP')
+('Turner', '->', u'NP')
+('Butt', '->', u'NP')
+('Turner', '->', u'NP')
+('Wayne', '->', u'NP')
+('Dies', '->', u'NP')
+('Edison', '->', u'NP')
+('Chuck', '->', u'NP')
+('E', '->', u'NP')
+('Hitler', '->', u'NP')
+('T', '->', u'NP')
+('Rex', '->', u'NP')
+('Ron', '->', u'NP')
+('Paul', '->', u'NP')
+51 
+
+5643

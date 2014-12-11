@@ -1,0 +1,11 @@
+trap.csv
+0
+Sentiment(classification='pos', p_pos=0.68749999999999956, p_neg=0.31249999999999989)
+
+
+1
+Sentiment(classification='neg', p_pos=0.25355450236966776, p_neg=0.74644549763033186)
+
+
+
+

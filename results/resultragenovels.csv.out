@@ -1,0 +1,79 @@
+ragenovels.csv
+0
+Sentiment(classification='pos', p_pos=0.70205359030641867, p_neg=0.29794640969358149)
+
+
+1
+Sentiment(classification='neg', p_pos=0.34945733091477155, p_neg=0.65054266908522751)
+
+
+
+
+0.117424242424 0.65 0.474244539389 0.525755460611
+0
+I've converted to rage novelist. Thank you guys for being so awesome!
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('April', '->', u'NP')
+('Canada', '->', u'NP')
+('Hindu', '->', u'NP')
+('Jesus', '->', u'NP')
+('London', '->', u'NP')
+('Anderson', '->', u'NP')
+('Cooper', '->', u'NP')
+('Friend', '->', u'NP')
+('Grumble', '->', u'NP')
+('Christmas', '->', u'NP')
+('Christmas', '->', u'NP')
+('Don', '->', u'NP')
+('Richard', '->', u'NP')
+('Dick', '->', u'NP')
+('Jesus', '->', u'NP')
+('Halloween', '->', u'NP')
+('Pretty', '->', u'NP')
+('Friend', '->', u'NP')
+('Valentine', '->', u'NP')
+('Hard', '->', u'NP')
+('E', '->', u'NP')
+('Low', '->', u'NP')
+('Brush', '->', u'NP')
+('Christmas', '->', u'NP')
+('God', '->', u'NP')
+('Vera', '->', u'NP')
+('T', '->', u'NP')
+('T', '->', u'NP')
+('Friend', '->', u'NP')
+('Don', '->', u'NP')
+('Lot', '->', u'NP')
+('Short', '->', u'NP')
+('Job', '->', u'NP')
+('Halloween', '->', u'NP')
+('F', '->', u'NP')
+('Job', '->', u'NP')
+('Don', '->', u'NP')
+('Franz', '->', u'NP')
+('Mayo', '->', u'NP')
+('April', '->', u'NP')
+('Dave', '->', u'NP')
+('Shakespeare', '->', u'NP')
+('Spartan', '->', u'NP')
+('Friend', '->', u'NP')
+('Phillips', '->', u'NP')
+('Younger', '->', u'NP')
+('Albert', '->', u'NP')
+('Einstein', '->', u'NP')
+('Snow', '->', u'NP')
+('U', '->', u'NP')
+('Self', '->', u'NP')
+('Job', '->', u'NP')
+('Lil', '->', u'NP')
+('Christmas', '->', u'NP')
+('Florida', '->', u'NP')
+('Don', '->', u'NP')
+('Harriet', '->', u'NP')
+('Valentine', '->', u'NP')
+('Philly', '->', u'NP')
+('Santa', '->', u'NP')
+('Christmas', '->', u'NP')
+61 
+
+8588

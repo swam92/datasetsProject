@@ -1,0 +1,12 @@
+piano.csv
+0
+Sentiment(classification='neg', p_pos=0.26821250109581768, p_neg=0.73178749890418215)
+
+
+1
+Sentiment(classification='pos', p_pos=0.61680263256789924, p_neg=0.38319736743210037)
+
+
+
+
+0.65 1.0 0.557492433168 0.442507566832

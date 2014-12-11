@@ -1,0 +1,11 @@
+gis.csv
+0
+Sentiment(classification='pos', p_pos=0.64804248676878384, p_neg=0.3519575132312161)
+
+
+1
+Sentiment(classification='pos', p_pos=0.9174593433019903, p_neg=0.082540656698009307)
+
+
+
+

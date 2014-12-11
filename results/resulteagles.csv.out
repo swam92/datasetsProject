@@ -1,0 +1,11 @@
+eagles.csv
+0
+Sentiment(classification='pos', p_pos=0.61174982754656337, p_neg=0.3882501724534369)
+
+
+1
+Sentiment(classification='neg', p_pos=0.40592515592515599, p_neg=0.5940748440748439)
+
+
+
+

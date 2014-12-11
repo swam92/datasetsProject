@@ -1,0 +1,69 @@
+MMFB.csv
+0
+Sentiment(classification='neg', p_pos=0.16821395032063177, p_neg=0.83178604967936798)
+
+
+1
+Sentiment(classification='pos', p_pos=0.74639308212659439, p_neg=0.25360691787340639)
+
+
+
+
+0.3 0.491666666667 0.542696483776 0.457303516224
+0
+Cocktail of disappointments
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('September', '->', u'NP')
+('Eve', '->', u'NP')
+('F', '->', u'NP')
+('China', '->', u'NP')
+('Halloween', '->', u'NP')
+('September', '->', u'NP')
+('Christmas', '->', u'NP')
+('Germany', '->', u'NP')
+('Met', '->', u'NP')
+('Lewis', '->', u'NP')
+('Christmas', '->', u'NP')
+('Eve', '->', u'NP')
+('Christmas', '->', u'NP')
+('U', '->', u'NP')
+('S', '->', u'NP')
+('Christmas', '->', u'NP')
+('Black', '->', u'NP')
+('AMA', '->', u'NP')
+('Guy', '->', u'NP')
+('AMA', '->', u'NP')
+('Christmas', '->', u'NP')
+('December', '->', u'NP')
+('December', '->', u'NP')
+('Don', '->', u'NP')
+('PM', '->', u'NP')
+('Gay', '->', u'NP')
+('Self', '->', u'NP')
+('Christmas', '->', u'NP')
+('Friend', '->', u'NP')
+('Toronto', '->', u'NP')
+('Norway', '->', u'NP')
+('Christmas', '->', u'NP')
+('Eve', '->', u'NP')
+('Christmas', '->', u'NP')
+('Christmas', '->', u'NP')
+('February', '->', u'NP')
+('AMA', '->', u'NP')
+('Pretty', '->', u'NP')
+('Pretty', '->', u'NP')
+('Heard', '->', u'NP')
+('Kitty', '->', u'NP')
+('Rose', '->', u'NP')
+('Friend', '->', u'NP')
+('S', '->', u'NP')
+('PM', '->', u'NP')
+('Guy', '->', u'NP')
+('January', '->', u'NP')
+('Don', '->', u'NP')
+('AMA', '->', u'NP')
+('Pretty', '->', u'NP')
+('April', '->', u'NP')
+51 
+
+15409

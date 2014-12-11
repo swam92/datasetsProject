@@ -1,0 +1,73 @@
+Korean.csv
+0
+Sentiment(classification='neg', p_pos=0.46334928945238307, p_neg=0.53665071054761693)
+
+
+1
+Sentiment(classification='neg', p_pos=0.25877140940393611, p_neg=0.74122859059606294)
+
+
+
+
+0.0 1.0 0.638939650572 0.361060349428
+0
+Comic/Graphic Novel suggestions
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Bing', '->', u'NP')
+('Bing', '->', u'NP')
+('Korea', '->', u'NP')
+('Bing', '->', u'NP')
+('Seoul', '->', u'NP')
+('Lee', '->', u'NP')
+('Korea', '->', u'NP')
+('K', '->', u'NP')
+('Friend', '->', u'NP')
+('Canada', '->', u'NP')
+('K', '->', u'NP')
+('K', '->', u'NP')
+('Pretty', '->', u'NP')
+('Self', '->', u'NP')
+('Korea', '->', u'NP')
+('Mac', '->', u'NP')
+('AMA', '->', u'NP')
+('Seoul', '->', u'NP')
+('Korea', '->', u'NP')
+('Self', '->', u'NP')
+('October', '->', u'NP')
+('Korea', '->', u'NP')
+('Boston', '->', u'NP')
+('December', '->', u'NP')
+('January', '->', u'NP')
+('Korea', '->', u'NP')
+('November', '->', u'NP')
+('App', '->', u'NP')
+('Gee', '->', u'NP')
+('Jo', '->', u'NP')
+('AMA', '->', u'NP')
+('Korea', '->', u'NP')
+('App', '->', u'NP')
+('Korea', '->', u'NP')
+('Korea', '->', u'NP')
+('Korea', '->', u'NP')
+('Friend', '->', u'NP')
+('Short', '->', u'NP')
+('Christmas', '->', u'NP')
+('Korea', '->', u'NP')
+('Keys', '->', u'NP')
+('Houston', '->', u'NP')
+('America', '->', u'NP')
+('Korea', '->', u'NP')
+('Christmas', '->', u'NP')
+('Korea', '->', u'NP')
+('July', '->', u'NP')
+('U', '->', u'NP')
+('S', '->', u'NP')
+('Seoul', '->', u'NP')
+('App', '->', u'NP')
+('Cool', '->', u'NP')
+('Korea', '->', u'NP')
+('Seoul', '->', u'NP')
+('Korea', '->', u'NP')
+55 
+
+13149

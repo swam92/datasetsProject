@@ -1,0 +1,11 @@
+rails.csv
+0
+Sentiment(classification='pos', p_pos=0.50264152621896918, p_neg=0.49735847378103099)
+
+
+1
+Sentiment(classification='pos', p_pos=0.84593221421570031, p_neg=0.15406778578429897)
+
+
+
+

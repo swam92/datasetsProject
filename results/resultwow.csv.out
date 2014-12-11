@@ -1,0 +1,11 @@
+wow.csv
+0
+Sentiment(classification='pos', p_pos=0.50469759248385204, p_neg=0.49530240751614801)
+
+
+1
+Sentiment(classification='pos', p_pos=0.8500000000000002, p_neg=0.15000000000000005)
+
+
+
+

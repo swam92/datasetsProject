@@ -1,0 +1,45 @@
+wtfdidijustread.csv
+0
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+1
+Sentiment(classification='pos', p_pos=0.84882438727146159, p_neg=0.15117561272853824)
+
+
+
+
+-0.3 0.1 0.325587806364 0.674412193636
+0
+2 pictures: SMS transcript of a creepy lady selling truck on Craigslist
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Washington', '->', u'NP')
+('Michael', '->', u'NP')
+('Thai', '->', u'NP')
+('Guy', '->', u'NP')
+('Sandra', '->', u'NP')
+('China', '->', u'NP')
+('Jesus', '->', u'NP')
+('Don', '->', u'NP')
+('Satan', '->', u'NP')
+('Guy', '->', u'NP')
+('Butt', '->', u'NP')
+('Bates', '->', u'NP')
+('Pee', '->', u'NP')
+('Hollywood', '->', u'NP')
+('Phil', '->', u'NP')
+('U', '->', u'NP')
+('Martha', '->', u'NP')
+('Stephanie', '->', u'NP')
+('Tanner', '->', u'NP')
+('Don', '->', u'NP')
+('Helen', '->', u'NP')
+('Jesus', '->', u'NP')
+('Child', '->', u'NP')
+('Ryan', '->', u'NP')
+('God', '->', u'NP')
+('Self', '->', u'NP')
+('Allan', '->', u'NP')
+27 
+
+3108

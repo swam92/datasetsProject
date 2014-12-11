@@ -1,0 +1,11 @@
+lfg.csv
+0
+Sentiment(classification='pos', p_pos=0.6931601921543632, p_neg=0.30683980784563714)
+
+
+1
+Sentiment(classification='neg', p_pos=0.46593703832853312, p_neg=0.53406296167146683)
+
+
+
+

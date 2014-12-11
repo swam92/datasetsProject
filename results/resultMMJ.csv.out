@@ -1,0 +1,11 @@
+MMJ.csv
+0
+Sentiment(classification='pos', p_pos=0.92445486161505097, p_neg=0.075545138384948099)
+
+
+1
+Sentiment(classification='neg', p_pos=0.34581801470588303, p_neg=0.65418198529411897)
+
+
+
+

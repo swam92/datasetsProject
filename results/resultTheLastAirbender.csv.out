@@ -1,0 +1,11 @@
+TheLastAirbender.csv
+0
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+1
+Sentiment(classification='neg', p_pos=0.34054477676525147, p_neg=0.65945522323474814)
+
+
+
+

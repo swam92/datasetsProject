@@ -1,0 +1,11 @@
+SNSD.csv
+0
+Sentiment(classification='neg', p_pos=0.4371964037577642, p_neg=0.56280359624223575)
+
+
+1
+Sentiment(classification='neg', p_pos=0.092425481025370543, p_neg=0.90757451897462993)
+
+
+
+

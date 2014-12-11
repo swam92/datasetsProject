@@ -1,0 +1,72 @@
+ShittyTechSupport.csv
+0
+Sentiment(classification='neg', p_pos=0.17571880565677739, p_neg=0.82428119434322511)
+
+
+1
+Sentiment(classification='neg', p_pos=0.33181270410276498, p_neg=0.66818729589723436)
+
+
+
+
+-0.5 0.9 0.74623424512 0.25376575488
+0
+This upvote button is broken. Can anyone get it to work?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Pi', '->', u'NP')
+('Hard', '->', u'NP')
+('Denny', '->', u'NP')
+('Bean', '->', u'NP')
+('Pi', '->', u'NP')
+('F', '->', u'NP')
+('Dos', '->', u'NP')
+('Amazon', '->', u'NP')
+('F', '->', u'NP')
+('F', '->', u'NP')
+('Mac', '->', u'NP')
+('Hindu', '->', u'NP')
+('AMA', '->', u'NP')
+('Sandwich', '->', u'NP')
+('Mac', '->', u'NP')
+('Pi', '->', u'NP')
+('Lock', '->', u'NP')
+('Alabama', '->', u'NP')
+('Player', '->', u'NP')
+('Metro', '->', u'NP')
+('Hitler', '->', u'NP')
+('Buddy', '->', u'NP')
+('Sam', '->', u'NP')
+('Ashley', '->', u'NP')
+('Mac', '->', u'NP')
+('Braille', '->', u'NP')
+('Alpha', '->', u'NP')
+('Beta', '->', u'NP')
+('Delta', '->', u'NP')
+('E', '->', u'NP')
+('Delta', '->', u'NP')
+('Lock', '->', u'NP')
+('K', '->', u'NP')
+('Bob', '->', u'NP')
+('Don', '->', u'NP')
+('America', '->', u'NP')
+('Texas', '->', u'NP')
+('Michigan', '->', u'NP')
+('Coke', '->', u'NP')
+('T', '->', u'NP')
+('Clark', '->', u'NP')
+('Dave', '->', u'NP')
+('L', '->', u'NP')
+('Mac', '->', u'NP')
+('AMA', '->', u'NP')
+('AMA', '->', u'NP')
+('Mac', '->', u'NP')
+('S', '->', u'NP')
+('T', '->', u'NP')
+('S', '->', u'NP')
+('Hard', '->', u'NP')
+('Del', '->', u'NP')
+('Pi', '->', u'NP')
+('Player', '->', u'NP')
+54 
+
+13265

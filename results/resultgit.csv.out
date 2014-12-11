@@ -1,0 +1,11 @@
+git.csv
+0
+Sentiment(classification='pos', p_pos=0.65277834630330689, p_neg=0.34722165369669244)
+
+
+1
+Sentiment(classification='neg', p_pos=0.36949380319546027, p_neg=0.63050619680453834)
+
+
+
+

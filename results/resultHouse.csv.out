@@ -1,0 +1,11 @@
+House.csv
+0
+Sentiment(classification='pos', p_pos=0.5192407886189141, p_neg=0.48075921138108602)
+
+
+1
+Sentiment(classification='neg', p_pos=0.28322311821216489, p_neg=0.71677688178783527)
+
+
+
+

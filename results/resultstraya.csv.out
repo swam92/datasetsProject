@@ -1,0 +1,11 @@
+straya.csv
+0
+Sentiment(classification='pos', p_pos=0.74590531438662777, p_neg=0.25409468561337117)
+
+
+1
+Sentiment(classification='neg', p_pos=0.49973739495798314, p_neg=0.50026260504201681)
+
+
+
+

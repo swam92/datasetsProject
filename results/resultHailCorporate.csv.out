@@ -1,0 +1,11 @@
+HailCorporate.csv
+0
+Sentiment(classification='pos', p_pos=0.9643728818266617, p_neg=0.035627118173335429)
+
+
+1
+Sentiment(classification='neg', p_pos=0.19788145711714103, p_neg=0.80211854288285889)
+
+
+
+

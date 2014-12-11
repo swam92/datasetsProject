@@ -1,0 +1,11 @@
+MonsterHunter.csv
+0
+Sentiment(classification='pos', p_pos=0.96831917238601417, p_neg=0.031680827613985961)
+
+
+1
+Sentiment(classification='neg', p_pos=0.39814854622467022, p_neg=0.60185145377532989)
+
+
+
+

@@ -1,0 +1,81 @@
+24hoursupport.csv
+0
+Sentiment(classification='pos', p_pos=0.97622397383358428, p_neg=0.023776026166414495)
+
+
+1
+Sentiment(classification='neg', p_pos=0.27584985792551842, p_neg=0.72415014207448114)
+
+
+
+
+0.00568181818182 0.414772727273 0.37396308412 0.62603691588
+0
+PC is failing to post after replacing both the mobo and CPU and I have no idea what to do. :(
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Delta', '->', u'NP')
+('May', '->', u'NP')
+('Java', '->', u'NP')
+('Europe', '->', u'NP')
+('Guy', '->', u'NP')
+('Self', '->', u'NP')
+('Babylon', '->', u'NP')
+('Iraq', '->', u'NP')
+('Ray', '->', u'NP')
+('PM', '->', u'NP')
+('Norton', '->', u'NP')
+('Midi', '->', u'NP')
+('Montreal', '->', u'NP')
+('Germany', '->', u'NP')
+('Don', '->', u'NP')
+('Short', '->', u'NP')
+('Canada', '->', u'NP')
+('Case', '->', u'NP')
+('Speed', '->', u'NP')
+('T', '->', u'NP')
+('Mac', '->', u'NP')
+('Ray', '->', u'NP')
+('Warner', '->', u'NP')
+('Hard', '->', u'NP')
+('Mac', '->', u'NP')
+('Case', '->', u'NP')
+('Speed', '->', u'NP')
+('Black', '->', u'NP')
+('Siberia', '->', u'NP')
+('Hard', '->', u'NP')
+('Sylvania', '->', u'NP')
+('Mac', '->', u'NP')
+('G', '->', u'NP')
+('Ares', '->', u'NP')
+('Black', '->', u'NP')
+('Hard', '->', u'NP')
+('Warner', '->', u'NP')
+('Cable', '->', u'NP')
+('Mac', '->', u'NP')
+('Black', '->', u'NP')
+('Mac', '->', u'NP')
+('S', '->', u'NP')
+('T', '->', u'NP')
+('Tech', '->', u'NP')
+('Black', '->', u'NP')
+('Friend', '->', u'NP')
+('Del', '->', u'NP')
+('Don', '->', u'NP')
+('Mac', '->', u'NP')
+('Mac', '->', u'NP')
+('Java', '->', u'NP')
+('Key', '->', u'NP')
+('Hard', '->', u'NP')
+('E', '->', u'NP')
+('E', '->', u'NP')
+('Weeks', '->', u'NP')
+('Green', '->', u'NP')
+('RCA', '->', u'NP')
+('Hard', '->', u'NP')
+('Mac', '->', u'NP')
+('Hard', '->', u'NP')
+('Don', '->', u'NP')
+('Hard', '->', u'NP')
+63 
+
+14181

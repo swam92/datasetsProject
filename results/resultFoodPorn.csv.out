@@ -1,0 +1,11 @@
+FoodPorn.csv
+0
+Sentiment(classification='neg', p_pos=0.1747437092264674, p_neg=0.82525629077353202)
+
+
+1
+Sentiment(classification='pos', p_pos=0.69447196231387687, p_neg=0.30552803768612186)
+
+
+
+

@@ -1,0 +1,54 @@
+firstimpression.csv
+0
+Sentiment(classification='pos', p_pos=0.70796787587329824, p_neg=0.2920321241267016)
+
+
+1
+Sentiment(classification='neg', p_pos=0.4188155547210376, p_neg=0.58118444527896163)
+
+
+
+
+0.0583333333333 0.108333333333 0.436608284703 0.563391715297
+0
+Your impression?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Black', '->', u'NP')
+('Sarah', '->', u'NP')
+('Jessica', '->', u'NP')
+('Parker', '->', u'NP')
+('Halloween', '->', u'NP')
+('Pretty', '->', u'NP')
+('Black', '->', u'NP')
+('Don', '->', u'NP')
+('Thomas', '->', u'NP')
+('Tommy', '->', u'NP')
+('Tom', '->', u'NP')
+('F', '->', u'NP')
+('F', '->', u'NP')
+('F', '->', u'NP')
+('F', '->', u'NP')
+('Don', '->', u'NP')
+('F', '->', u'NP')
+('Sunny', '->', u'NP')
+('Minneapolis', '->', u'NP')
+('Joe', '->', u'NP')
+('Worth', '->', u'NP')
+('Kelly', '->', u'NP')
+('Doc', '->', u'NP')
+('Georgia', '->', u'NP')
+('Friend', '->', u'NP')
+('Nan', '->', u'NP')
+('America', '->', u'NP')
+('F', '->', u'NP')
+('Halloween', '->', u'NP')
+('Tim', '->', u'NP')
+('May', '->', u'NP')
+('Sparta', '->', u'NP')
+('F', '->', u'NP')
+('Sandwich', '->', u'NP')
+('Pretty', '->', u'NP')
+('F', '->', u'NP')
+36 
+
+9446

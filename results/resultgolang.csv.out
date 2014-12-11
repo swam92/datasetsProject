@@ -1,0 +1,11 @@
+golang.csv
+0
+Sentiment(classification='neg', p_pos=0.48279220779220783, p_neg=0.51720779220779223)
+
+
+1
+Sentiment(classification='pos', p_pos=0.63612818379451941, p_neg=0.36387181620548059)
+
+
+
+

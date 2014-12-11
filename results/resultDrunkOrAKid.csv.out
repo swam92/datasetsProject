@@ -1,0 +1,46 @@
+DrunkOrAKid.csv
+0
+Sentiment(classification='neg', p_pos=0.15530936778202054, p_neg=0.84469063221797902)
+
+
+1
+Sentiment(classification='pos', p_pos=0.86051576261549267, p_neg=0.13948423738450622)
+
+
+
+
+0.0297619047619 0.589285714286 0.492087434801 0.507912565199
+0
+Went in to kiss my girlfriend. Puked on her shirt.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('George', '->', u'NP')
+('George', '->', u'NP')
+('Broadway', '->', u'NP')
+('Peter', '->', u'NP')
+('Tarzan', '->', u'NP')
+('Christmas', '->', u'NP')
+('Easter', '->', u'NP')
+('Cumberland', '->', u'NP')
+('Angelina', '->', u'NP')
+('Rocky', '->', u'NP')
+('Pee', '->', u'NP')
+('Charlie', '->', u'NP')
+('Halloween', '->', u'NP')
+('Hitler', '->', u'NP')
+('Christmas', '->', u'NP')
+('Estes', '->', u'NP')
+('Bill', '->', u'NP')
+('Clinton', '->', u'NP')
+('Bill', '->', u'NP')
+('Clinton', '->', u'NP')
+('Friend', '->', u'NP')
+('Swing', '->', u'NP')
+('Tarzan', '->', u'NP')
+('Short', '->', u'NP')
+('Pete', '->', u'NP')
+('Don', '->', u'NP')
+('Christmas', '->', u'NP')
+('Christmas', '->', u'NP')
+28 
+
+10299

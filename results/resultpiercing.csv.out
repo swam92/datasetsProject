@@ -1,0 +1,58 @@
+piercing.csv
+0
+Sentiment(classification='pos', p_pos=0.56818181818181834, p_neg=0.43181818181818171)
+
+
+1
+Sentiment(classification='pos', p_pos=0.81146731634217451, p_neg=0.18853268365782769)
+
+
+
+
+-0.1 0.4 0.310175432738 0.689824567262
+0
+New Vertical Labret
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Dublin', '->', u'NP')
+('Germantown', '->', u'NP')
+('B', '->', u'NP')
+('E', '->', u'NP')
+('U', '->', u'NP')
+('T', '->', u'NP')
+('Halloween', '->', u'NP')
+('Cincinnati', '->', u'NP')
+('Noah', '->', u'NP')
+('Babcock', '->', u'NP')
+('Chris', '->', u'NP')
+('Sims', '->', u'NP')
+('Minnesota', '->', u'NP')
+('Germany', '->', u'NP')
+('Boston', '->', u'NP')
+('Albert', '->', u'NP')
+('Ryan', '->', u'NP')
+('Lee', '->', u'NP')
+('Loving', '->', u'NP')
+('Cody', '->', u'NP')
+('Africa', '->', u'NP')
+('Don', '->', u'NP')
+('Northampton', '->', u'NP')
+('K', '->', u'NP')
+('K', '->', u'NP')
+('Boulder', '->', u'NP')
+('Arizona', '->', u'NP')
+('Malcolm', '->', u'NP')
+('Christmas', '->', u'NP')
+('Matt', '->', u'NP')
+('Boston', '->', u'NP')
+('Monroe', '->', u'NP')
+('Gee', '->', u'NP')
+('Winnipeg', '->', u'NP')
+('Don', '->', u'NP')
+('Arctic', '->', u'NP')
+('Miss', '->', u'NP')
+('Don', '->', u'NP')
+('Don', '->', u'NP')
+('Austin', '->', u'NP')
+40 
+
+5587

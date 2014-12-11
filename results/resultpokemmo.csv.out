@@ -1,0 +1,59 @@
+pokemmo.csv
+0
+Sentiment(classification='pos', p_pos=0.74759700230092518, p_neg=0.2524029976990752)
+
+
+1
+Sentiment(classification='neg', p_pos=0.10399400416603821, p_neg=0.89600599583396279)
+
+
+
+
+0.0675 0.49 0.574204496767 0.425795503233
+0
+probably the best name I've seen yet
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Don', '->', u'NP')
+('Jesus', '->', u'NP')
+('Doc', '->', u'NP')
+('Friend', '->', u'NP')
+('Kanto', '->', u'NP')
+('F', '->', u'NP')
+('Don', '->', u'NP')
+('B', '->', u'NP')
+('France', '->', u'NP')
+('Kanto', '->', u'NP')
+('Mac', '->', u'NP')
+('App', '->', u'NP')
+('Dawn', '->', u'NP')
+('Breeding', '->', u'NP')
+('Mac', '->', u'NP')
+('Brazil', '->', u'NP')
+('B', '->', u'NP')
+('Friend', '->', u'NP')
+('Mac', '->', u'NP')
+('Lorelei', '->', u'NP')
+('Mac', '->', u'NP')
+('Case', '->', u'NP')
+('Mac', '->', u'NP')
+('Mac', '->', u'NP')
+('Alpha', '->', u'NP')
+('Mac', '->', u'NP')
+('China', '->', u'NP')
+('Mac', '->', u'NP')
+('Kanto', '->', u'NP')
+('Breeding', '->', u'NP')
+('April', '->', u'NP')
+('Pick', '->', u'NP')
+('Mac', '->', u'NP')
+('Mac', '->', u'NP')
+('T', '->', u'NP')
+('Halloween', '->', u'NP')
+('Nick', '->', u'NP')
+('mister', '->', u'NP')
+('Mac', '->', u'NP')
+('Player', '->', u'NP')
+('Friend', '->', u'NP')
+41 
+
+5201

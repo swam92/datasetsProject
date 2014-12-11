@@ -1,0 +1,82 @@
+everymanshouldknow.csv
+0
+Sentiment(classification='neg', p_pos=0.4860497096773071, p_neg=0.51395029032269302)
+
+
+1
+Sentiment(classification='neg', p_pos=0.47492085832365027, p_neg=0.52507914167635006)
+
+
+
+
+-0.155555555556 0.288888888889 0.519514716 0.480485284
+0
+EMSK the 5 Accessories That Automatically Make You a Douchebag
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Anthony', '->', u'NP')
+('Ron', '->', u'NP')
+('Rudyard', '->', u'NP')
+('Kipling', '->', u'NP')
+('Guy', '->', u'NP')
+('Don', '->', u'NP')
+('Cook', '->', u'NP')
+('Bond', '->', u'NP')
+('Anton', '->', u'NP')
+('Chekhov', '->', u'NP')
+('Plane', '->', u'NP')
+('Robert', '->', u'NP')
+('E', '->', u'NP')
+('Lee', '->', u'NP')
+('Alpha', '->', u'NP')
+('B', '->', u'NP')
+('Barber', '->', u'NP')
+('Job', '->', u'NP')
+('Fish', '->', u'NP')
+('Craft', '->', u'NP')
+('Jeff', '->', u'NP')
+('Conan', '->', u'NP')
+('Self', '->', u'NP')
+('Self', '->', u'NP')
+('Valentine', '->', u'NP')
+('Sharp', '->', u'NP')
+('Fish', '->', u'NP')
+('John', '->', u'NP')
+('Valentine', '->', u'NP')
+('Manhattan', '->', u'NP')
+('Pick', '->', u'NP')
+('Lock', '->', u'NP')
+('Buddha', '->', u'NP')
+('Brandon', '->', u'NP')
+('Scott', '->', u'NP')
+('June', '->', u'NP')
+('Sullivan', '->', u'NP')
+('John', '->', u'NP')
+('Walter', '->', u'NP')
+('Flip', '->', u'NP')
+('Flint', '->', u'NP')
+('Burger', '->', u'NP')
+('G', '->', u'NP')
+('Bond', '->', u'NP')
+('Windsor', '->', u'NP')
+('Self', '->', u'NP')
+('Brew', '->', u'NP')
+('Sober', '->', u'NP')
+('Pick', '->', u'NP')
+('Alex', '->', u'NP')
+('Bacon', '->', u'NP')
+('Walt', '->', u'NP')
+('Kowalski', '->', u'NP')
+('Gallon', '->', u'NP')
+('Kentucky', '->', u'NP')
+('Skip', '->', u'NP')
+('Vegas', '->', u'NP')
+('Pretty', '->', u'NP')
+('Bacon', '->', u'NP')
+('Bourbon', '->', u'NP')
+('James', '->', u'NP')
+('Bond', '->', u'NP')
+('Ron', '->', u'NP')
+('Don', '->', u'NP')
+64 
+
+7845

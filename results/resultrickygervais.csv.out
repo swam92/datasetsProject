@@ -1,0 +1,11 @@
+rickygervais.csv
+0
+Sentiment(classification='pos', p_pos=0.96768220422674189, p_neg=0.032317795773256941)
+
+
+1
+Sentiment(classification='neg', p_pos=0.26154423755071166, p_neg=0.7384557624492879)
+
+
+
+

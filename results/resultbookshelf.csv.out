@@ -1,0 +1,77 @@
+bookshelf.csv
+0
+Sentiment(classification='pos', p_pos=0.88104496839972668, p_neg=0.11895503160027251)
+
+
+1
+Sentiment(classification='pos', p_pos=0.97714857756379858, p_neg=0.022851422436202317)
+
+
+
+
+0.0 0.55 0.0709032270182 0.929096772982
+0
+This is now my one and only bookshelf
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('June', '->', u'NP')
+('Afghan', '->', u'NP')
+('Abraham', '->', u'NP')
+('Lincoln', '->', u'NP')
+('San', '->', u'NP')
+('Diego', '->', u'NP')
+('Stephen', '->', u'NP')
+('Stephen', '->', u'NP')
+('Thomas', '->', u'NP')
+('Paine', '->', u'NP')
+('Black', '->', u'NP')
+('Seattle', '->', u'NP')
+('Louis', '->', u'NP')
+('Bonaparte', '->', u'NP')
+('Holland', '->', u'NP')
+('Napoleon', '->', u'NP')
+('Bonaparte', '->', u'NP')
+('California', '->', u'NP')
+('Lot', '->', u'NP')
+('Karl', '->', u'NP')
+('K', '->', u'NP')
+('Austria', '->', u'NP')
+('Australia', '->', u'NP')
+('Stephen', '->', u'NP')
+('Stephen', '->', u'NP')
+('Marxist', '->', u'NP')
+('Don', '->', u'NP')
+('Lot', '->', u'NP')
+('Holmes', '->', u'NP')
+('Australian', '->', u'NP')
+('Billy', '->', u'NP')
+('Balzac', '->', u'NP')
+('Christmas', '->', u'NP')
+('Charles', '->', u'NP')
+('Neil', '->', u'NP')
+('K', '->', u'NP')
+('Stephen', '->', u'NP')
+('Barnes', '->', u'NP')
+('Bob', '->', u'NP')
+('Christmas', '->', u'NP')
+('Paris', '->', u'NP')
+('Germany', '->', u'NP')
+('Heard', '->', u'NP')
+('Rex', '->', u'NP')
+('Stout', '->', u'NP')
+('K', '->', u'NP')
+('Wales', '->', u'NP')
+('Sinatra', '->', u'NP')
+('Self', '->', u'NP')
+('Calvin', '->', u'NP')
+('Hobbes', '->', u'NP')
+('Neil', '->', u'NP')
+('Montreal', '->', u'NP')
+('Armageddon', '->', u'NP')
+('Don', '->', u'NP')
+('India', '->', u'NP')
+('Trinity', '->', u'NP')
+('Dublin', '->', u'NP')
+('Ireland', '->', u'NP')
+59 
+
+11427

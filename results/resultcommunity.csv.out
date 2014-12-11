@@ -1,0 +1,11 @@
+community.csv
+0
+Sentiment(classification='pos', p_pos=0.5308884763281102, p_neg=0.46911152367188969)
+
+
+1
+Sentiment(classification='pos', p_pos=0.88654692881451391, p_neg=0.11345307118548492)
+
+
+
+

@@ -1,0 +1,11 @@
+bearsdoinghumanthings.csv
+0
+Sentiment(classification='neg', p_pos=0.38576088008071097, p_neg=0.61423911991928937)
+
+
+1
+Sentiment(classification='pos', p_pos=0.54347826086956519, p_neg=0.4565217391304347)
+
+
+
+

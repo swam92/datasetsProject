@@ -1,0 +1,46 @@
+IWantToLearn.csv
+0
+Sentiment(classification='pos', p_pos=0.53701393577662193, p_neg=0.46298606422337835)
+
+
+1
+Sentiment(classification='pos', p_pos=0.71478536787741409, p_neg=0.28521463212258497)
+
+
+
+
+-0.0255681818182 0.477272727273 0.374100348173 0.625899651827
+0
+IWTL better control over my facial expressions
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Sherlock', '->', u'NP')
+('Holmes', '->', u'NP')
+('Cologne', '->', u'NP')
+('Case', '->', u'NP')
+('Vegas', '->', u'NP')
+('Don', '->', u'NP')
+('Sims', '->', u'NP')
+('June', '->', u'NP')
+('U', '->', u'NP')
+('S', '->', u'NP')
+('Canada', '->', u'NP')
+('Cook', '->', u'NP')
+('Bond', '->', u'NP')
+('England', '->', u'NP')
+('America', '->', u'NP')
+('E', '->', u'NP')
+('Dvorak', '->', u'NP')
+('E', '->', u'NP')
+('Wood', '->', u'NP')
+('Lock', '->', u'NP')
+('Pick', '->', u'NP')
+('China', '->', u'NP')
+('Shakespeare', '->', u'NP')
+('Wolf', '->', u'NP')
+('F', '->', u'NP')
+('Worth', '->', u'NP')
+('Black', '->', u'NP')
+('Jack', '->', u'NP')
+28 
+
+10483

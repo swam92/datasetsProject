@@ -1,0 +1,11 @@
+opendirectories.csv
+0
+Sentiment(classification='pos', p_pos=0.71167028650648756, p_neg=0.28832971349351322)
+
+
+1
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+
+

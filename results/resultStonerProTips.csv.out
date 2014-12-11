@@ -1,0 +1,66 @@
+StonerProTips.csv
+0
+Sentiment(classification='neg', p_pos=0.42814166313947244, p_neg=0.57185833686052689)
+
+
+1
+Sentiment(classification='pos', p_pos=0.51464646148256399, p_neg=0.48535353851743807)
+
+
+
+
+0.08125 0.85625 0.528605937689 0.471394062311
+0
+Quick question
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Don', '->', u'NP')
+('April', '->', u'NP')
+('Showers', '->', u'NP')
+('Roach', '->', u'NP')
+('Thomas', '->', u'NP')
+('Jefferson', '->', u'NP')
+('Pick', '->', u'NP')
+('Wick', '->', u'NP')
+('Bacon', '->', u'NP')
+('Roach', '->', u'NP')
+('T', '->', u'NP')
+('Bucky', '->', u'NP')
+('Bobby', '->', u'NP')
+('Don', '->', u'NP')
+('Marvin', '->', u'NP')
+('Grey', '->', u'NP')
+('Black', '->', u'NP')
+('Jay', '->', u'NP')
+('Don', '->', u'NP')
+('Key', '->', u'NP')
+('Tower', '->', u'NP')
+('Don', '->', u'NP')
+('Case', '->', u'NP')
+('Don', '->', u'NP')
+('Don', '->', u'NP')
+('Mason', '->', u'NP')
+('Jay', '->', u'NP')
+('Don', '->', u'NP')
+('S', '->', u'NP')
+('Lemon', '->', u'NP')
+('Don', '->', u'NP')
+('Brush', '->', u'NP')
+('Herb', '->', u'NP')
+('Leatherman', '->', u'NP')
+('Jamaica', '->', u'NP')
+('Gram', '->', u'NP')
+('F', '->', u'NP')
+('Jamaican', '->', u'NP')
+('Bake', '->', u'NP')
+('Seattle', '->', u'NP')
+('Bud', '->', u'NP')
+('Bud', '->', u'NP')
+('T', '->', u'NP')
+('S', '->', u'NP')
+('Ti', '->', u'NP')
+('Don', '->', u'NP')
+('Don', '->', u'NP')
+('Roach', '->', u'NP')
+48 
+
+13261

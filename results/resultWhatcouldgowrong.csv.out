@@ -1,0 +1,45 @@
+Whatcouldgowrong.csv
+0
+Sentiment(classification='neg', p_pos=0.49966356546433288, p_neg=0.50033643453566745)
+
+
+1
+Sentiment(classification='neg', p_pos=0.31114551083591335, p_neg=0.6888544891640862)
+
+
+
+
+0.6 0.9 0.59459546185 0.40540453815
+0
+The Avengers should add her. She addresses a major team weakness.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Swing', '->', u'NP')
+('Harlem', '->', u'NP')
+('Snow', '->', u'NP')
+('Chris', '->', u'NP')
+('Benoit', '->', u'NP')
+('Guy', '->', u'NP')
+('Guy', '->', u'NP')
+('William', '->', u'NP')
+('Guy', '->', u'NP')
+('Che', '->', u'NP')
+('Boris', '->', u'NP')
+('Guy', '->', u'NP')
+('Coke', '->', u'NP')
+('Harlem', '->', u'NP')
+('Skip', '->', u'NP')
+('Guy', '->', u'NP')
+('Guy', '->', u'NP')
+('Swing', '->', u'NP')
+('Guy', '->', u'NP')
+('America', '->', u'NP')
+('Guy', '->', u'NP')
+('Thailand', '->', u'NP')
+('Skip', '->', u'NP')
+('Gore', '->', u'NP')
+('Guy', '->', u'NP')
+('Sweden', '->', u'NP')
+('Guy', '->', u'NP')
+27 
+
+3054

@@ -1,0 +1,81 @@
+askdrugs.csv
+0
+Sentiment(classification='neg', p_pos=0.43970222310813062, p_neg=0.56029777689186833)
+
+
+1
+Sentiment(classification='neg', p_pos=0.20638088254583853, p_neg=0.79361911745416103)
+
+
+
+
+-0.275 0.45 0.676958447173 0.323041552827
+0
+Has anyone else experience "Musical Genesis" after doing a decent amount of phenethylamines and the RC counter parts? 
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Barrett', '->', u'NP')
+('Sellers', '->', u'NP')
+('Molly', '->', u'NP')
+('Halloween', '->', u'NP')
+('Argentina', '->', u'NP')
+('S', '->', u'NP')
+('Colorado', '->', u'NP')
+('San', '->', u'NP')
+('Pedro', '->', u'NP')
+('Speed', '->', u'NP')
+('Portugal', '->', u'NP')
+('March', '->', u'NP')
+('April', '->', u'NP')
+('B', '->', u'NP')
+('B', '->', u'NP')
+('Minnesota', '->', u'NP')
+('U', '->', u'NP')
+('S', '->', u'NP')
+('Washington', '->', u'NP')
+('U', '->', u'NP')
+('S', '->', u'NP')
+('Weeks', '->', u'NP')
+('Halloween', '->', u'NP')
+('B', '->', u'NP')
+('Molly', '->', u'NP')
+('K', '->', u'NP')
+('Coke', '->', u'NP')
+('June', '->', u'NP')
+('Marquis', '->', u'NP')
+('Dexedrine', '->', u'NP')
+('San', '->', u'NP')
+('Pedro', '->', u'NP')
+('L', '->', u'NP')
+('Hollywood', '->', u'NP')
+('Molly', '->', u'NP')
+('San', '->', u'NP')
+('Pedro', '->', u'NP')
+('Molly', '->', u'NP')
+('Dexedrine', '->', u'NP')
+('Molly', '->', u'NP')
+('Showers', '->', u'NP')
+('Molly', '->', u'NP')
+('K', '->', u'NP')
+('Beta', '->', u'NP')
+('Molly', '->', u'NP')
+('Friend', '->', u'NP')
+('K', '->', u'NP')
+('San', '->', u'NP')
+('Pedro', '->', u'NP')
+('Paris', '->', u'NP')
+('Molly', '->', u'NP')
+('Amsterdam', '->', u'NP')
+('Powell', '->', u'NP')
+('Tucson', '->', u'NP')
+('Molly', '->', u'NP')
+('Al', '->', u'NP')
+('E', '->', u'NP')
+('Coke', '->', u'NP')
+('Speed', '->', u'NP')
+('B', '->', u'NP')
+('E', '->', u'NP')
+('Dexedrine', '->', u'NP')
+('Oregon', '->', u'NP')
+63 
+
+11409

@@ -1,0 +1,11 @@
+breakingbad.csv
+0
+Sentiment(classification='neg', p_pos=0.28567395556891806, p_neg=0.71432604443108094)
+
+
+1
+Sentiment(classification='pos', p_pos=0.59638512635053775, p_neg=0.4036148736494623)
+
+
+
+

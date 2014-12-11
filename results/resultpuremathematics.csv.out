@@ -1,0 +1,61 @@
+puremathematics.csv
+0
+Sentiment(classification='pos', p_pos=0.50499999999999945, p_neg=0.49500000000000005)
+
+
+1
+Sentiment(classification='pos', p_pos=0.94563274558492783, p_neg=0.054367254415074194)
+
+
+
+
+-0.0583333333333 0.3 0.274683627208 0.725316372792
+0
+Need help with a hyperbolic equation
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Kahn', '->', u'NP')
+('Terry', '->', u'NP')
+('Tao', '->', u'NP')
+('Tao', '->', u'NP')
+('S', '->', u'NP')
+('L', '->', u'NP')
+('Paul', '->', u'NP')
+('Jean', '->', u'NP')
+('Pierre', '->', u'NP')
+('Arnold', '->', u'NP')
+('Tao', '->', u'NP')
+('Miles', '->', u'NP')
+('Reid', '->', u'NP')
+('Erdos', '->', u'NP')
+('L', '->', u'NP')
+('N', '->', u'NP')
+('N', '->', u'NP')
+('N', '->', u'NP')
+('Low', '->', u'NP')
+('N', '->', u'NP')
+('N', '->', u'NP')
+('Morse', '->', u'NP')
+('T', '->', u'NP')
+('Tao', '->', u'NP')
+('Foote', '->', u'NP')
+('Fields', '->', u'NP')
+('Timothy', '->', u'NP')
+('Perelman', '->', u'NP')
+('S', '->', u'NP')
+('Taylor', '->', u'NP')
+('G', '->', u'NP')
+('G', '->', u'NP')
+('G', '->', u'NP')
+('G', '->', u'NP')
+('G', '->', u'NP')
+('Tate', '->', u'NP')
+('Laplace', '->', u'NP')
+('L', '->', u'NP')
+('W', '->', u'NP')
+('Graham', '->', u'NP')
+('Don', '->', u'NP')
+('T', '->', u'NP')
+('F', '->', u'NP')
+43 
+
+2605

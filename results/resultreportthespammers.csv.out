@@ -1,0 +1,11 @@
+reportthespammers.csv
+0
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+1
+Sentiment(classification='pos', p_pos=0.75194502074688796, p_neg=0.24805497925311173)
+
+
+
+

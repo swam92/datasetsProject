@@ -1,0 +1,11 @@
+IDAP.csv
+0
+Sentiment(classification='pos', p_pos=0.68181818181818143, p_neg=0.31818181818181845)
+
+
+1
+Sentiment(classification='neg', p_pos=0.24999999999999969, p_neg=0.75)
+
+
+
+

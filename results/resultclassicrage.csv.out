@@ -1,0 +1,11 @@
+classicrage.csv
+0
+Sentiment(classification='pos', p_pos=0.80434782608695665, p_neg=0.19565217391304307)
+
+
+1
+Sentiment(classification='neg', p_pos=0.13642339741510734, p_neg=0.86357660258489211)
+
+
+
+

@@ -1,0 +1,11 @@
+Bento.csv
+0
+Sentiment(classification='pos', p_pos=0.6809813394394395, p_neg=0.3190186605605615)
+
+
+1
+Sentiment(classification='neg', p_pos=0.14999999999999949, p_neg=0.8500000000000002)
+
+
+
+

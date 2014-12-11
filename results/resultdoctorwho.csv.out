@@ -1,0 +1,11 @@
+doctorwho.csv
+0
+Sentiment(classification='pos', p_pos=0.62854729896361283, p_neg=0.371452701036385)
+
+
+1
+Sentiment(classification='neg', p_pos=0.49844221779149317, p_neg=0.50155778220850655)
+
+
+
+

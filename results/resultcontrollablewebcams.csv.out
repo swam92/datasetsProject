@@ -1,0 +1,11 @@
+controllablewebcams.csv
+0
+Sentiment(classification='pos', p_pos=0.65474411281385414, p_neg=0.34525588718614475)
+
+
+1
+Sentiment(classification='neg', p_pos=0.25381153604032464, p_neg=0.74618846395967575)
+
+
+
+

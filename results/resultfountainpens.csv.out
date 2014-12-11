@@ -1,0 +1,11 @@
+fountainpens.csv
+0
+Sentiment(classification='neg', p_pos=0.21793607364045159, p_neg=0.78206392635954813)
+
+
+1
+Sentiment(classification='pos', p_pos=0.74865637669277874, p_neg=0.25134362330722043)
+
+
+
+

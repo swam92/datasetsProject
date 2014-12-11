@@ -1,0 +1,40 @@
+pregnant.csv
+0
+Sentiment(classification='neg', p_pos=0.13028365707788497, p_neg=0.86971634292211564)
+
+
+1
+Sentiment(classification='neg', p_pos=0.38617086425534103, p_neg=0.61382913574465947)
+
+
+
+
+0.591666666667 0.866666666667 0.741772739333 0.258227260667
+0
+Top 5 - Early Pregnancy Detection Kits
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Weeks', '->', u'NP')
+('Kate', '->', u'NP')
+('Halloween', '->', u'NP')
+('Zoe', '->', u'NP')
+('Williams', '->', u'NP')
+('Flip', '->', u'NP')
+('Weeks', '->', u'NP')
+('Dos', '->', u'NP')
+('Don', '->', u'NP')
+('Skip', '->', u'NP')
+('Swim', '->', u'NP')
+('Weeks', '->', u'NP')
+('Friend', '->', u'NP')
+('Winter', '->', u'NP')
+('Don', '->', u'NP')
+('Weeks', '->', u'NP')
+('Doppler', '->', u'NP')
+('AMA', '->', u'NP')
+('Heard', '->', u'NP')
+('June', '->', u'NP')
+('Weeks', '->', u'NP')
+('Le', '->', u'NP')
+22 
+
+4609

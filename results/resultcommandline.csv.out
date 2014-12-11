@@ -1,0 +1,54 @@
+commandline.csv
+0
+Sentiment(classification='neg', p_pos=0.40977649813141853, p_neg=0.59022350186857986)
+
+
+1
+Sentiment(classification='neg', p_pos=0.4085735754533909, p_neg=0.59142642454660699)
+
+
+
+
+0.225 0.366666666667 0.590824963208 0.409175036792
+0
+Find and regex to search for file names with both single and double digit numbers. 
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Friend', '->', u'NP')
+('Cool', '->', u'NP')
+('Fish', '->', u'NP')
+('Case', '->', u'NP')
+('Cool', '->', u'NP')
+('K', '->', u'NP')
+('L', '->', u'NP')
+('Scott', '->', u'NP')
+('Adams', '->', u'NP')
+('S', '->', u'NP')
+('Pandora', '->', u'NP')
+('Don', '->', u'NP')
+('Speed', '->', u'NP')
+('Brace', '->', u'NP')
+('Don', '->', u'NP')
+('Self', '->', u'NP')
+('Conway', '->', u'NP')
+('Aldo', '->', u'NP')
+('Alex', '->', u'NP')
+('Collins', '->', u'NP')
+('Short', '->', u'NP')
+('Key', '->', u'NP')
+('S', '->', u'NP')
+('Case', '->', u'NP')
+('Cool', '->', u'NP')
+('Mac', '->', u'NP')
+('Neal', '->', u'NP')
+('Stephenson', '->', u'NP')
+('Fish', '->', u'NP')
+('K', '->', u'NP')
+('Mac', '->', u'NP')
+('Mac', '->', u'NP')
+('Marvin', '->', u'NP')
+('Jeff', '->', u'NP')
+('E', '->', u'NP')
+('Mac', '->', u'NP')
+36 
+
+11683

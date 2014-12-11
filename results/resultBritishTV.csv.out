@@ -1,0 +1,11 @@
+BritishTV.csv
+0
+Sentiment(classification='neg', p_pos=0.30824890492371343, p_neg=0.69175109507628607)
+
+
+1
+Sentiment(classification='pos', p_pos=0.79277331458580058, p_neg=0.20722668541419759)
+
+
+
+

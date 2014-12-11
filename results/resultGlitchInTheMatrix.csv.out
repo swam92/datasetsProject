@@ -1,0 +1,21 @@
+GlitchInTheMatrix.csv
+0
+Sentiment(classification='neg', p_pos=0.47291345987565681, p_neg=0.52708654012434408)
+
+
+1
+Sentiment(classification='pos', p_pos=0.56900297484265239, p_neg=0.43099702515735011)
+
+
+
+
+-0.00654761904762 0.712433862434 0.479041782641 0.520958217359
+0
+Microwave Clock/Time glitch
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Christmas', '->', u'NP')
+('Charles', '->', u'NP')
+('Job', '->', u'NP')
+3 
+
+963

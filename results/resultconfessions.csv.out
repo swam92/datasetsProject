@@ -1,0 +1,62 @@
+confessions.csv
+0
+Sentiment(classification='neg', p_pos=0.23100803687888052, p_neg=0.76899196312111773)
+
+
+1
+Sentiment(classification='pos', p_pos=0.58875390570325192, p_neg=0.41124609429674902)
+
+
+
+
+0.104166666667 0.868055555556 0.590119028709 0.409880971291
+0
+Nobody believes me...
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Bangkok', '->', u'NP')
+('September', '->', u'NP')
+('Harry', '->', u'NP')
+('Potter', '->', u'NP')
+('Gay', '->', u'NP')
+('Sims', '->', u'NP')
+('Christmas', '->', u'NP')
+('F', '->', u'NP')
+('Boston', '->', u'NP')
+('Dick', '->', u'NP')
+('Kate', '->', u'NP')
+('God', '->', u'NP')
+('Mormon', '->', u'NP')
+('Delta', '->', u'NP')
+('Dallas', '->', u'NP')
+('Detroit', '->', u'NP')
+('Connecticut', '->', u'NP')
+('Zimmerman', '->', u'NP')
+('Santa', '->', u'NP')
+('Claus', '->', u'NP')
+('Christmas', '->', u'NP')
+('Short', '->', u'NP')
+('Fil', '->', u'NP')
+('Ralph', '->', u'NP')
+('Guy', '->', u'NP')
+('Cherokee', '->', u'NP')
+('Christmas', '->', u'NP')
+('T', '->', u'NP')
+('Ellen', '->', u'NP')
+('Hook', '->', u'NP')
+('Ann', '->', u'NP')
+('Roger', '->', u'NP')
+('Friend', '->', u'NP')
+('Martin', '->', u'NP')
+('Cheat', '->', u'NP')
+('AMA', '->', u'NP')
+('Europe', '->', u'NP')
+('Don', '->', u'NP')
+('Michael', '->', u'NP')
+('Jackson', '->', u'NP')
+('Friend', '->', u'NP')
+('Dallas', '->', u'NP')
+('Pretty', '->', u'NP')
+('James', '->', u'NP')
+44 
+
+13548

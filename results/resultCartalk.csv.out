@@ -1,0 +1,11 @@
+Cartalk.csv
+0
+Sentiment(classification='neg', p_pos=0.42704110416421237, p_neg=0.57295889583578774)
+
+
+1
+Sentiment(classification='pos', p_pos=0.83099858836811968, p_neg=0.1690014116318784)
+
+
+
+

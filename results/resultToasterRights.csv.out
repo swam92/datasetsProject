@@ -1,0 +1,57 @@
+ToasterRights.csv
+0
+Sentiment(classification='pos', p_pos=0.682233980545221, p_neg=0.31776601945477856)
+
+
+1
+Sentiment(classification='neg', p_pos=0.26825803127331138, p_neg=0.73174196872668973)
+
+
+
+
+0.09375 1.0 0.524753994091 0.475246005909
+0
+This fills me with joy.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('David', '->', u'NP')
+('Stephen', '->', u'NP')
+('David', '->', u'NP')
+('Rosa', '->', u'NP')
+('George', '->', u'NP')
+('London', '->', u'NP')
+('Truman', '->', u'NP')
+('Gay', '->', u'NP')
+('Bacon', '->', u'NP')
+('Don', '->', u'NP')
+('Fred', '->', u'NP')
+('G', '->', u'NP')
+('Meyer', '->', u'NP')
+('Jesus', '->', u'NP')
+('Halloween', '->', u'NP')
+('Pretty', '->', u'NP')
+('B', '->', u'NP')
+('B', '->', u'NP')
+('T', '->', u'NP')
+('Satan', '->', u'NP')
+('Tyler', '->', u'NP')
+('London', '->', u'NP')
+('Dave', '->', u'NP')
+('Gun', '->', u'NP')
+('Ted', '->', u'NP')
+('Christmas', '->', u'NP')
+('Self', '->', u'NP')
+('Heywood', '->', u'NP')
+('Mike', '->', u'NP')
+('Christianity', '->', u'NP')
+('L', '->', u'NP')
+('G', '->', u'NP')
+('B', '->', u'NP')
+('T', '->', u'NP')
+('AMA', '->', u'NP')
+('T', '->', u'NP')
+('Hub', '->', u'NP')
+('John', '->', u'NP')
+('PM', '->', u'NP')
+39 
+
+5030

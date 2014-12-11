@@ -1,0 +1,67 @@
+askgaybros.csv
+0
+Sentiment(classification='pos', p_pos=0.70708836987108947, p_neg=0.29291163012890981)
+
+
+1
+Sentiment(classification='neg', p_pos=0.34901866918792013, p_neg=0.65098133081207943)
+
+
+
+
+0.425 0.825 0.47194648047 0.52805351953
+0
+Not sure about roles
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Dick', '->', u'NP')
+('June', '->', u'NP')
+('Gay', '->', u'NP')
+('Gay', '->', u'NP')
+('Younger', '->', u'NP')
+('Flip', '->', u'NP')
+('G', '->', u'NP')
+('Self', '->', u'NP')
+('May', '->', u'NP')
+('Gay', '->', u'NP')
+('AMA', '->', u'NP')
+('Friend', '->', u'NP')
+('May', '->', u'NP')
+('Skinny', '->', u'NP')
+('Gay', '->', u'NP')
+('Younger', '->', u'NP')
+('Hook', '->', u'NP')
+('Hard', '->', u'NP')
+('Guy', '->', u'NP')
+('Guy', '->', u'NP')
+('Gay', '->', u'NP')
+('Valentine', '->', u'NP')
+('Self', '->', u'NP')
+('Gay', '->', u'NP')
+('Valentine', '->', u'NP')
+('Madonna', '->', u'NP')
+('Oder', '->', u'NP')
+('S', '->', u'NP')
+('Friend', '->', u'NP')
+('Cool', '->', u'NP')
+('Albany', '->', u'NP')
+('G', '->', u'NP')
+('Guy', '->', u'NP')
+('Chicago', '->', u'NP')
+('Minneapolis', '->', u'NP')
+('U', '->', u'NP')
+('Ireland', '->', u'NP')
+('Gay', '->', u'NP')
+('Gay', '->', u'NP')
+('U', '->', u'NP')
+('S', '->', u'NP')
+('Pick', '->', u'NP')
+('Hook', '->', u'NP')
+('Guy', '->', u'NP')
+('San', '->', u'NP')
+('Francisco', '->', u'NP')
+('Seattle', '->', u'NP')
+('Gay', '->', u'NP')
+('Met', '->', u'NP')
+49 
+
+11098

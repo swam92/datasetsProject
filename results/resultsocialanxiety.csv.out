@@ -1,0 +1,71 @@
+socialanxiety.csv
+0
+Sentiment(classification='pos', p_pos=0.73194812718528335, p_neg=0.26805187281471743)
+
+
+1
+Sentiment(classification='pos', p_pos=0.64768068168734017, p_neg=0.35231931831265961)
+
+
+
+
+0.141666666667 0.333333333333 0.310185595564 0.689814404436
+0
+DAE have a few friends but never want to hang out with them?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('May', '->', u'NP')
+('Jane', '->', u'NP')
+('Met', '->', u'NP')
+('AMA', '->', u'NP')
+('Daniel', '->', u'NP')
+('Daniel', '->', u'NP')
+('Don', '->', u'NP')
+('Friend', '->', u'NP')
+('Don', '->', u'NP')
+('Don', '->', u'NP')
+('July', '->', u'NP')
+('F', '->', u'NP')
+('David', '->', u'NP')
+('Mitchell', '->', u'NP')
+('Learned', '->', u'NP')
+('AMA', '->', u'NP')
+('S', '->', u'NP')
+('F', '->', u'NP')
+('E', '->', u'NP')
+('Smith', '->', u'NP')
+('E', '->', u'NP')
+('Job', '->', u'NP')
+('AMA', '->', u'NP')
+('Ferro', '->', u'NP')
+('Self', '->', u'NP')
+('Dennis', '->', u'NP')
+('Sophocles', '->', u'NP')
+('Chance', '->', u'NP')
+('Gay', '->', u'NP')
+('Myers', '->', u'NP')
+('Briggs', '->', u'NP')
+('Pretty', '->', u'NP')
+('Sheets', '->', u'NP')
+('Job', '->', u'NP')
+('Self', '->', u'NP')
+('San', '->', u'NP')
+('Francisco', '->', u'NP')
+('Job', '->', u'NP')
+('Don', '->', u'NP')
+('Daniel', '->', u'NP')
+('Plainview', '->', u'NP')
+('T', '->', u'NP')
+('Toronto', '->', u'NP')
+('AMA', '->', u'NP')
+('Halloween', '->', u'NP')
+('S', '->', u'NP')
+('Job', '->', u'NP')
+('Monk', '->', u'NP')
+('F', '->', u'NP')
+('Chicago', '->', u'NP')
+('AMA', '->', u'NP')
+('Halloween', '->', u'NP')
+('Austin', '->', u'NP')
+53 
+
+12818

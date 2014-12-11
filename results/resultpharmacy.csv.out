@@ -1,0 +1,11 @@
+pharmacy.csv
+0
+Sentiment(classification='pos', p_pos=0.63839679395571347, p_neg=0.36160320604428753)
+
+
+1
+Sentiment(classification='neg', p_pos=0.21267565501529703, p_neg=0.78732434498470349)
+
+
+
+

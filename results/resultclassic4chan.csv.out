@@ -1,0 +1,11 @@
+classic4chan.csv
+0
+Sentiment(classification='neg', p_pos=0.375, p_neg=0.62499999999999978)
+
+
+1
+Sentiment(classification='pos', p_pos=0.6941747572815532, p_neg=0.30582524271844647)
+
+
+
+

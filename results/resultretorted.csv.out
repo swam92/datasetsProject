@@ -1,0 +1,67 @@
+retorted.csv
+0
+Sentiment(classification='pos', p_pos=0.52241834721930303, p_neg=0.47758165278069664)
+
+
+1
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+
+
+0.285714285714 0.535714285714 0.48879082639 0.51120917361
+0
+trolling my cousin, am i doing it right?
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('God', '->', u'NP')
+('April', '->', u'NP')
+('God', '->', u'NP')
+('Forrest', '->', u'NP')
+('Don', '->', u'NP')
+('U', '->', u'NP')
+('Matt', '->', u'NP')
+('Valentine', '->', u'NP')
+('Patrick', '->', u'NP')
+('Taylor', '->', u'NP')
+('Swift', '->', u'NP')
+('John', '->', u'NP')
+('Pee', '->', u'NP')
+('Roe', '->', u'NP')
+('America', '->', u'NP')
+('Jesus', '->', u'NP')
+('Gay', '->', u'NP')
+('America', '->', u'NP')
+('Pretty', '->', u'NP')
+('Europe', '->', u'NP')
+('Friend', '->', u'NP')
+('Bing', '->', u'NP')
+('Friend', '->', u'NP')
+('Don', '->', u'NP')
+('Amazon', '->', u'NP')
+('Lock', '->', u'NP')
+('Friend', '->', u'NP')
+('Brian', '->', u'NP')
+('Griffin', '->', u'NP')
+('Alex', '->', u'NP')
+('Mike', '->', u'NP')
+('Williams', '->', u'NP')
+('Jerry', '->', u'NP')
+('Garcia', '->', u'NP')
+('Morgan', '->', u'NP')
+('Freeman', '->', u'NP')
+('God', '->', u'NP')
+('God', '->', u'NP')
+('Cameron', '->', u'NP')
+('Friend', '->', u'NP')
+('Peter', '->', u'NP')
+('Parker', '->', u'NP')
+('Guy', '->', u'NP')
+('Truman', '->', u'NP')
+('Taylor', '->', u'NP')
+('Swift', '->', u'NP')
+('El', '->', u'NP')
+('El', '->', u'NP')
+('zing', '->', u'NP')
+49 
+
+3385

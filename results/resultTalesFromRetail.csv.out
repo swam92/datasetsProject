@@ -1,0 +1,11 @@
+TalesFromRetail.csv
+0
+Sentiment(classification='pos', p_pos=0.67050630292214541, p_neg=0.32949369707785464)
+
+
+1
+Sentiment(classification='neg', p_pos=0.49500459045305062, p_neg=0.50499540954694966)
+
+
+
+

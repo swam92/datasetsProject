@@ -1,0 +1,11 @@
+GreenDawn.csv
+0
+Sentiment(classification='pos', p_pos=0.97682945185081382, p_neg=0.023170548149184535)
+
+
+1
+Sentiment(classification='neg', p_pos=0.44761566398231467, p_neg=0.55238433601768622)
+
+
+
+

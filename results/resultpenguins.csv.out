@@ -1,0 +1,11 @@
+penguins.csv
+0
+Sentiment(classification='neg', p_pos=0.06177365903703582, p_neg=0.93822634096296365)
+
+
+1
+Sentiment(classification='pos', p_pos=0.73550096210350746, p_neg=0.26449903789649098)
+
+
+
+

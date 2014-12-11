@@ -1,0 +1,38 @@
+MicroPorn.csv
+0
+Sentiment(classification='neg', p_pos=0.42569901237835533, p_neg=0.57430098762164705)
+
+
+1
+Sentiment(classification='pos', p_pos=0.75360346187440197, p_neg=0.24639653812559911)
+
+
+
+
+0.0 0.1 0.410348762874 0.589651237126
+0
+Lichen micro scan [500x500]
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Oliver', '->', u'NP')
+('E', '->', u'NP')
+('Wolf', '->', u'NP')
+('Abe', '->', u'NP')
+('Lincoln', '->', u'NP')
+('Penny', '->', u'NP')
+('Lilac', '->', u'NP')
+('Rust', '->', u'NP')
+('Mite', '->', u'NP')
+('B', '->', u'NP')
+('E', '->', u'NP')
+('Lilac', '->', u'NP')
+('June', '->', u'NP')
+('Lilly', '->', u'NP')
+('Igor', '->', u'NP')
+('B', '->', u'NP')
+('B', '->', u'NP')
+('Igor', '->', u'NP')
+('302', '->', u'NP')
+('Black', '->', u'NP')
+20 
+
+1471

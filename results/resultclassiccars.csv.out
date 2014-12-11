@@ -1,0 +1,11 @@
+classiccars.csv
+0
+Sentiment(classification='pos', p_pos=0.58036917652623332, p_neg=0.41963082347376646)
+
+
+1
+Sentiment(classification='pos', p_pos=0.59337957175191014, p_neg=0.40662042824808919)
+
+
+
+

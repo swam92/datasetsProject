@@ -1,0 +1,73 @@
+AngieVaronaLegal.csv
+0
+Sentiment(classification='neg', p_pos=0.49250000000000016, p_neg=0.50749999999999984)
+
+
+1
+Sentiment(classification='neg', p_pos=0.33572507615082914, p_neg=0.66427492384917097)
+
+
+
+
+0.125 0.2 0.585887461925 0.414112538075
+0
+Suggestion: Let's get a fund together for an Angie Varona AMA and payment for long overdue nude photos
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('July', '->', u'NP')
+('Ball', '->', u'NP')
+('Boston', '->', u'NP')
+('Angie', '->', u'NP')
+('Angie', '->', u'NP')
+('Grey', '->', u'NP')
+('Christmas', '->', u'NP')
+('Eve', '->', u'NP')
+('Black', '->', u'NP')
+('Self', '->', u'NP')
+('Black', '->', u'NP')
+('Black', '->', u'NP')
+('Santa', '->', u'NP')
+('Lil', '->', u'NP')
+('July', '->', u'NP')
+('Black', '->', u'NP')
+('Self', '->', u'NP')
+('Angie', '->', u'NP')
+('S', '->', u'NP')
+('Angie', '->', u'NP')
+('Angie', '->', u'NP')
+('Angie', '->', u'NP')
+('Angie', '->', u'NP')
+('Angie', '->', u'NP')
+('Black', '->', u'NP')
+('Santa', '->', u'NP')
+('Boston', '->', u'NP')
+('Bird', '->', u'NP')
+('Angie', '->', u'NP')
+('Angie', '->', u'NP')
+('Black', '->', u'NP')
+('Jack', '->', u'NP')
+('Angie', '->', u'NP')
+('God', '->', u'NP')
+('America', '->', u'NP')
+('B', '->', u'NP')
+('W', '->', u'NP')
+('Black', '->', u'NP')
+('B', '->', u'NP')
+('W', '->', u'NP')
+('Angie', '->', u'NP')
+('Angie', '->', u'NP')
+('Valentine', '->', u'NP')
+('Angie', '->', u'NP')
+('B', '->', u'NP')
+('W', '->', u'NP')
+('Angie', '->', u'NP')
+('AMA', '->', u'NP')
+('Angie', '->', u'NP')
+('AMA', '->', u'NP')
+('Angie', '->', u'NP')
+('Angie', '->', u'NP')
+('Angie', '->', u'NP')
+('Angie', '->', u'NP')
+('AMA', '->', u'NP')
+55 
+
+1902

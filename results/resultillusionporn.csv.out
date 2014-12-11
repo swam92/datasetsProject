@@ -1,0 +1,11 @@
+illusionporn.csv
+0
+Sentiment(classification='pos', p_pos=0.86255322424663605, p_neg=0.13744677575336386)
+
+
+1
+Sentiment(classification='neg', p_pos=0.45000000000000012, p_neg=0.54999999999999993)
+
+
+
+

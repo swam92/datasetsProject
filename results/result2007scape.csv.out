@@ -1,0 +1,67 @@
+2007scape.csv
+0
+Sentiment(classification='pos', p_pos=0.64378427920964976, p_neg=0.35621572079034997)
+
+
+1
+Sentiment(classification='pos', p_pos=0.92353985793212179, p_neg=0.076460142067876893)
+
+
+
+
+-0.292857142857 0.7 0.216337931429 0.783662068571
+0
+I just wanted some advice. There's no need to call names, old man.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('AMA', '->', u'NP')
+('Met', '->', u'NP')
+('Don', '->', u'NP')
+('Friend', '->', u'NP')
+('Barrow', '->', u'NP')
+('K', '->', u'NP')
+('Don', '->', u'NP')
+('Nautilus', '->', u'NP')
+('Self', '->', u'NP')
+('Pretty', '->', u'NP')
+('Jesus', '->', u'NP')
+('Player', '->', u'NP')
+('Green', '->', u'NP')
+('Pretty', '->', u'NP')
+('Purgatory', '->', u'NP')
+('Mark', '->', u'NP')
+('K', '->', u'NP')
+('God', '->', u'NP')
+('April', '->', u'NP')
+('Friend', '->', u'NP')
+('Don', '->', u'NP')
+('Sell', '->', u'NP')
+('K', '->', u'NP')
+('Worth', '->', u'NP')
+('Player', '->', u'NP')
+('Al', '->', u'NP')
+('Guy', '->', u'NP')
+('Greg', '->', u'NP')
+('Easter', '->', u'NP')
+('April', '->', u'NP')
+('K', '->', u'NP')
+('G', '->', u'NP')
+('Sandwich', '->', u'NP')
+('Guy', '->', u'NP')
+('Ryan', '->', u'NP')
+('Worth', '->', u'NP')
+('B', '->', u'NP')
+('Max', '->', u'NP')
+('God', '->', u'NP')
+('Hunter', '->', u'NP')
+('Worth', '->', u'NP')
+('Low', '->', u'NP')
+('Herb', '->', u'NP')
+('Herb', '->', u'NP')
+('March', '->', u'NP')
+('K', '->', u'NP')
+('Mark', '->', u'NP')
+('Don', '->', u'NP')
+('K', '->', u'NP')
+49 
+
+9810

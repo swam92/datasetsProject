@@ -1,0 +1,11 @@
+bestofbronze.csv
+0
+Sentiment(classification='pos', p_pos=0.5, p_neg=0.5)
+
+
+1
+Sentiment(classification='neg', p_pos=0.49504318209463588, p_neg=0.5049568179053644)
+
+
+
+

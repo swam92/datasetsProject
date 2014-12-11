@@ -1,0 +1,73 @@
+oblivion.csv
+0
+Sentiment(classification='neg', p_pos=0.02248099675240376, p_neg=0.97751900324759777)
+
+
+1
+Sentiment(classification='pos', p_pos=0.50205655526992254, p_neg=0.49794344473007679)
+
+
+
+
+-0.0714285714286 0.214285714286 0.737731223989 0.262268776011
+0
+Dagon Shrine story of survival
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Martin', '->', u'NP')
+('Tom', '->', u'NP')
+('Cruise', '->', u'NP')
+('Rome', '->', u'NP')
+('George', '->', u'NP')
+('Zimmerman', '->', u'NP')
+('Tiber', '->', u'NP')
+('Guy', '->', u'NP')
+('Dawn', '->', u'NP')
+('Christmas', '->', u'NP')
+('Martin', '->', u'NP')
+('Japan', '->', u'NP')
+('Jack', '->', u'NP')
+('T', '->', u'NP')
+('May', '->', u'NP')
+('Freddie', '->', u'NP')
+('Mercury', '->', u'NP')
+('Hard', '->', u'NP')
+('Don', '->', u'NP')
+('Soule', '->', u'NP')
+('Burma', '->', u'NP')
+('Soule', '->', u'NP')
+('London', '->', u'NP')
+('Lucien', '->', u'NP')
+('B', '->', u'NP')
+('Utah', '->', u'NP')
+('Guy', '->', u'NP')
+('F', '->', u'NP')
+('Slaughter', '->', u'NP')
+('Fox', '->', u'NP')
+('Guy', '->', u'NP')
+('Tom', '->', u'NP')
+('Black', '->', u'NP')
+('Ferdinand', '->', u'NP')
+('Jack', '->', u'NP')
+('Cap', '->', u'NP')
+('Earl', '->', u'NP')
+('B', '->', u'NP')
+('Learned', '->', u'NP')
+('Black', '->', u'NP')
+('T', '->', u'NP')
+('Helm', '->', u'NP')
+('Gates', '->', u'NP')
+('T', '->', u'NP')
+('E', '->', u'NP')
+('S', '->', u'NP')
+('Sierra', '->', u'NP')
+('Player', '->', u'NP')
+('Marcus', '->', u'NP')
+('Cliff', '->', u'NP')
+('Russia', '->', u'NP')
+('Green', '->', u'NP')
+('Black', '->', u'NP')
+('Cool', '->', u'NP')
+('Lucien', '->', u'NP')
+55 
+
+12211

@@ -1,0 +1,41 @@
+AmateurRoomPorn.csv
+0
+Sentiment(classification='neg', p_pos=0.26935902258396605, p_neg=0.73064097741603606)
+
+
+1
+Sentiment(classification='neg', p_pos=0.40167128625922788, p_neg=0.59832871374077257)
+
+
+
+
+-0.125 0.225 0.664484845578 0.335515154422
+0
+Not much but I like it.
+Sentiment(polarity=0.34999999999999998, subjectivity=0.65000000000000002)
+('Bohemian', '->', u'NP')
+('Cool', '->', u'NP')
+('Guest', '->', u'NP')
+('Herb', '->', u'NP')
+('Green', '->', u'NP')
+('Washington', '->', u'NP')
+('London', '->', u'NP')
+('Black', '->', u'NP')
+('Philadelphia', '->', u'NP')
+('Cool', '->', u'NP')
+('Black', '->', u'NP')
+('Bright', '->', u'NP')
+('Cool', '->', u'NP')
+('Cool', '->', u'NP')
+('Black', '->', u'NP')
+('Grey', '->', u'NP')
+('Bohemian', '->', u'NP')
+('von', '->', u'NP')
+('Pretty', '->', u'NP')
+('Grey', '->', u'NP')
+('Los', '->', u'NP')
+('Angeles', '->', u'NP')
+('Chicago', '->', u'NP')
+23 
+
+2155
