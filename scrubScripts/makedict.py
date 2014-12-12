@@ -4,7 +4,7 @@ import os
 def getheaders():
   lines = open('headers.txt','w');
   for file in os.listdir("data"):
-    source = open('data/'+file,'r');
+    source = open('../data/'+file,'r');
     for line in reader(source):
       newline = ''
       for col in line:
@@ -38,3 +38,13 @@ def makedict():
       i += 1
   filenames.write('}')
   filenames.close()
+
+def makelistfiles():
+  filenames = open('datafiles.txt','w');
+  for file in os.listdir("../data"):
+    filenames.write(file+"\n")
+  filenames.close()
+
+def main():
+  makelistfiles()
+main()

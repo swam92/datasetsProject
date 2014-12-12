@@ -2,11 +2,10 @@ import re
 import csv
 import nltk
 from nltk.classify import*
-import sys 
+import os
 meaninglessWords = []
 featureList = []
 
-csv_file = sys.argv[1]
 #normalize the post
 def process(topRedditPost):
 	topRedditPost = topRedditPost.lower()
@@ -85,21 +84,21 @@ pos_count = 0
 neg_count = 0
 #######
 #THIS IS WHERE THE CSV IS READ FROM SO WE SHOULD ITERATE FROM HERE
-<<<<<<< HEAD
-for t in csv.DictReader(open(csv_file), delimiter=','):
-=======
-print naivesBayes.show_most_informative_features(10)
+#for t in csv.DictReader(open(csv_file), delimiter=','):
+#  print naivesBayes.show_most_informative_features(10)
+for file in os.listdir("data"):
+  source = open("data/"+file,'r')
+  for t in csv.DictReader(source, delimiter=','):
+    postToProcess = str(t['title'])
+    postToProcess = postToProcess.decode('utf-8')
+    result = naivesBayes.classify(extract_features(feature_Modified(postToProcess)))
+    if(result == 'positive'):
+      print (str(t['id'])+"\t1")
+      pos_count = pos_count+1
+    else:
+      print (str(t['id'])+"\t0")
+      neg_count = neg_count + 1
+    #print naivesBayes.classify(extract_features(feature_Modified(postToProcess)))
 
-for t in csv.DictReader(open('data/politics.csv'), delimiter=','):
->>>>>>> 3310db9ed6cb51c077d05d5a3dd2f27119da60e2
-	postToProcess = str(t['title'])
-	postToProcess = postToProcess.decode('utf-8')
-	result = naivesBayes.classify(extract_features(feature_Modified(postToProcess)))
-	if(result == 'positive'):
-		pos_count = pos_count+1
-	else:
-		neg_count = neg_count + 1
-	#print naivesBayes.classify(extract_features(feature_Modified(postToProcess)))
 
-
-print pos_count, " ", neg_count
+#print pos_count, " ", neg_count
