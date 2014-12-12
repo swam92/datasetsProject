@@ -21,7 +21,6 @@ countForSentiment=0
 for t in csv.DictReader(open('data/911truth.csv'), delimiter=','):
     if count == 20:
         break
-    print count
     count=count+1
     into = str(t['title'])
     into = into.decode('utf-8')
@@ -44,7 +43,7 @@ for t in csv.DictReader(open('data/911truth.csv'), delimiter=','):
     words.extend(t['title'].lower().split()) # <-----------
 
 
-print '\n'
+print '\n AGGREGATED SUBREDDIT INFORMATION IS BELOW\n'
 polarTotal = polar / countForSentiment
 subjTotal = subj / countForSentiment
 negTotal = neg / count
