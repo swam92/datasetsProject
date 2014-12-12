@@ -2,10 +2,11 @@ import re
 import csv
 import nltk
 from nltk.classify import*
-
+import sys 
 meaninglessWords = []
 featureList = []
 
+csv_file = sys.argv[1]
 #normalize the post
 def process(topRedditPost):
 	topRedditPost = topRedditPost.lower()
@@ -84,7 +85,7 @@ pos_count = 0
 neg_count = 0
 #######
 #THIS IS WHERE THE CSV IS READ FROM SO WE SHOULD ITERATE FROM HERE
-for t in csv.DictReader(open('data/911truth.csv'), delimiter=','):
+for t in csv.DictReader(open(csv_file), delimiter=','):
 	postToProcess = str(t['title'])
 	postToProcess = postToProcess.decode('utf-8')
 	result = naivesBayes.classify(extract_features(feature_Modified(postToProcess)))
