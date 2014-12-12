@@ -85,6 +85,7 @@ pos_count = 0
 neg_count = 0
 #######
 #THIS IS WHERE THE CSV IS READ FROM SO WE SHOULD ITERATE FROM HERE
+
 for t in csv.DictReader(open('data/911truth.csv'), delimiter=','):
 #  print naivesBayes.show_most_informative_features(10)
 	postToProcess = str(t['title'])
@@ -95,6 +96,22 @@ for t in csv.DictReader(open('data/911truth.csv'), delimiter=','):
 		pos_count = pos_count+1
 	else:
 		neg_count = neg_count + 1
+
+#for t in csv.DictReader(open(csv_file), delimiter=','):
+#  print naivesBayes.show_most_informative_features(10)
+for file in os.listdir("data"):
+  source = open("data/"+file,'r')
+  for t in csv.DictReader(source, delimiter=','):
+    postToProcess = str(t['title'])
+    postToProcess = postToProcess.decode('utf-8')
+    result = naivesBayes.classify(extract_features(feature_Modified(postToProcess)))
+    if(result == 'positive'):
+      print (str(t['id'])+"\t1")
+      pos_count = pos_count+1
+    else:
+      print (str(t['id'])+"\t0")
+      neg_count = neg_count + 1
+    #print naivesBayes.classify(extract_features(feature_Modified(postToProcess)))
 
 
 #print pos_count, " ", neg_count
