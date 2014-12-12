@@ -33,7 +33,7 @@ def feature(post, words):
 	for word in words:
 		word = word.strip('\'"?,.')
 		value = re.search(r"^[a-zA-Z][a-zA-Z0-9]*$", word)
-		if(value is None):
+		if(word in words or value is None):
 			continue
 		else:
 			featureList.append(word.lower())
@@ -79,13 +79,19 @@ def extract_features(post):
 	return features
 
 trainingSet = nltk.classify.util.apply_features(extract_features, predictors)
-naivesBayes = NBClassifier = nltk.NaiveBayesClassifier.train(trainingSet)
+naivesBayes = nltk.NaiveBayesClassifier.train(trainingSet)
 
 pos_count = 0
 neg_count = 0
 #######
 #THIS IS WHERE THE CSV IS READ FROM SO WE SHOULD ITERATE FROM HERE
+<<<<<<< HEAD
 for t in csv.DictReader(open(csv_file), delimiter=','):
+=======
+print naivesBayes.show_most_informative_features(10)
+
+for t in csv.DictReader(open('data/politics.csv'), delimiter=','):
+>>>>>>> 3310db9ed6cb51c077d05d5a3dd2f27119da60e2
 	postToProcess = str(t['title'])
 	postToProcess = postToProcess.decode('utf-8')
 	result = naivesBayes.classify(extract_features(feature_Modified(postToProcess)))
@@ -93,7 +99,7 @@ for t in csv.DictReader(open(csv_file), delimiter=','):
 		pos_count = pos_count+1
 	else:
 		neg_count = neg_count + 1
-	print naivesBayes.classify(extract_features(feature_Modified(postToProcess)))
+	#print naivesBayes.classify(extract_features(feature_Modified(postToProcess)))
 
 
 print pos_count, " ", neg_count
