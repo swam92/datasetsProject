@@ -5,7 +5,9 @@ from textblob import TextBlob
 from textblob.classifiers import NaiveBayesClassifier
 from textblob.sentiments import NaiveBayesAnalyzer
 import pprint
+import sys
 
+csv_file = sys.argv[1]
 words = []
 words_red = []
 #######################
@@ -18,32 +20,33 @@ count=0
 pos=0
 neg=0
 countForSentiment=0
-for t in csv.DictReader(open('data/911truth.csv'), delimiter=','):
-    if count == 20:
-        break
+
+print("CSV_FILE_NAME:"+csv_file)
+
+for t in csv.DictReader(open(csv_file), delimiter=','):
     count=count+1
     into = str(t['title'])
     into = into.decode('utf-8')
     blob = TextBlob(into, analyzer = NaiveBayesAnalyzer())
-    print "positivity- ",blob.sentiment.p_pos
-    print "negativity- ",blob.sentiment.p_neg
-
+    print "positivity:",blob.sentiment.p_pos
+    print "negativity:",blob.sentiment.p_neg
 
     pos = pos + blob.sentiment.p_pos
     neg = neg + blob.sentiment.p_neg
     test = TextBlob(into)
     if(test.sentiment.polarity != 0 or test.sentiment.subjectivity !=0 ):
         polar = polar + test.sentiment.polarity
-        print "subjectivity ", test.sentiment.subjectivity
-        print "polarity ", test.sentiment.polarity
         subj  = subj + test.sentiment.subjectivity
+        print "subjectivity:", test.sentiment.subjectivity
+        print "polarity:", test.sentiment.polarity
         countForSentiment = countForSentiment+1
+        print (str(t['id'])+"\t"+str(test.sentiment.subjectivity)+"\t"+str(test.sentiment.polarity))
     #print test.sentiment.polarity
     #print test.sentiment.subjectivity
     words.extend(t['title'].lower().split()) # <-----------
 
 
-print '\n AGGREGATED SUBREDDIT INFORMATION IS BELOW\n'
+print '\nAGGREGATED SUBREDDIT INFORMATION IS BELOW\n'
 polarTotal = polar / countForSentiment
 subjTotal = subj / countForSentiment
 negTotal = neg / count
