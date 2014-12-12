@@ -107,7 +107,6 @@ def tag(text):
         wordCount = wordCount + 1
         if(tag == 'NP'):
             pnTagger = pnTagger + 1
-            print(word, '->', tag)
 
     tagged.sort(lambda x,y:cmp(x[1],y[1]))
     print pnTagger, '\n'
@@ -124,8 +123,6 @@ def main():
 	#pprint.pprint(l)
 
 
-test = TextBlob("This is so cool")
-print test.sentiment
 
 if __name__ == '__main__':
     main()
