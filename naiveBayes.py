@@ -2,11 +2,10 @@ import re
 import csv
 import nltk
 from nltk.classify import*
-import sys 
+import os
 meaninglessWords = []
 featureList = []
 
-csv_file = sys.argv[1]
 #normalize the post
 def process(topRedditPost):
 	topRedditPost = topRedditPost.lower()
@@ -49,7 +48,7 @@ def feature_Modified(post):
 	for word in words:
 		word = word.strip('\'"?,.')
 		value = re.search(r"^[a-zA-Z][a-zA-Z0-9]*$", word)
-		if(value is None):
+		if(value is None or word in meaninglessWords):
 			continue
 		else:
 			featureList.append(word.lower())
@@ -75,6 +74,7 @@ def extract_features(post):
 	post_words = set(post)
 	features = {}
 	for word in featureList:
+		print word
 		features['contains(%s)' % word] = (word in post_words)
 	return features
 
@@ -85,21 +85,16 @@ pos_count = 0
 neg_count = 0
 #######
 #THIS IS WHERE THE CSV IS READ FROM SO WE SHOULD ITERATE FROM HERE
-<<<<<<< HEAD
-for t in csv.DictReader(open(csv_file), delimiter=','):
-=======
-print naivesBayes.show_most_informative_features(10)
-
-for t in csv.DictReader(open('data/politics.csv'), delimiter=','):
->>>>>>> 3310db9ed6cb51c077d05d5a3dd2f27119da60e2
+for t in csv.DictReader(open('data/911truth.csv'), delimiter=','):
+#  print naivesBayes.show_most_informative_features(10)
 	postToProcess = str(t['title'])
 	postToProcess = postToProcess.decode('utf-8')
+	postToProcess = process(postToProcess)
 	result = naivesBayes.classify(extract_features(feature_Modified(postToProcess)))
 	if(result == 'positive'):
 		pos_count = pos_count+1
 	else:
 		neg_count = neg_count + 1
-	#print naivesBayes.classify(extract_features(feature_Modified(postToProcess)))
 
 
-print pos_count, " ", neg_count
+#print pos_count, " ", neg_count
