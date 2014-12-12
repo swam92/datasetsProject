@@ -19,26 +19,31 @@ pos=0
 neg=0
 countForSentiment=0
 for t in csv.DictReader(open('data/911truth.csv'), delimiter=','):
-    if count == 2:
+    if count == 20:
         break
-    print count
     count=count+1
     into = str(t['title'])
     into = into.decode('utf-8')
     blob = TextBlob(into, analyzer = NaiveBayesAnalyzer())
-    print blob.sentiment
+    print "positivity- ",blob.sentiment.p_pos
+    print "negativity- ",blob.sentiment.p_neg
+
+
     pos = pos + blob.sentiment.p_pos
     neg = neg + blob.sentiment.p_neg
     test = TextBlob(into)
     if(test.sentiment.polarity != 0 or test.sentiment.subjectivity !=0 ):
         polar = polar + test.sentiment.polarity
+        print "subjectivity ", test.sentiment.subjectivity
+        print "polarity ", test.sentiment.polarity
         subj  = subj + test.sentiment.subjectivity
         countForSentiment = countForSentiment+1
-    print '\n'
+    #print test.sentiment.polarity
+    #print test.sentiment.subjectivity
     words.extend(t['title'].lower().split()) # <-----------
 
 
-print '\n'
+print '\n AGGREGATED SUBREDDIT INFORMATION IS BELOW\n'
 polarTotal = polar / countForSentiment
 subjTotal = subj / countForSentiment
 negTotal = neg / count
@@ -102,7 +107,6 @@ def tag(text):
         wordCount = wordCount + 1
         if(tag == 'NP'):
             pnTagger = pnTagger + 1
-            print(word, '->', tag)
 
     tagged.sort(lambda x,y:cmp(x[1],y[1]))
     print pnTagger, '\n'
@@ -119,8 +123,6 @@ def main():
 	#pprint.pprint(l)
 
 
-test = TextBlob("This is so cool")
-print test.sentiment
 
 if __name__ == '__main__':
     main()
