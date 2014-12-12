@@ -68,7 +68,10 @@ We have 3 news articles from NYT, Fox, and CNN for each event.  These are stored
 
 * News articles will fit into the densest cluster of sentiment.  They will not represent extreme opinion but rather a more neutral ideology.
 
-* Different news sources will maintain different average sentiments.  This may be based on political leaning.
+* Different news sources will maintain different average sentiments.  This may be based on political leaning
+
+#####METHODS
+We will use positivity, negativity, objectivity, and polarity as predictors.  
 
 
 
