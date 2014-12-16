@@ -1,0 +1,42 @@
+SELECT AVG(ups) FROM redditdata;
+SELECT STDDEV(ups) FROM redditdata;
+
+--Checks to see if query pulled the date range we wanted
+SELECT FROM_UNIXTIME(created_utc) as timedate
+FROM redditdata
+WHERE created_utc > UNIX_TIMESTAMP('2012-12-07')
+AND created_utc < UNIX_TIMESTAMP('2012-12-31');
+
+--Calculates average of the above
+SELECT AVG(ups)
+FROM redditdata
+WHERE created_utc > UNIX_TIMESTAMP('2012-12-07')
+AND created_utc < UNIX_TIMESTAMP('2012-12-31');
+
+--Calculates std deviation of the above
+SELECT STDDEV(ups)/COUNT(ups)
+FROM redditdata
+WHERE created_utc > UNIX_TIMESTAMP('2012-12-07')
+AND created_utc < UNIX_TIMESTAMP('2012-12-31');
+
+SELECT subreddit_id,AVG(ups)-332.9229,STDDEV(ups)
+FROM redditdata
+WHERE created_utc > UNIX_TIMESTAMP('2012-12-07')
+AND created_utc < UNIX_TIMESTAMP('2012-12-31')
+GROUP BY subreddit_id;
+
+--Would have liked to export into file too :(
+SELECT ups,downs,score,id
+FROM redditdata
+WHERE created_utc > UNIX_TIMESTAMP('2012-12-07')
+AND created_utc < UNIX_TIMESTAMP('2012-12-31')
+INTO OUTFILE '/home/yc801/mysql/newtown.csv'
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n';
+
+SELECT subreddit_id,(AVG(ups)-332.9229)/sqrt(STDDEV(ups)+1677.8185) AS pval
+FROM redditdata
+WHERE created_utc > UNIX_TIMESTAMP('2012-12-07')
+AND created_utc < UNIX_TIMESTAMP('2012-12-31')
+GROUP BY subreddit_id;
