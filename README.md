@@ -73,6 +73,10 @@ We have 3 news articles from NYT, Fox, and CNN for each event.  These are stored
 #####METHODS
 We will use positivity, negativity, objectivity, and polarity as predictors.  
 
+##### Results
+These are the clusters that we were able to render through our Sentiment Analysis.
+A week Before Sandy Hook:
+![alt tag](https://raw.githubusercontent.com/swam92/datasetsProject/master/FinalResults/TotalWeekCluster.png)
 
 
 
