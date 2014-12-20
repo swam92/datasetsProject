@@ -1,19 +1,19 @@
 SELECT AVG(ups) FROM redditdata;
 SELECT STDDEV(ups) FROM redditdata;
 
-—queries on subjectivity polarity based on time range
+—-queries on subjectivity polarity based on time range
 SELECT s.sentiment, s.polarity
 FROM redditdata r
 INNER JOIN sentipolar s ON r.id = s.id
-WHERE r.created_utc > UNIX_TIMESTAMP('2012-12-06')
-AND r.created_utc < UNIX_TIMESTAMP('2012-12-13');
+WHERE r.created_utc > UNIX_TIMESTAMP('2012-05-18')
+AND r.created_utc < UNIX_TIMESTAMP('2012-05-25');
 
 —queries on subjectivity polarity based on time range, GROUPED BY SUBREDDIT
 SELECT AVG(s.sentiment), AVG(s.polarity)
 FROM redditdata r
 INNER JOIN sentipolar s ON r.id = s.id
-WHERE r.created_utc > UNIX_TIMESTAMP('2012-12-06')
-AND r.created_utc < UNIX_TIMESTAMP('2012-12-13')
+WHERE r.created_utc > UNIX_TIMESTAMP('2012-05-18')
+AND r.created_utc < UNIX_TIMESTAMP('2012-05-25')
 GROUP BY r.subreddit_id;
 
 --Checks to see if query pulled the date range we wanted
