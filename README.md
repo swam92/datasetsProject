@@ -75,10 +75,30 @@ We will use positivity, negativity, objectivity, and polarity as predictors.
 
 ##### Results
 These are the clusters that we were able to render through our Sentiment Analysis.
+
 A week Before Sandy Hook:
 ![alt tag](https://raw.githubusercontent.com/swam92/datasetsProject/master/FinalResults/TotalWeekCluster.png)
+
 A week After Sandy Hook:
 ![alt tag](https://github.com/swam92/datasetsProject/blob/master/FinalResults/weekAfterSandy.png)
+
+A week before Boston Marathon Bombing:
+![alt tag](https://raw.githubusercontent.com/Stefaney/datasetsProject/master/FinalResults/BostonBefore.png)
+
+A week After Boston Marathon Bombing:
+![alt tag](https://raw.githubusercontent.com/swam92/datasetsProject/master/FinalResults/BostonAfter.png)
+
+A week before Facebook IPO:
+![alt tag](https://raw.githubusercontent.com/swam92/datasetsProject/master/FinalResults/FacebookBefore.png)
+
+A week after Facebook IPO:
+![alt tag](https://raw.githubusercontent.com/swam92/datasetsProject/master/FinalResults/FacebookAfter.png)
+
+A week before NSA Prism Leak:
+![alt tag](https://raw.githubusercontent.com/swam92/datasetsProject/master/FinalResults/NSABefore.png)
+
+A week after NSA Prism Leak:
+![alt tag](https://raw.githubusercontent.com/swam92/datasetsProject/master/FinalResults/NSAafter.png)
 
 
 
